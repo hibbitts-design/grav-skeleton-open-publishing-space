@@ -1,0 +1,9 @@
+streams:
+  schemes:
+    theme:
+      type: ReadOnlyStream
+      prefixes:
+        '': [user/themes/antimatter-git-sync, user/themes/antimatter]
+display_of_git_sync_repo_link: menu
+type_of_git_sync_repo_link: view
+custom_git_sync_repo_link_text: 'Edit this Page'
