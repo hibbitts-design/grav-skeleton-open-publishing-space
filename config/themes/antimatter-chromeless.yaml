@@ -1,8 +1,0 @@
-streams:
-  schemes:
-    theme:
-      type: ReadOnlyStream
-      prefixes:
-        '': [user/themes/antimatter-chromeless, user/themes/antimatter]
-chromeless:
-  enabled: true

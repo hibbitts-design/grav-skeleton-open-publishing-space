@@ -1,0 +1,17 @@
+streams:
+  schemes:
+    theme:
+      type: ReadOnlyStream
+      prefixes:
+        '': [user/themes/mytheme, user/themes/antimatter-open-publishing, user/themes/antimatter]
+chromeless:
+  enabled: false
+display_of_git_sync_repo_link: footer
+type_of_git_sync_repo_link: view
+displaycustommenus:
+  enabled: false
+displaypostsummary:
+  enabled: false
+cc_license:
+  enabled: false
+  type: ccby
