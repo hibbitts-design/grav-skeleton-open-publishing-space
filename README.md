@@ -77,6 +77,7 @@ All pages support the following additional options:
 ```
 hide_git_sync_repo_link: true  # hide Git Sync link for this page
 git_sync_repo_link: https://github.com/hibbitts-design/grav-skeleton-course-hub/tree/master/pages/01.home   # to override the automatically calculated GitHub URL
+```
 
 ### Theme Options
 ![ Antimatter Open Publishing Theme Options](https://github.com/paulhibbitts/github-repo-images/blob/master/antimatter-open-publishing-theme-options.png?raw=true)
