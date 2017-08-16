@@ -1,6 +1,6 @@
-# Antimatter Open Publishing Inherited Theme
+# Antimatter Open Publishing Skeleton
 
-![ Antimatter Open Publishing](screenshot.jpg)
+![ Antimatter Open Publishing Skeleton](screenshot.jpg)
 
 This skeleton uses the [Antimatter Open Publishing theme](https://github.com/hibbitts-design/grav-theme-antimatter-open-publishing), a customized version of the [Antimatter theme](https://github.com/getgrav/grav-theme-learn2).
 
