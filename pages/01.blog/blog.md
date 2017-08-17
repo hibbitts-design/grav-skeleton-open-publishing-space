@@ -20,4 +20,4 @@ pagination: true
 ---
 
 # My Open Publishing Space
-## A tale of **awesomazing** adventures
+## Publish, share and collaboratively edit Markdown-based content
