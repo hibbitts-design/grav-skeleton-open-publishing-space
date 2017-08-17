@@ -20,5 +20,5 @@ pagination: true
 git_sync_repo_link: https://github.com/paulhibbitts/test-git-sync/tree/master/pages/01.blog
 ---
 
-# My Gravtastic Blog
+# My Open Publishing Space
 ## A tale of **awesomazing** adventures

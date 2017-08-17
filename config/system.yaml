@@ -113,7 +113,7 @@ errors:
   display: '0'
   log: true
 debugger:
-  enabled: false
+  enabled: true
   shutdown:
     close_connection: true
   twig: true

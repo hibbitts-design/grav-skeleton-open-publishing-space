@@ -71,6 +71,10 @@ git:
         url: https://github.com/getgrav/grav-plugin-taxonomylist
         path: user/plugins/taxonomylist
         branch: master
+    tntsearch:
+        url: https://github.com/trilbymedia/grav-plugin-tntsearch
+        path: user/plugins/tntsearch
+        branch: master
     youtube:
         url: https://github.com/getgrav/grav-plugin-youtube
         path: user/plugins/youtube
