@@ -1,6 +1,6 @@
-# Antimatter Open Publishing Skeleton
+# Open Publishing Space Skeleton
 
-![ Antimatter Open Publishing Skeleton](screenshot.jpg)
+![ Open Publishing Space Skeleton](screenshot.jpg)
 
 This skeleton uses the [Antimatter Open Publishing theme](https://github.com/hibbitts-design/grav-theme-antimatter-open-publishing), a customized version of the [Antimatter theme](https://github.com/getgrav/grav-theme-learn2).
 
@@ -84,9 +84,9 @@ git_sync_repo_link: https://github.com/hibbitts-design/grav-skeleton-course-hub/
 
 ## Basic Setup for a New Grav Site
 
-The simplest way to install the Antimatter Open Publishing theme with sample content for Grav is to download and install the Antimatter Open Publishing Skeleton package:
+The simplest way to install the Antimatter Open Publishing theme with sample content for Grav is to download and install the Open Publishing Space Skeleton package:
 
-1. [Download Antimatter Open Publishing Skeleton](http://getgrav.org/downloads/skeletons#extras)
+1. [Download Open Publishing Space Skeleton](http://getgrav.org/downloads/skeletons#extras)
 2. Unzip the package into your web root folder.
 3. Point your browser at the folder.
 4. Job done!

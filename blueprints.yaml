@@ -1,6 +1,6 @@
-name: Antimatter Open Publishing Site
+name: Open Publishing Space
 version: 0.9.0
-description: "Antimatter Open Publishing Site, designed to publish, share and collaboratively edit Markdown-based content. Includes Admin Panel and Git Sync plugins."
+description: "Open Publishing Space, designed to publish, share and collaboratively edit Markdown-based content. Includes Admin Panel and Git Sync plugins."
 icon: git
 author:
  name: Paul Hibbitts
