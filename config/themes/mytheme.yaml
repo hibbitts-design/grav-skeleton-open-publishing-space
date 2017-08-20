@@ -9,10 +9,15 @@ chromeless:
 display_of_git_sync_repo_link: footer
 type_of_git_sync_repo_link: view
 displaycustommenus:
-  enabled: true
+  enabled: false
 displaypostsummary:
   enabled: false
 cc_license:
   enabled: false
   type: ccby
 hidehomemenulink: false
+menu:
+  -
+    text: Grav
+    icon: grav
+    url: 'http://getgrav.org'
