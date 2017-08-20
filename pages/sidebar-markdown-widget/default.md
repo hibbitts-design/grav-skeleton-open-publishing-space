@@ -1,5 +1,5 @@
 ---
-title: Sidebar
+title: Sidebar Markdown Widget
 ---
 
 #### Markdown Widget
