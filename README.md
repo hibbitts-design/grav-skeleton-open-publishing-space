@@ -80,7 +80,7 @@ git_sync_repo_link: https://github.com/hibbitts-design/grav-skeleton-course-hub/
 ```
 
 ### Theme Options
-![ Antimatter Open Publishing Theme Options](https://github.com/paulhibbitts/github-repo-images/blob/master/antimatter-open-publishing-theme-options.png?raw=true)
+![ Antimatter Open Publishing Theme Options](https://raw.githubusercontent.com/paulhibbitts/github-repo-images/e727857cf267ea4aa9910ba6db12a0a67444f584/antimatter-open-publishing-theme-options.png)
 
 ## Basic Setup for a New Grav Site
 
