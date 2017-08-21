@@ -21,3 +21,4 @@ menu:
     text: Grav
     icon: grav
     url: 'http://getgrav.org'
+    target: _blank
