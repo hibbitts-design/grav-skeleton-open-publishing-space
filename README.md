@@ -4,6 +4,19 @@
 
 This skeleton uses the [Antimatter Open Publishing theme](https://github.com/hibbitts-design/grav-theme-antimatter-open-publishing), a customized version of the [Antimatter theme](https://github.com/getgrav/grav-theme-learn2).
 
+### Open Publishing Features
+
+* Integrated support for Git Sync (i.e. view/edit pages in GitHub)
+* 'Chromeless' page display (i.e. only display page content) for embedding pages in a 3rd party system
+* Markdown-based sidebar widget
+* Featured posts (i.e. sticky posts)
+* Custom menubar items
+* Option to toggle page summaries (i.e. summaries are not displayed with page content)
+* Easy-to-use interface to create custom menubar items
+* Option to hide Home page link in menubar
+* Creative Commons license
+* Various Web accessibility enhancements (i.e. hidden H1 page titles)
+
 ### Standard Antimatter Features
 
 * Lightweight and minimal for optimal performance
@@ -12,16 +25,6 @@ This skeleton uses the [Antimatter Open Publishing theme](https://github.com/hib
 * Built-in support for on-page navigation
 * Multiple page template types
 * Fontawesome icon support
-
-### Additional Open Publishing Features
-
-* 'Chromeless' page display (i.e. only display page content)
-* Integrated support for Git Sync (i.e. view/edit pages in GitHub)
-* Markdown sidebar
-* Featured posts (i.e. sticky posts)
-* Custom menu items
-* Option to toggle page summaries (i.e. summaries are not displayed with page content)
-* Creative Commons license
 
 ### Supported Page Templates
 
