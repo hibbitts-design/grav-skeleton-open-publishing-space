@@ -14,7 +14,7 @@ This skeleton uses the [Antimatter Open Publishing theme](https://github.com/hib
 * Option to toggle page summaries (i.e. summaries are not displayed with page content)
 * Easy-to-use interface to create custom menubar items
 * Option to hide Home page link in menubar
-* Creative Commons license
+* Creative Commons license display
 * Various Web accessibility enhancements (i.e. hidden H1 page titles)
 
 ### Standard Antimatter Features
