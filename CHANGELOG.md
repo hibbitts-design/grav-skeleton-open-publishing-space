@@ -1,5 +1,5 @@
 # v0.9.2
-## XX/XX/XXXX
+## 08/30/2017
 
 1. [](#new)
     * Added OER Schema plugin as skeleton dependency
