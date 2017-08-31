@@ -3,6 +3,7 @@
 
 1. [](#new)
     * Added OER Schema plugin as skeleton dependency
+    * Added TNTSearch plugin as skeleton dependency
 
 # v0.9.1
 ## 08/22/2017
