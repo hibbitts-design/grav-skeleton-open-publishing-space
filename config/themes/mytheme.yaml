@@ -8,13 +8,14 @@ chromeless:
   enabled: false
 display_of_git_sync_repo_link: menu
 type_of_git_sync_repo_link: view
-displaycustommenus:
-  enabled: false
+method_for_git_sync: gitsyncplugin
 displaypostsummary:
   enabled: false
 cc_license:
   enabled: false
   type: ccby
+displaycustommenus:
+  enabled: false
 hidehomemenulink: false
 menu:
   -
