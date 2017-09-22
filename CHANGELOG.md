@@ -1,3 +1,10 @@
+# v0.9.4
+## 09/22/2017
+
+1. [](#improved)
+    * Improved global handling of 'chromeless' display mode for embedded pages (thanks Ricardo)
+    * Changed default Admin Panel widgets to Maintenance, Statistics and Page Updates (to make Page Updates more immediately visible) and removed Content Padding
+
 # v0.9.3
 ## 09/22/2017
 
