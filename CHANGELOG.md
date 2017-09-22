@@ -1,3 +1,9 @@
+# v0.9.3
+## 09/22/2017
+
+1. [](#improved)
+    * Updated included Antimatter Open Publishing theme
+
 # v0.9.2
 ## 08/30/2017
 
