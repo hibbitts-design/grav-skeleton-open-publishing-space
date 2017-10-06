@@ -1,3 +1,11 @@
+# v1.0.0
+## 10/06/2017
+
+1. [](#new)
+    * Added support for image alt text on blog post image headers
+    * Added support for image captions on blog post image headers
+    * Added page header option to hide posts from blog index
+
 # v0.9.4
 ## 09/22/2017
 
