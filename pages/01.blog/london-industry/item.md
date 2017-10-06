@@ -4,7 +4,9 @@ date: 13:34 06/07/2017
 taxonomy:
     category: blog
     tag: [city, night, photography]
-alt_text: 'City at night'
+header_image_credit: 'Unsplash'
+header_image_creditlink: 'https://unsplash.com/'
+header_image_alt_text: 'City at night'
 ---
 
 Lorem ipsum fringilla cras tempus sagittis pretium tristique id pulvinar habitant varius interdum vel integer fusce aptent id laoreet condimentum eget urna lectus, congue metus placerat auctor litora pharetra facilisis ultricies convallis, leo bibendum hac tempor bibendum litora phasellus rutrum fermentum.

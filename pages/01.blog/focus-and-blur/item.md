@@ -4,7 +4,9 @@ date: 13:34 06/21/2017
 taxonomy:
     category: blog
     tag: [ocean, birds, photography]
-alt_text: 'Wharf with birds, which blurs into the distance'
+header_image_credit: 'Unsplash'
+header_image_creditlink: 'https://unsplash.com/'
+header_image_alt_text: 'Wharf with birds, which blurs into the distance'
 ---
 
 Lorem ipsum fringilla cras tempus sagittis pretium tristique id pulvinar habitant varius interdum vel integer fusce aptent id laoreet condimentum eget urna lectus, congue metus placerat auctor litora pharetra facilisis ultricies convallis, leo bibendum hac tempor bibendum litora phasellus rutrum fermentum.
