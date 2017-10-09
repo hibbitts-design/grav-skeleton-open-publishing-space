@@ -1,3 +1,12 @@
+# v1.0.1
+## 10/09/2017
+
+1. [](#improved)
+    * Adjusted position of Alternative Text field in Blueprint
+1. [](#bugfix)
+    * Fixed incorrect position of image credit in very wide Browser windows
+    * Changed page header option name from `hidefrompostlist` to `hide_from_post_list`
+
 # v1.0.0
 ## 10/06/2017
 
