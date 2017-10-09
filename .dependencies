@@ -47,7 +47,7 @@ git:
         url: https://github.com/yoshikin/grav-plugin-markdown-fontawesome
         path: user/plugins/markdown-fontawesome
         branch: master
-    oer-schema:
+    oerschema:
         url: https://github.com/open-curriculum/grav-plugin-oerschema
         path: user/plugins/oerschema
         branch: master
