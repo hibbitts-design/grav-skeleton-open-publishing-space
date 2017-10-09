@@ -7,7 +7,7 @@ taxonomy:
     tag:
         - journal
         - text
-hide_git_sync_repo_link: false
+post_icon: pencil-square-o
 continue_link: false
 ---
 

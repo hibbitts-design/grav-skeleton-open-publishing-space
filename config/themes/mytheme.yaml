@@ -23,3 +23,6 @@ menu:
     icon: grav
     url: 'http://getgrav.org'
     target: _blank
+header:
+  post_icon: calendar-o
+post_icon: newspaper-o
