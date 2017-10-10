@@ -6,4 +6,4 @@ blog:
   route: ''
 metadata:
     description: 'Grav is an easy to use, yet powerful, open source flat-file CMS'
-taxonomies: [category,tag,month]
+taxonomies: [category,tag,month,author]
