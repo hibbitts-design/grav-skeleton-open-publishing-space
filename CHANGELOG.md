@@ -1,3 +1,12 @@
+# v1.0.2
+## 10/11/2017
+
+1. [](#new)
+    * Added support for blog post title icons (default and per page)
+1. [](#bugfix)
+    * 'featured' posts are now only displayed on their parent blog page (to support multiple blogs on one site)
+    * Fixed incorrect position of image credit in very wide Browser windows
+
 # v1.0.1
 ## 10/09/2017
 
