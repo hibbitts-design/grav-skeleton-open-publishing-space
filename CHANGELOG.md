@@ -1,3 +1,11 @@
+# v1.0.5
+## 10/25/2017
+
+1. [](#improved)
+    * Improved display of Git Sync links within pages
+    * Improved footer display when displaying Git Sync link
+    * Improved default handling after initial installation of theme
+
 # v1.0.4
 ## 10/23/2017
 
