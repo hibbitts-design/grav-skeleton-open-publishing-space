@@ -4,6 +4,11 @@ hide_git_sync_repo_link: false
 sitemap:
     changefreq: monthly
 body_classes: 'header-image fullwidth'
+modular_content:
+    items: '@self.modular'
+    order:
+        by: folder
+        dir: desc
 content:
     items: '@self.children'
     limit: 5
