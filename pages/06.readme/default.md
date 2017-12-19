@@ -1,8 +1,6 @@
 ---
 title: 'Read Me'
 published: true
-hide_git_sync_repo_link: false
-hide_git_repo_link: true
 ---
 
 ## It's as easy as 1-2-3 to publish, share and collaboratively edit your Grav site content!
