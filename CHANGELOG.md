@@ -1,3 +1,11 @@
+# v1.0.7
+## 12/19/2017
+
+1. [](#new)
+    * Added MediaPicker functionality for (blog) item header images
+1. [](#improved)
+    * Updated open publishing space demo pages
+
 # v1.0.6
 ## 11/23/2017
 
