@@ -27,8 +27,8 @@ Open Publishing Features Space Highlights
 					<li>Ready-to-run open source <a href="http://getgrav.org">Grav</a> package</li>
 					<li>Minimal server requirements (PHP 5.5.9 or higher, no database required)</li>
 					<li>Built-in support for automatic two-way <a href="https://github.com/trilbymedia/grav-plugin-git-sync">Git Sync</a></li>
-					<li>Global 'Chromeless Pages' site setting for all pages (for embedding entire site within LMS)
-					<li>Optional 'chromeless' page URL flag (for embedding specific pages within LMS)
+					<li>Global 'Chromeless Pages' site setting for all pages (for embedding entire site within another platform, e.g. LMS)
+					<li>Optional 'chromeless' page URL flag (for embedding specific pages within another platform, e.g. LMS)
 	        <li>Uses <a href="https://daringfireball.net/projects/markdown/">Markdown</a> and HTML files for cross-platform content</li>				
 					<li>Full access to <a href="https://www.w3schools.com/html/default.asp">HTML</a>, <a href="https://www.w3schools.com/css/default.asp">CSS</a>, <a href="https://www.w3schools.com/js/default.asp">Javascript</a>, <a href="https://twig.symfony.com/doc/2.x/">Twig Templates</a>, <a href="http://www.yaml.org/">YAML</a>, etc.</li>
 				</ul>
