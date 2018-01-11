@@ -1,6 +1,6 @@
 # Open Publishing Space Skeleton
 
-[![Demo](https://img.shields.io/badge/Demo-CourseHub-blue.svg?style=flat-square)](http://demo.hibbittsdesign.org/grav-open-publishing/)
+[![Demo](https://img.shields.io/badge/Demo-OpenPublishingSpace-blue.svg?style=flat-square)](http://demo.hibbittsdesign.org/grav-open-publishing/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space/blob/master/LICENSE)
 
 [![Slack](https://grav-chat.now.sh/badge.svg)](https://chat.getgrav.org)
