@@ -40,7 +40,7 @@ Open Publishing Features Space Highlights
 					<li>Supports custom page types and modular content</li>
 					<li>Site pages can be easily added/removed/changed</li>
 					<li>External links can be automatically opened in a new Tab/Window</li>
-          <li>Easy-to-use interface to create custom menubar items</li>
+          <li>Custom menubar items</li>
 					<li>Markdown-based sidebar widget</li>
           <li>Creative Commons license display</li>
           <li>Various Web accessibility enhancements (i.e. hidden H1 page titles)</li>
