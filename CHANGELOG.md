@@ -1,3 +1,12 @@
+# v1.0.8
+## 01/11/2018
+
+1. [](#new)
+    * Added experimental support for new 'summaryonly' URL flag to only display summary on blog posts
+    * Added experimental support for new 'hidepagetitle' URL flag to hide page title
+    * Added Auto Date plugin as dependency
+    * Added support for opening links in top window
+
 # v1.0.7
 ## 12/19/2017
 
