@@ -11,6 +11,22 @@ Information and Documentation
 ---
 http://learn.hibbittsdesign.org/openpublishingspace
 
+Quick Install Instructions
+---
+**Pre-flight Checklist**  
+
+1. Confirm Web server PHP version (PHP 5.5.9 or higher)
+2. Web server login credentials (username and password)
+
+**Installation Steps**  
+
+1. Download the ready-to-run [Open Publishing Space Skeleton Package](http://hibbittsdesign.org/blog/downloads/grav-skeleton-open-publishing-space-site.zip)
+2. Unzip the package onto your desktop  
+3. Copy the entire Grav Open Publishing Space folder to your Web server  
+4. Point your browser to the Web server folder  
+5. Create your site administrator account when prompted  
+6. And you're done! (press the ![Right Arrow Circle Icon](https://github.com/paulhibbitts/github-repo-images/blob/master/fa-arrow-circle-right.png?raw=true) icon in the Admin Panel to preview site)
+
 Open Publishing Space Screenshot
 ---
 ![ Open Publishing Space Skeleton](screenshot.jpg)
