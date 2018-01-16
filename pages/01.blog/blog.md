@@ -4,11 +4,6 @@ hide_git_sync_repo_link: false
 sitemap:
     changefreq: monthly
 body_classes: 'header-image fullwidth'
-modular_content:
-    items: '@self.modular'
-    order:
-        by: folder
-        dir: desc
 content:
     items: '@self.children'
     limit: 5
@@ -17,6 +12,12 @@ content:
         dir: desc
     pagination: true
     url_taxonomy_filters: true
+continue_link_as_button: false
+modular_content:
+    items: '@self.modular'
+    order:
+        by: folder
+        dir: desc
 blog_url: blog
 feed:
     description: 'Sample Blog Description'
