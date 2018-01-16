@@ -1,3 +1,9 @@
+# v1.0.9
+## 01/16/2018
+
+1. [](#improved)
+    * Updated default Blog page settings
+
 # v1.0.8
 ## 01/11/2018
 
