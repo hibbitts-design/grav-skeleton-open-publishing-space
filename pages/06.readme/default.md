@@ -11,4 +11,4 @@ published: true
 
 <hr>
 
-Want to no longer display this page on your site? Delete the page "Read Me" on your [Pages panel](../../admin/pages) or set the page's `Published` option under the `Options` Tab to `Yes`.
+Want to no longer display this page on your site? Delete the page "Read Me" on your [Pages panel](../../admin/pages) or set the page's `Published` option under the `Options` Tab to `No`.
