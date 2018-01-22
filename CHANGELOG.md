@@ -1,3 +1,11 @@
+# v1.1.0
+## 01/21/2018
+
+1. [](#new)
+    * Added experimental "Add Standard Page" and "Add Homepage Blog Item" buttons in Admin Panel
+1. [](#improved)
+    * Updated example demo pages
+
 # v1.0.9
 ## 01/16/2018
 
