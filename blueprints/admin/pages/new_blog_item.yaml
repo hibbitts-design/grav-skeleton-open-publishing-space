@@ -15,7 +15,7 @@ form:
         type: display
         size: large
         label:
-        content: "This page will appear under your Blog (i.e. Home) page."
+        content: "This page will appear under your Blog page."
 
     folder:
       type: hidden
