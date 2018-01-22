@@ -45,7 +45,7 @@ popularity:
 add_modals:
   -
     label: Add Homepage Blog Item
-    blueprint: admin/pages/new_homepage_blog_item
+    blueprint: admin/pages/new_blog_item
     show_in: bar
   -
     label: Add Standard Page
