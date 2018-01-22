@@ -44,7 +44,7 @@ popularity:
     visitors: '20'
 add_modals:
   -
-    label: Add Homepage Blog Item
+    label: Add Blog Item
     blueprint: admin/pages/new_blog_item
     show_in: bar
   -
