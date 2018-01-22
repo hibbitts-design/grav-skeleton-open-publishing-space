@@ -12,6 +12,9 @@ content:
         dir: desc
     pagination: true
     url_taxonomy_filters: true
+display_post_summary:
+    enabled: false
+post_icon: calendar-o
 continue_link_as_button: false
 modular_content:
     items: '@self.modular'
