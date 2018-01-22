@@ -1,3 +1,9 @@
+# v1.1.1
+## 01/22/2018
+
+1. [](improved)
+    * Revised Admin Panel button bar label to "Add Blog Item"
+
 # v1.1.0
 ## 01/21/2018
 
