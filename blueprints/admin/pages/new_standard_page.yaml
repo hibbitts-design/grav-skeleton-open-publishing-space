@@ -27,7 +27,7 @@ form:
 
     name:
       type: hidden
-      default: 'sidebarpage'
+      default: 'default'
 
     visible:
       type: hidden
