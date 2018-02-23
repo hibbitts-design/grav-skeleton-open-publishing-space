@@ -1,6 +1,8 @@
 # v1.1.3
 ## 02/23/2018
 
+1. [](#new)
+    * Added optional Admin Panel config for creating new pages with Route choice
 1. [](improved)
     * Updated example demo pages
 
