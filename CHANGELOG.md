@@ -1,3 +1,9 @@
+# v1.1.4
+## 03/09/2018
+
+1. [](improved)
+    * Included most recent Open Publishing Space theme
+
 # v1.1.3
 ## 02/23/2018
 
