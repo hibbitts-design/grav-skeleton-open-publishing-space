@@ -1,5 +1,5 @@
 name: Open Publishing Space
-version: 1.1.4
+version: 1.1.5
 description: "Open Publishing Space, designed to publish, share and collaboratively edit Markdown-based content. Includes Admin Panel and Git Sync plugins."
 icon: git
 author:
