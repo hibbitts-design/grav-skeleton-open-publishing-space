@@ -1,10 +1,10 @@
 name: Open Publishing Space
-version: 1.1.5
+version: 1.1.6
 description: "Open Publishing Space, designed to publish, share and collaboratively edit Markdown-based content. Includes Admin Panel and Git Sync plugins."
 icon: git
 author:
- name: Paul Hibbitts
- email: paul@paulhibbitts.org
+ name: Hibbitts Design
+ email: hello@hibbittsdesign.org
  url: http://hibbittsdesign.org
 homepage: https://github.com/hibbitts-design/grav-skeleton-open-publishing-space
 demo: http://demo.hibbittsdesign.org/grav-open-publishing/

@@ -1,3 +1,10 @@
+# v1.1.6
+## 03/16/2018
+
+1. [](#improved)
+    * Updated example demo pages
+    * Changed skeleton author information to Hibbitts Design
+
 # v1.1.5
 ## 03/12/2018
 
