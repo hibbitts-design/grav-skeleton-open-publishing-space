@@ -1,6 +1,6 @@
 ---
 title: DaringFireball Style Link
-date: 13:34 07/05/2017
+date: 13:34 07/05/2014
 link: http://getgrav.org
 taxonomy:
     category: blog

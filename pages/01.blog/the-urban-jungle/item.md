@@ -1,33 +1,57 @@
 ---
-title: 'The Urban Jungle'
-date: '17:34 07/04/2017'
+title: The Urban Jungle
+date: 17:34 07/04/2017 
+
+hero_classes: text-light title-h1h2 overlay-dark-gradient hero-large parallax
+hero_image: unsplash-sidney-perry.jpg
+show_sidebar: true
+
 taxonomy:
-    category:
-        - blog
-    tag:
-        - photography
-        - city
-        - travel
-        - featured
-header_image_credit: 'Unsplash'
-header_image_creditlink: 'https://unsplash.com/'
-header_image_alt_text: 'Man on skateboard'
+    category: blog
+    tag: [travel, photography, city]
 ---
 
-Lorem ipsum fringilla cras tempus sagittis pretium tristique id pulvinar habitant varius interdum vel integer fusce aptent id laoreet condimentum eget urna lectus, congue metus placerat auctor litora pharetra facilisis ultricies convallis, leo bibendum hac tempor bibendum litora phasellus rutrum fermentum.
+Lorem markdownum credas animos nec Phoeboque; de iuris *creverat* et finis ad
+remis. Mox hanc innixus actum dabitur Amorum; esse erat paventem. Cum sole deque
+manu memores neu aurea sit est, ira.
 
 ===
 
-Tempus tempor magna blandit eleifend nam nisi proin, bibendum euismod cubilia id laoreet sem himenaeos imperdiet, id eros sapien odio tincidunt curabitur amet consectetur volutpat varius ut ac elit magna euismod.
+- Dique tantique Ampyca
+- Fastigia inquit centumque longos
+- Egit nebulasque
 
-Quisque ultricies enim nunc varius dictumst maecenas sem hac urna aenean, justo aenean faucibus augue cursus in tortor nostra eleifend nulla, taciti velit morbi lobortis molestie nisi vel primis orci nostra rutrum quis ad etiam ante felis nam per, suscipit libero tempor venenatis libero vehicula gravida non, nibh himenaeos ipsum vestibulum aenean dolor elit.
+Nova nos interea Deionidenque nervo vestigia intrasse metu; haec
+[numinis](http://www.ab.com/quam). Parat doctos arcana nobis cui animi Minervae
+deprecor ut cum?
 
-Conubia euismod ultricies sociosqu odio magna mattis non viverra, habitant ut taciti justo felis convallis ante, pellentesque aenean ullamcorper adipiscing integer aenean sem luctus cubilia tempus augue nam etiam suspendisse pulvinar primis venenatis.
+## Stygio auctoribus vulnere volucris Lycaon
 
-Conubia potenti ad tellus quis gravida metus torquent, enim pellentesque id mauris feugiat ad euismod leo, varius ante quis adipiscing lacinia duis litora commodo ac urna eleifend enim ornare curae, nostra phasellus mauris luctus non eget, habitant proin sodales platea suscipit vehicula eleifend ut consequat mattis tincidunt mattis curabitur.
+Nemorale geminato sanguine licet toto loqui posses et [ingreditur
+illa](http://pontum-in.org/cum) Nycteliusque. Incendia hoc velle tectis
+pollicita manu humum, per ad illiusque vitare altera in! Hactenus aetas,
+contigit, ne ita pars fata Latonia viderat video praecorrupta adiutus! Illo
+tundunt rapit serpentis bracchia innuba est fugam, data moenibus, ver dum ait
+suo?
 
-Phasellus scelerisque nunc primis vitae aptent sociosqu aenean lacinia neque lacus, nisl ultricies odio commodo nisl maecenas primis aliquet scelerisque.
+- De spem altrici hosti
+- Loqui sidereus temptavit generis
+- Toto tabuit dirae scilicet
+- Phoebus hanc rurigenae domos haerens frequens vi
+- Dextra dissimulator omnia
+- Dedere petant
 
-Porta sollicitudin inceptos interdum praesent hendrerit sodales mollis dictum, ullamcorper massa sed proin non pharetra primis, aenean dictumst rutrum egestas ut proin quis et primis mauris cursus placerat sollicitudin non quisque dictumst, nisi cursus volutpat malesuada blandit aenean maecenas a sem vitae litora tortor ante eleifend elementum mattis id ut.
+Una vigor nec *nomen cur laboriferi* fugit est fuit **duro pars** et metuens
+cuius a! Medii mitto; hic flammas, non sinuavi **est cervix restabat** sequens
+ardent curvamina [tecta](http://et.org/).
 
-Feugiat vel per porttitor potenti leo eget aenean diam leo, cubilia torquent lobortis vitae neque urna id blandit dui ut congue sollicitudin sociosqu non luctus magna rutrum.
+    ppc -= pop_dslam.and(smbScrollMebibyte, cycleFirmwareReader, byte_blob);
+    sourceCompiler(software);
+    botnet = dvd(ip + oem + leopard, uddiDrive);
+
+Qui qui est capillos, faveas ordine, humum ruit apri volantes, est illi! Amplius
+felicia; ore luce solum nec omnibus potest; ferrugine domoque templa **falcato**
+et digitis curre. Quae sanguine et colo unam sagitta tales diruerent, permulcens
+errore. Saepe caute quid: res: praemia, velle auras vires Ascalaphus, libro
+infelix antiquo? Fronde in quid ab modo, me postquam marmora debueram quibus
+dempsisse maiestas avis Phoebus et ecce potes trepidum.

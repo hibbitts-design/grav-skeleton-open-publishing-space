@@ -3,12 +3,22 @@ title: 'Read Me'
 published: true
 ---
 
-## It's as easy as 1-2-3 to publish, share and collaboratively edit your Grav site content!
+### Easily Publish, Share and Collaborate using Grav Open Publishing Space!  
 
-1. Run the setup wizard for the [GitSync Plugin](../../admin/plugins/git-sync) and follow the provided instructions.
-2. Configure the [Git Sync Link](../../admin/themes/mytheme) settings in the Theme options to change the display and functionality of the automatically displayed Git Sync Link.
-3. If you would like, you can display a [Creative Commons(CC) Attribution License](../../admin/themes/mytheme) using the Theme options as well.
+1. Create a new [Git](https://git-scm.com/) repository (hosted on [GitHub](https://github.com/), [GitLab](https://about.gitlab.com/), [Bitbucket](https://bitbucket.org/) or your own server) with at least one commit.
+2. Run the setup wizard for the [GitSync Plugin](../../admin/plugins/git-sync) and follow the provided instructions.
+3. Configure the [Git Sync Link](../../admin/themes/mytheme) settings in the Theme options to change the display and functionality of the automatically displayed Git Sync Link.
+
+### Embed Open Publishing Space Content into Other Systems
+
+By adding the URL parameter (i.e. flag) `chromeless:true` to any Open Publishing Space page you can display that page's content without the global header image, site navigation bar, sidebar and footer - a great way to seamlessly embed Open Publishing Space pages into other systems.  
+
+For example, the URL [http://demo.hibbittsdesign.org/grav-open-publishing/](http://demo.hibbittsdesign.org/grav-open-publishing/) displays the standard Open Publishing Space blog post list page page but the URL [http://demo.hibbittsdesign.org/grav-open-publishing/chromeless:true](http://demo.hibbittsdesign.org/grav-open-publishing/chromeless:true) will only display that page's content. Any links between Open Publishing Space pages will result in pages being displayed in the same manner.
+
+### What Else Can the Open Publishing Space do for You? ##
+Learn more about the capabilities of the Open Publishing Space project at [learn.hibbittsdesign.org](http://learn.hibbittsdesign.org/openpublishingspace).
 
 <hr>
-
-Want to no longer display this page on your site? Delete the page "Read Me" on your [Pages panel](../../admin/pages) or set the page's `Published` option under the `Options` Tab to `No`.
+<br>
+Want to no longer display this page on your site?  
+Delete the page 'Read Me' in your [Admin Pages panel](../../admin/pages) or set the page's 'Published' option under the 'Options' Tab to 'No'.

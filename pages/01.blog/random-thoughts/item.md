@@ -1,25 +1,52 @@
 ---
 title: Random Thoughts
-date: 13:34 05/26/2017
+date: 13:34 05/26/2017 
 taxonomy:
     category: blog
     tag: [journal]
 ---
 
-Lorem ipsum fringilla cras tempus sagittis pretium tristique id pulvinar habitant varius interdum vel integer fusce aptent id laoreet condimentum eget urna lectus, congue metus placerat auctor litora pharetra facilisis ultricies convallis, leo bibendum hac tempor bibendum litora phasellus rutrum fermentum.
+Lorem markdownum mirum. Solus restare dabat, gladio vipereis caerula?
+
+Nos me quem cura ambo capillos vibrata terram, precor insignia liquidis viderit.
+Obstitit subitis lacrimis Fames canendo, [herbas lupi
+formosis](http://in-de.io/et) coniunx scilicet Neptunus.
+
+> Animam non fatus: per animal Iolao baculo digitos ad tergo. Ultra cribri
+> condas! Parabat non canities domos ambo canaeque Pulchrior vident. **Foramina
+> uterum**, est serpit gente **horrescere**, sed cineres, Iove mea mihi mensum
+> profundum, in.
 
 ===
 
-Tempus tempor magna blandit eleifend nam nisi proin, bibendum euismod cubilia id laoreet sem himenaeos imperdiet, id eros sapien odio tincidunt curabitur amet consectetur volutpat varius ut ac elit magna euismod.
+## Sit in facinus patruus deducens in multaque
 
-Quisque ultricies enim nunc varius dictumst maecenas sem hac urna aenean, justo aenean faucibus augue cursus in tortor nostra eleifend nulla, taciti velit morbi lobortis molestie nisi vel primis orci nostra rutrum quis ad etiam ante felis nam per, suscipit libero tempor venenatis libero vehicula gravida non, nibh himenaeos ipsum vestibulum aenean dolor elit.
+Hanc quam magni iussae habent, ira face alasque invidet? Radix umeris colla,
+trieterica magni arbore conplexae dixit Pleuronius raptusque. Matris somnos, cum
+si corpus se saepe tota Lycus, ferendo phoenica ante caelo.
 
-Conubia euismod ultricies sociosqu odio magna mattis non viverra, habitant ut taciti justo felis convallis ante, pellentesque aenean ullamcorper adipiscing integer aenean sem luctus cubilia tempus augue nam etiam suspendisse pulvinar primis venenatis.
+    gigoDdr(40, 3, sdram_kvm + webPmu(keylogger, real, 30));
+    if (memory.trinitron_bar_format(5 + session_fragmentation_hypermedia)) {
+        character(hfsRecordName * address_sector_tunneling,
+                association_toggle_touchscreen);
+        timeCore(rtf_rj);
+        frame = commerce_dhcp;
+    }
+    protocol_lcd_x(crossZip, isdn, defaultDisk);
+    if (golden_supply_left) {
+        icf.imDesktop(98, middleware_web_point);
+        server = target_kernel.webLink(inboxSpoolingPage, nybbleLeft) +
+                modifier;
+        cableCron.fat_whois_panel.hexadecimal(ppc + padTruncate);
+    }
 
-Conubia potenti ad tellus quis gravida metus torquent, enim pellentesque id mauris feugiat ad euismod leo, varius ante quis adipiscing lacinia duis litora commodo ac urna eleifend enim ornare curae, nostra phasellus mauris luctus non eget, habitant proin sodales platea suscipit vehicula eleifend ut consequat mattis tincidunt mattis curabitur.
+Ut doliturus quoque. Meus vero et, vincemur horamque simul explorant omnia.
+Dictaeo tu caudas, tenet, malum undis abit inmitis positamque **ego**: pendentia
+enixa graves ero defecto. [Viro](http://omne.com/caicus.aspx) haec unde
+haerentem regnabat sollicita suisque! Patria intellegat nunc rexit, et iuris
+inplet **humano**, duabus etiam volandi.
 
-Phasellus scelerisque nunc primis vitae aptent sociosqu aenean lacinia neque lacus, nisl ultricies odio commodo nisl maecenas primis aliquet scelerisque.
+Admonitorque vitae leones et, et lupos modo placido saltem **haustis**. Nutrit
+nostris coniunctior servatrix, undas magnis movebatur continuo laesit, parva.
+Hunc servitii tu sacra.
 
-Porta sollicitudin inceptos interdum praesent hendrerit sodales mollis dictum, ullamcorper massa sed proin non pharetra primis, aenean dictumst rutrum egestas ut proin quis et primis mauris cursus placerat sollicitudin non quisque dictumst, nisi cursus volutpat malesuada blandit aenean maecenas a sem vitae litora tortor ante eleifend elementum mattis id ut.
-
-Feugiat vel per porttitor potenti leo eget aenean diam leo, cubilia torquent lobortis vitae neque urna id blandit dui ut congue sollicitudin sociosqu non luctus magna rutrum.

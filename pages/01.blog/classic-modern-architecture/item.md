@@ -7,25 +7,72 @@ taxonomy:
     tag:
         - photography
         - architecture
-header_image_credit: 'Unsplash'
-header_image_creditlink: 'https://unsplash.com/'
-header_image_alt_text: 'Modern building'
+hero_classes: 'text-dark title-h1h2 overlay-light hero-large parallax'
+hero_image: unsplash-luca-bravo.jpg
+blog_url: /blog
+show_sidebar: false
+show_breadcrumbs: true
+show_pagination: true
+subtitle: 'finding beauty in structure'
 ---
 
-Lorem ipsum fringilla cras tempus sagittis pretium tristique id pulvinar habitant varius interdum vel integer fusce aptent id laoreet condimentum eget urna lectus, congue metus placerat auctor litora pharetra facilisis ultricies convallis, leo bibendum hac tempor bibendum litora phasellus rutrum fermentum.
+Lorem markdownum timore *in*, dant litora texit late **fecisse**. Sinistra ad
+exhausta habet **Oenopiam**, Iphis Tydides concipit qui peream? De se per,
+clamore patrios fletu ademit illam ventris quas liceatque murice, accipiter
+parva ingesta.
 
 ===
 
-Tempus tempor magna blandit eleifend nam nisi proin, bibendum euismod cubilia id laoreet sem himenaeos imperdiet, id eros sapien odio tincidunt curabitur amet consectetur volutpat varius ut ac elit magna euismod.
+    modifier_retina(flatbed, internicImport);
+    whois.rasterFileMarkup *= andThunderbolt;
+    forum.phpWizardNvram(lock, drive_class, 2);
+    if (floodSwappableAutoresponder(4 - simplex, 77 + tokenAddressPort) !=
+            folderBankruptcyMegabit) {
+        payloadAdware.tiff_digital += eCcDefinition;
+        waveformSampleMtu.supply_northbridge += partition(dataIeee,
+                http_gpu_system.win_asp.third(threading, cRecursion, 14));
+        dos = mamp + 5;
+    }
+    ppga_zif = website_duplex_post;
 
-Quisque ultricies enim nunc varius dictumst maecenas sem hac urna aenean, justo aenean faucibus augue cursus in tortor nostra eleifend nulla, taciti velit morbi lobortis molestie nisi vel primis orci nostra rutrum quis ad etiam ante felis nam per, suscipit libero tempor venenatis libero vehicula gravida non, nibh himenaeos ipsum vestibulum aenean dolor elit.
+## Tecta Trachasque palmae
 
-Conubia euismod ultricies sociosqu odio magna mattis non viverra, habitant ut taciti justo felis convallis ante, pellentesque aenean ullamcorper adipiscing integer aenean sem luctus cubilia tempus augue nam etiam suspendisse pulvinar primis venenatis.
+Mea dolore placent videri et petitur illa sis ora hoc manu res ego spolioque
+bene lacrimabile quaerere capienda. Confine virgo manu Orionis bracchia satis
+iuvenis patriumque guttura volucrem nomen.
 
-Conubia potenti ad tellus quis gravida metus torquent, enim pellentesque id mauris feugiat ad euismod leo, varius ante quis adipiscing lacinia duis litora commodo ac urna eleifend enim ornare curae, nostra phasellus mauris luctus non eget, habitant proin sodales platea suscipit vehicula eleifend ut consequat mattis tincidunt mattis curabitur.
+> Manibus hunc quidem, beatam parvoque Peneia? Et errat Haec caput Acheloe deae,
+> ut sunt inani biformis in habet, Phoebo conplevit
+> [indigenaene](http://www.appenninigenae-vulnera.net/absentestu.aspx) altera.
+> Inania tegmine, per cingentibus culpa, ire *effugit* lateri, primis.
+> Populisque sequiturque levant. Aevo illic agmine singula dura amat decentior
+> di **fuerant** damnasse consolantia vultum exercetque fingit.
 
-Phasellus scelerisque nunc primis vitae aptent sociosqu aenean lacinia neque lacus, nisl ultricies odio commodo nisl maecenas primis aliquet scelerisque.
+## Mox orbus prius ne desideret fecere est
 
-Porta sollicitudin inceptos interdum praesent hendrerit sodales mollis dictum, ullamcorper massa sed proin non pharetra primis, aenean dictumst rutrum egestas ut proin quis et primis mauris cursus placerat sollicitudin non quisque dictumst, nisi cursus volutpat malesuada blandit aenean maecenas a sem vitae litora tortor ante eleifend elementum mattis id ut.
+Corpora **erat templo**! Avum urbem iaculo digitoque mater ultusque ingentes
+sanguine, accipite. Movit labuntur tutaque habet, Iunonis, pavent fueramque
+humum, umor erant, concipit ut **simul qui gerit** septemflua!
 
-Feugiat vel per porttitor potenti leo eget aenean diam leo, cubilia torquent lobortis vitae neque urna id blandit dui ut congue sollicitudin sociosqu non luctus magna rutrum.
+    northbridgeCompiler += paper - flash_cdn_map;
+    crm_python = sata_data_cursor.ribbon_ttl(87, language_ppga + activex_plain,
+            2) + icmp;
+    windows_rate_password /= 1 * interactive_operation + 3 + visual_yobibyte *
+            compactClick;
+
+## Timor quaesita dedit iaculi transit nostros sinuantur
+
+Poteram per ad curam, fabricata herbas quam magno hunc feto. Fores sum alimenta
+raptam, mihi latentes deducunt mente postquam. Celatos montanaque, prolem;
+*civilia victae*!
+
+- Moriens iacebat hoc fiet terribilem tibi in
+- Metuit cura precantia respondit inducit relinquam
+- Tangit praestructa mutat membra viresque insignia tangam
+- Patens cum dum neve inplumes seque cum
+- Terror sanguinis nate corporis mater cum vocari
+- Nullos miscent copula tremescere oranti segetes
+
+Adeo hortanda maneat stultae pennis amnis altera, voce deo: res? Hanc lana est
+locutus intrat Lapitharum mersura, Martem Iuno terras?
+
