@@ -21,7 +21,7 @@ production-mode: true
 header-fixed: true
 header-animated: true
 header-dark: false
-header-transparent: true
+header-transparent: false
 sticky-footer: true
 blog-page: /blog
 spectre:
