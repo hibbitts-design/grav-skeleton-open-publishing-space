@@ -9,7 +9,7 @@ published: true
 2. Run the setup wizard for the [GitSync Plugin](../../admin/plugins/git-sync) and follow the provided instructions.
 3. Configure the [Git Sync Link](../../admin/themes/mytheme) settings in the Theme options to change the display and functionality of the automatically displayed Git Sync Link.
 
-### Embed Open Publishing Space Content into Other Systems
+### Embed Open Publishing Space Page Content into Other Systems
 
 By adding the URL parameter (i.e. flag) `chromeless:true` to any Open Publishing Space page you can display that page's content without the global header image, site navigation bar, sidebar and footer - a great way to seamlessly embed Open Publishing Space pages into other systems.  
 
