@@ -3,7 +3,7 @@ streams:
     theme:
       type: ReadOnlyStream
       prefixes:
-        '': [user/themes/mytheme, user/themes/quark-open-publishing, user/themes/quark]
+        '': [user/themes/quark-open-publishing, user/themes/quark]
 chromeless:
   enabled: false
 display_of_git_sync_repo_link: menu
