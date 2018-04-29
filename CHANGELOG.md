@@ -1,3 +1,11 @@
+# v1.1.7
+## 04/28/2018
+
+1. [](#improved)
+    * Changed default theme to Quark Open Publishing
+    * Updated example demo pages for default Quark Open Publishing theme
+    * Updated default ReadMe page
+
 # v1.1.6
 ## 03/16/2018
 
