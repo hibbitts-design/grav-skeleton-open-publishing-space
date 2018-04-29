@@ -6,7 +6,7 @@ published: true
 ### Easily Publish, Share and Collaborate using Grav Open Publishing Space!  
 
 1. Create a new [Git](https://git-scm.com/) repository (hosted on [GitHub](https://github.com/), [GitLab](https://about.gitlab.com/), [Bitbucket](https://bitbucket.org/) or your own server) with at least one commit.
-2. Tap the 'Setup Git Sync' link on the far-right of the site navigation bar of this page for step-by-step instructions.
+2. Tap the ':fa-cog: Setup Git Sync' link on the far-right of the site navigation bar of this page for step-by-step instructions.
 3. Configure the [Git Sync Link](../../admin/themes/mytheme) settings in the Theme options to change the display and functionality of the automatically displayed Git Sync Link.
 
 ### Embed Open Publishing Space Page Content into Other Systems
