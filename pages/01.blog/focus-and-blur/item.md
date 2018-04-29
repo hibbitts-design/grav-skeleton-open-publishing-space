@@ -1,9 +1,12 @@
 ---
 title: Focus and Blur
-date: 13:34 06/21/2017 
+date: 13:34 06/21/2017
 
 hero_classes: text-light title-h1h2 overlay-dark hero-large parallax
 hero_image: unsplash-focus.jpg
+header_image_credit: 'Unsplash'
+header_image_creditlink: 'https://unsplash.com/'
+header_image_alt_text: 'Wharf with birds, which blurs into the distance'
 show_sidebar: true
 
 taxonomy:

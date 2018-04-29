@@ -1,9 +1,12 @@
 ---
 title: The Urban Jungle
-date: 17:34 07/04/2017 
+date: 17:34 07/04/2017
 
 hero_classes: text-light title-h1h2 overlay-dark-gradient hero-large parallax
 hero_image: unsplash-sidney-perry.jpg
+header_image_credit: 'Unsplash'
+header_image_creditlink: 'https://unsplash.com/'
+header_image_alt_text: 'Man on skateboard'
 show_sidebar: true
 
 taxonomy:

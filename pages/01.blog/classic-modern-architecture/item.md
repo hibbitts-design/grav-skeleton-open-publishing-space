@@ -9,6 +9,9 @@ taxonomy:
         - architecture
 hero_classes: 'text-dark title-h1h2 overlay-light hero-large parallax'
 hero_image: unsplash-luca-bravo.jpg
+header_image_credit: 'Unsplash'
+header_image_creditlink: 'https://unsplash.com/'
+header_image_alt_text: 'Modern building'
 blog_url: /blog
 show_sidebar: false
 show_breadcrumbs: true
@@ -75,4 +78,3 @@ raptam, mihi latentes deducunt mente postquam. Celatos montanaque, prolem;
 
 Adeo hortanda maneat stultae pennis amnis altera, voce deo: res? Hanc lana est
 locutus intrat Lapitharum mersura, Martem Iuno terras?
-

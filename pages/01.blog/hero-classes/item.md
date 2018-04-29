@@ -5,6 +5,9 @@ author: Tasha Maxwell
 
 hero_classes: text-light title-h1h2 overlay-dark-gradient hero-large parallax
 hero_image: unsplash-overcast-mountains.jpg
+header_image_credit: 'Unsplash'
+header_image_creditlink: 'https://unsplash.com/'
+header_image_alt_text: 'Overcast mountains'
 show_sidebar: true
 
 taxonomy:

@@ -1,9 +1,12 @@
 ---
 title: London at Night
-date: 13:34 06/07/2017 
+date: 13:34 06/07/2017
 
 hero_classes: text-light title-h1h2 overlay-dark hero-large parallax
 hero_image: unsplash-london-night.jpg
+header_image_credit: 'Unsplash'
+header_image_creditlink: 'https://unsplash.com/'
+header_image_alt_text: 'City at night'
 show_sidebar: true
 
 taxonomy:
@@ -55,4 +58,3 @@ ultima](http://suosmundus.org/supremo.aspx): ita mea.
 Sibi licet et pharetra frustra iterata, undas ille forti, et. Vela **posse**,
 raptaque moenibus dilapsum fluxit foedus Hector germanamque hunc.
 [Volumina](http://www.haec-per.io/) bimatrem locum alteriusque album, est cum!
-
