@@ -31,7 +31,7 @@ Open Publishing Space Screenshot
 ---
 ![ Open Publishing Space Skeleton](screenshot.jpg)
 
-This skeleton uses the [Antimatter Open Publishing theme](https://github.com/hibbitts-design/grav-theme-antimatter-open-publishing), a customized version of the [Antimatter theme](https://github.com/getgrav/grav-theme-learn2).
+This skeleton uses the [Quark Open Publishing theme](https://github.com/hibbitts-design/grav-theme-quark-open-publishing), a customized version of the [Quark theme](https://github.com/getgrav/grav-theme-quark).
 
 Open Publishing Features Space Highlights
 ---
