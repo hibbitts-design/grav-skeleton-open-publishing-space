@@ -4,10 +4,6 @@ date: 13:34 06/07/2017
 
 hero_classes: text-light title-h1h2 overlay-dark hero-large parallax
 hero_image: unsplash-london-night.jpg
-header_image_credit: 'Unsplash'
-header_image_creditlink: 'https://unsplash.com/'
-header_image_alt_text: 'City at night'
-show_sidebar: true
 
 taxonomy:
     category: blog

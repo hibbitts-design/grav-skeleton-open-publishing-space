@@ -9,13 +9,7 @@ taxonomy:
         - architecture
 hero_classes: 'text-dark title-h1h2 overlay-light hero-large parallax'
 hero_image: unsplash-luca-bravo.jpg
-header_image_credit: 'Unsplash'
-header_image_creditlink: 'https://unsplash.com/'
-header_image_alt_text: 'Modern building'
 blog_url: /blog
-show_sidebar: false
-show_breadcrumbs: true
-show_pagination: true
 subtitle: 'finding beauty in structure'
 ---
 
