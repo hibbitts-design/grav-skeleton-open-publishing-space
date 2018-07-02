@@ -27,3 +27,4 @@ blog-page: /blog
 spectre:
   exp: false
   icons: false
+grid-size: grid-xl
