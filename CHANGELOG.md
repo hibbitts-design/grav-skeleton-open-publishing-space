@@ -1,3 +1,9 @@
+# v1.2.2
+## 07/13/2018
+
+1. [](#improved)
+    * Updated example demo pages
+
 # v1.2.1
 ## 07/02/2018
 
