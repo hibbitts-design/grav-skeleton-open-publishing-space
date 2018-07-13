@@ -19,7 +19,7 @@ languages:
   http_accept_language: false
   override_locale: false
 home:
-  alias: /home
+  alias: /blog
   hide_in_urls: false
 pages:
   theme: mytheme
