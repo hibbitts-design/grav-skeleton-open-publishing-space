@@ -17,3 +17,9 @@ cc_license:
 displaycustommenus:
   enabled: false
 hidehomemenulink: false
+menu:
+  -
+    text: Grav
+    icon: arrow-circle-right
+    url: 'http://getgrav.org/'
+    target: _blank
