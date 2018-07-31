@@ -22,5 +22,5 @@ feed:
 pagination: true
 ---
 
-# My Quark **Open** Blog
+# My **Open** Blog
 ## Publish, Share, and Collaborate
