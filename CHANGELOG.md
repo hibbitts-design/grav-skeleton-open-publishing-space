@@ -1,8 +1,14 @@
-# v1.2.3
+# v1.2.4
 ## 08/01/2018
 
 1. [](#improved)
-    * Changed skeleton title from "Open Publishing Space" to "Quark Open Blog Site"
+    * Changed skeleton title from "Open Publishing Space" to "Open Blog Space"
+    * Updated example demo pages
+
+# v1.2.3
+## 07/31/2018
+
+1. [](#improved)
     * Updated example demo pages
 
 # v1.2.2
