@@ -1,6 +1,6 @@
-name: Open Blog Space
-version: 1.2.4
-description: "Quark Open Blog, designed to publish, share and collaboratively edit Markdown-based content. Includes Admin Panel and Git Sync plugins."
+name: Open Publishing Space
+version: 1.2.5
+description: "Open Publishing Space, designed to create, publish, share and collaboratively edit Markdown-based content. Includes Admin Panel and Git Sync plugins."
 icon: git
 author:
  name: Hibbitts Design
