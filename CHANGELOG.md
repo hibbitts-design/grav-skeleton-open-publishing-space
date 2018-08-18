@@ -1,9 +1,14 @@
+# v1.2.6
+## 08/18/2018
+
+1. [](#improved)
+    * Updated example demo pages
+
 # v1.2.5
 ## 08/06/2018
 
 1. [](#improved)
     * Updated skeleton screenshot
-    * Updated example demo pages
 
 # v1.2.4
 ## 08/01/2018
