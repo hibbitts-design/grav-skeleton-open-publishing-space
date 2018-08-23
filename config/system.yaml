@@ -148,3 +148,6 @@ gpm:
   method: auto
   verify_peer: true
   official_gpm_only: true
+strict_mode:
+  yaml_compat: true
+  twig_compat: true
