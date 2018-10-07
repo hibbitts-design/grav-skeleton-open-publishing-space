@@ -1,5 +1,5 @@
 # v1.2.9
-##10/07/2018
+## 10/07/2018
 
 1. [](#improved)
     * Updated example demo pages, including section-type page
