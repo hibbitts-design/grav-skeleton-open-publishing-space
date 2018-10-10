@@ -1,11 +1,11 @@
-# Open Publishing Space Skeleton
+# Open Blogging Space Skeleton
 
 [![Demo](https://img.shields.io/badge/Demo-OpenPublishingSpace-blue.svg?style=flat-square)](http://demo.hibbittsdesign.org/grav-open-publishing/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space/blob/master/LICENSE)
 
 [![Slack](https://grav-chat.now.sh/badge.svg)](https://chat.getgrav.org)
 
-**Open Publishing Space** with Git Sync is designed to support an open and collaborative publishing space, inside or outside of other platforms (e.g. LMS). Built with the open source modern file-based [Grav CMS](http://getgrav.org).
+**Open Blogging Space** with Git Sync is designed to support an open and collaborative publishing space, inside or outside of other platforms (e.g. LMS). Built with the open source modern file-based [Grav CMS](http://getgrav.org).
 
 Information and Documentation
 ---
@@ -20,20 +20,20 @@ Quick Install Instructions
 
 **Installation Steps**  
 
-1. Download the ready-to-run [Open Publishing Space Skeleton Package](http://hibbittsdesign.org/blog/downloads/grav-skeleton-open-publishing-space-site.zip)
+1. Download the ready-to-run [Open Blogging Space Skeleton Package](http://hibbittsdesign.org/blog/downloads/grav-skeleton-open-publishing-space-site.zip)
 2. Unzip the package onto your desktop  
-3. Copy the entire Grav Open Publishing Space folder to your Web server  
+3. Copy the entire expanded folder to your Web server  
 4. Point your browser to the Web server folder  
 5. Create your site administrator account when prompted  
 6. And you're done! (press the ![Right Arrow Circle Icon](https://github.com/paulhibbitts/github-repo-images/blob/master/fa-arrow-circle-right.png?raw=true) icon in the Admin Panel to preview site)
 
-Open Publishing Space Screenshot
+Open Blogging Space Screenshot
 ---
-![ Open Publishing Space Skeleton](screenshot.jpg)
+![ Open Blogging Space Skeleton](screenshot.jpg)
 
-This skeleton uses the [Quark Open Publishing theme](https://github.com/hibbitts-design/grav-theme-quark-open-publishing), a customized version of the [Quark theme](https://github.com/getgrav/grav-theme-quark).
+This skeleton uses the [Quark Open Blogging theme](https://github.com/hibbitts-design/grav-theme-quark-open-publishing), a customized version of the [Quark theme](https://github.com/getgrav/grav-theme-quark).
 
-Open Publishing Features Space Highlights
+Open Blogging Space Features Highlights
 ---
 <table cellpadding="2" cellspacing="2" width="100%">
 	<tbody>
