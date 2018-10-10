@@ -4,6 +4,7 @@
 1. [](#improved)
     * Updated example demo pages
     * Changed skeleton display name from Open Publishing Space to Open Blogging Space
+    * Updated skeleton screenshot
 
 # v1.2.9
 ## 10/07/2018
