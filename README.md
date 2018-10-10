@@ -1,11 +1,11 @@
-# Open Blogging Space Skeleton
+# Open Blogging (Publishing) Space Skeleton
 
 [![Demo](https://img.shields.io/badge/Demo-OpenPublishingSpace-blue.svg?style=flat-square)](http://demo.hibbittsdesign.org/grav-open-publishing/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space/blob/master/LICENSE)
 
 [![Slack](https://grav-chat.now.sh/badge.svg)](https://chat.getgrav.org)
 
-**Open Blogging (Publishing) Space** with Git Sync is designed to support an open and collaborative publishing space, inside or outside of other platforms (e.g. LMS). Built with the open source modern file-based [Grav CMS](http://getgrav.org).
+**Open Blogging Space** with Git Sync is designed to support an open and collaborative publishing space, inside or outside of other platforms (e.g. LMS). Built with the open source modern file-based [Grav CMS](http://getgrav.org).
 
 Information and Documentation
 ---
