@@ -1,3 +1,10 @@
+# v1.3.0
+## 10/10/2018
+
+1. [](#improved)
+    * Updated example demo pages
+    * Changed skeleton display name from Open Publishing Space to Open Blogging Space
+
 # v1.2.9
 ## 10/07/2018
 
@@ -147,7 +154,7 @@
 1. [](#new)
     * Added MediaPicker functionality for (blog) item header images
 1. [](#improved)
-    * Updated open publishing space demo pages
+    * Updated example demo pages
 
 # v1.0.6
 ## 11/23/2017
