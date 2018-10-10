@@ -5,7 +5,7 @@
 
 [![Slack](https://grav-chat.now.sh/badge.svg)](https://chat.getgrav.org)
 
-**Open Blogging Space** with Git Sync is designed to support an open and collaborative publishing space, inside or outside of other platforms (e.g. LMS). Built with the open source modern file-based [Grav CMS](http://getgrav.org).
+**Open Blogging (Publishing) Space** with Git Sync is designed to support an open and collaborative publishing space, inside or outside of other platforms (e.g. LMS). Built with the open source modern file-based [Grav CMS](http://getgrav.org).
 
 Information and Documentation
 ---
