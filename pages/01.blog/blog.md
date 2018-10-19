@@ -27,5 +27,5 @@ feed:
 pagination: true
 ---
 
-# My **Open Blogging** Space
-## Create, Publish, Share and Collaborate
+# My **Open Publishing** Space
+## Create, Share and Collaborate
