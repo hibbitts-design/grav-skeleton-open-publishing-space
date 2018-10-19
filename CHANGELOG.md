@@ -1,3 +1,12 @@
+# v1.3.2
+## 10/19/2018
+
+1. [](#improved)
+    * Restored skeleton display name from Open Blogging Space to Open Publishing Space
+    * Updated skeleton screenshot
+    * Updated example demo pages
+
+
 # v1.3.1
 ## 10/17/2018
 
@@ -8,9 +17,9 @@
 ## 10/10/2018
 
 1. [](#improved)
-    * Updated example demo pages
-    * Changed skeleton display name from Open Publishing Space to Open Blogging Space
+    * Testing changing skeleton display name from Open Publishing Space to Open Blogging Space
     * Updated skeleton screenshot
+    * Updated example demo pages
 
 # v1.2.9
 ## 10/07/2018
