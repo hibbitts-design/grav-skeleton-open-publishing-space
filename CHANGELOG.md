@@ -6,7 +6,6 @@
     * Updated skeleton screenshot
     * Updated example demo pages
 
-
 # v1.3.1
 ## 10/17/2018
 
