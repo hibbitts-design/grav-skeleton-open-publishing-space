@@ -27,7 +27,7 @@ blog-page: /blog
 spectre:
   exp: false
   icons: false
-grid-size: grid-xl
+grid-size: grid-lg
 menu:
   -
     text: Grav

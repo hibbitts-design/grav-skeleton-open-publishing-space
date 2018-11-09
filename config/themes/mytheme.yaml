@@ -16,7 +16,7 @@ cc_license:
   icon: false
 displaycustommenus:
   enabled: false
-hidehomemenulink: false
+hidehomemenulink: true
 production-mode: true
 header-fixed: true
 header-animated: true
@@ -27,4 +27,4 @@ blog-page: /blog
 spectre:
   exp: false
   icons: false
-grid-size: grid-xl
+grid-size: grid-lg
