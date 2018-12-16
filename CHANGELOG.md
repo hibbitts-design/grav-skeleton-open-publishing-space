@@ -62,6 +62,7 @@
 1. [](#improved)
     * Updated example demo pages
 
+# v1.2.6
 ## 08/18/2018
 
 1. [](#improved)
