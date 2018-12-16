@@ -11,19 +11,18 @@ form:
       validate:
         required: true
 
-    test:
-        type: display
-        size: large
-        label:
-        content: "This page will appear under your Blog page."
-
     folder:
       type: hidden
       default: '@slugify-title'
 
     route:
-      type: hidden
-      default: /blog
+      type: select
+      label: PLUGIN_ADMIN.PARENT_PAGE
+      classes: fancy
+      '@data-options': '\Grav\Common\Page\Pages::parents'
+      '@data-default': '\Grav\Plugin\admin::route'
+      options:
+        '/': PLUGIN_ADMIN.DEFAULT_OPTION_ROOT
 
     name:
       type: hidden
