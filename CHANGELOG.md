@@ -1,3 +1,9 @@
+# v1.3.6
+## 12/16/2018
+
+1. [](#improved)
+    * Added choice of parent page for "Add Blog Item" Admin Panel dialog
+
 # v1.3.5
 ## 12/16/2018
 
