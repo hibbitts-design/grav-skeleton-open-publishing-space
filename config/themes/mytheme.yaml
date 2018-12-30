@@ -28,3 +28,9 @@ spectre:
   icons: false
 grid-size: grid-lg
 git_sync_edit_note_text: 'Have a suggestion or correction?'
+menu:
+  -
+    text: Grav
+    icon: arrow-circle-right
+    url: 'https://getgrav.org/'
+    target: _blank
