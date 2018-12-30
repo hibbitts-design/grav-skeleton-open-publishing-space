@@ -1,3 +1,9 @@
+# v1.3.7
+## 12/30/2018
+
+1. [](#improved)
+    * Updated MyTheme settings
+
 # v1.3.6
 ## 12/16/2018
 
