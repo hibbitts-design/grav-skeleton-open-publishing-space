@@ -2,7 +2,7 @@
 ## 12/30/2018
 
 1. [](#improved)
-    * Updated MyTheme settings
+    * Updated MyTheme default settings
 
 # v1.3.6
 ## 12/16/2018
