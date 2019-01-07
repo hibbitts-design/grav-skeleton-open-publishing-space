@@ -1,3 +1,9 @@
+# v1.3.8
+## 01/07/2019
+
+1. [](#bugfix)
+    * Restored correct default settings for Archives Plugin
+
 # v1.3.7
 ## 12/30/2018
 
