@@ -34,3 +34,5 @@ menu:
     icon: arrow-circle-right
     url: 'https://getgrav.org/'
     target: _blank
+dropdown:
+  enabled: false

@@ -28,3 +28,5 @@ spectre:
   exp: false
   icons: false
 git_sync_edit_note_text: 'Have a suggestion or correction?'
+dropdown:
+  enabled: false
