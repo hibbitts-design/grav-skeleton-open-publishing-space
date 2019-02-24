@@ -18,17 +18,18 @@ widgets:
   dashboard-pages: true
 pages:
   show_parents: both
+  show_modular: true
 session:
   timeout: 1800
 warnings:
   delete_page: true
 edit_mode: normal
-frontend_pages_target: _blank
+frontend_preview_target: inline
 show_github_msg: false
 pages_list_display_field: title
 google_fonts: true
 admin_icons: font-awesome
-enable_auto_updates_check: true
+enable_auto_updates_check: false
 notifications:
   feed: true
   dashboard: true
@@ -43,6 +44,7 @@ popularity:
     daily: '30'
     monthly: '12'
     visitors: '20'
+frontend_pages_target: _blank
 add_modals:
   -
     label: 'Add Blog Item'
@@ -52,3 +54,15 @@ add_modals:
     label: 'Add Standard Page'
     blueprint: admin/pages/new_standard_page
     show_in: bar
+  -
+    label: 'Add Presentation'
+    blueprint: admin/pages/new_presentation
+    show_in: bar
+pagemedia:
+  resize_width: 0
+  resize_height: 0
+  res_min_width: 0
+  res_min_height: 0
+  res_max_width: 0
+  res_max_height: 0
+  resize_quality: 0.8
