@@ -15,7 +15,7 @@ Quick Install Instructions
 ---
 **Pre-flight Checklist**  
 
-1. Confirm Web server PHP version (PHP 5.5.9 or higher)
+1. Confirm Web server PHP version (PHP 7.1 or higher)
 2. Web server login credentials (username and password)
 
 **Installation Steps**  
@@ -41,7 +41,7 @@ Open Publishing Space Features Highlights
 			<td width="50%">
 				<ul>
 					<li>Ready-to-run open source <a href="http://getgrav.org">Grav</a> package</li>
-					<li>Minimal server requirements (PHP 5.5.9 or higher, no database required)</li>
+					<li>Minimal server requirements (PHP 7.1 or higher, no database required)</li>
 					<li>Built-in support for automatic two-way <a href="https://github.com/trilbymedia/grav-plugin-git-sync">Git Sync</a></li>
 					<li>Global 'Chromeless Pages' site setting for all pages (for embedding entire site within another platform, e.g. LMS)
 					<li>Optional 'chromeless' page URL flag (for embedding specific pages within another platform, e.g. LMS)
