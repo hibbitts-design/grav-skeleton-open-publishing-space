@@ -55,6 +55,7 @@ Open Publishing Space Features Highlights
 					<li>Option to toggle page summaries (i.e. summaries are not displayed with page content)</li>
 					<li>Supports custom page types and modular content</li>
 					<li>Site pages can be easily added/removed/changed</li>
+					<li>Enhanced support for the <a href="https://github.com/OleVik/grav-plugin-presentation">Presentation</a> Plugin</li>
 					<li>External links can be automatically opened in a new Tab/Window</li>
           <li>Custom menubar items</li>
 					<li>Markdown-based sidebar widget</li>
