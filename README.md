@@ -54,7 +54,6 @@ Open Publishing Space Features Highlights
 					<li>Featured posts (i.e. sticky posts)</li>
 					<li>Option to toggle page summaries (i.e. summaries are not displayed with page content)</li>
 					<li>Supports custom page types and modular content</li>
-					<li>Site pages can be easily added/removed/changed</li>
 					<li>Includes ShortCodes for Button, <a href="http://embed.ly/">embed.ly cards</a>, <a href="https://h5p.org/">H5P</a>, iFrame, PDF, <a href="https://speakerdeck.com/">SpeakerDeck</a>,<a href="https://www.swipe.to/">swipe.to</a> and<a href="https://twitter.com/">Twitter</a></li>
 					<li>Enhanced support for the <a href="https://github.com/OleVik/grav-plugin-presentation">Presentation Plugin</a></li>
 					<li>External links can be automatically opened in a new Tab/Window</li>
