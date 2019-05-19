@@ -56,8 +56,7 @@ Open Publishing Space Features Highlights
 					<li>Supports custom page types and modular content</li>
 					<li>Includes ShortCodes for Button, <a href="http://embed.ly/">embed.ly cards</a>, <a href="https://h5p.org/">H5P</a>, iFrame, PDF, <a href="https://speakerdeck.com/">SpeakerDeck</a>,<a href="https://www.swipe.to/">swipe.to</a> and<a href="https://twitter.com/">Twitter</a></li>
 					<li>Enhanced support for the <a href="https://github.com/OleVik/grav-plugin-presentation">Presentation Plugin</a></li>
-					<li>External links can be automatically opened in a new Tab/Window</li>
-          <li>Custom menubar items</li>
+          <li>Custom links can be added to site navigation bar</li>
 					<li>Markdown-based sidebar widget</li>
           <li>Creative Commons license display</li>
           <li>Various Web accessibility enhancements (i.e. hidden H1 page titles)</li>
