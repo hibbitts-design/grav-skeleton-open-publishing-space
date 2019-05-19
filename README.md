@@ -58,7 +58,7 @@ Open Publishing Space Features Highlights
 					<li>Site pages can be easily added/removed/changed</li>
 					<li>Enhanced support for the <a href="https://github.com/OleVik/grav-plugin-presentation">Presentation Plugin</a></li>
           <li>Custom links can be added to site navigation bar</li>
-					<li>Markdown-based sidebar widget</li>
+					<li>Sidebar is customizable (Markdown or HTML)</li>
           <li>Creative Commons license display</li>
           <li>Various Web accessibility enhancements (i.e. hidden H1 page titles)</li>
 				</ul>
