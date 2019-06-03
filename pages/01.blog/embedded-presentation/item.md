@@ -11,4 +11,4 @@ taxonomy:
     tag: [presentation]
 ---
 
-[presentation="presentations/placeholder-slide"]
+[presentation="presentations/placeholder-slides"]
