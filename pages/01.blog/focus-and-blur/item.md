@@ -8,6 +8,8 @@ hero_image: unsplash-focus.jpg
 taxonomy:
     category: blog
     tag: [mushroom, photography]
+
+header_image_alt_text: Plant, which blurs into the distance
 ---
 
 Lorem markdownum incessere **hostem coronae** properant. Perque matrem sic

@@ -11,6 +11,8 @@ hero_classes: 'text-dark title-h1h2 overlay-light hero-large parallax'
 hero_image: unsplash-luca-bravo.jpg
 blog_url: /blog
 subtitle: 'finding beauty in structure'
+
+header_image_alt_text: Modern building
 ---
 
 Lorem markdownum timore *in*, dant litora texit late **fecisse**. Sinistra ad
