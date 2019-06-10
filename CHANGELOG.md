@@ -1,3 +1,9 @@
+# v1.5.5
+## 06/10/2019
+
+1. [](#improved)
+    * Updated example demo pages
+
 # v1.5.4
 ## 06/03/2019
 
