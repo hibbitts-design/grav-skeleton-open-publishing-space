@@ -5,4 +5,4 @@ published: false
 visible: false
 ---
 
-Sample Notice
+Sample Important Notice
