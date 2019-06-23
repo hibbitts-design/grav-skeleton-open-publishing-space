@@ -1,6 +1,6 @@
 ---
 alert_color: blue
-title: 'Important Reminders'
+title: 'Important Notice'
 published: false
 visible: false
 ---
