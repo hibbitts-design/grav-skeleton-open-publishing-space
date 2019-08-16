@@ -150,4 +150,4 @@ accounts:
   storage: file
 strict_mode:
   yaml_compat: true
-  twig_compat: false
+  twig_compat: true
