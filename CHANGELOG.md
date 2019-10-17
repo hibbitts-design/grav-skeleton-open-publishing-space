@@ -1,3 +1,9 @@
+# v1.5.9
+## 10/17/2019
+
+1. [](#improved)
+    * Removed MyTheme option to hide homepage in menubar (set the 'visible' option to 'false' on homepage for same functionality)
+
 # v1.5.8
 ## 10/06/2019
 
