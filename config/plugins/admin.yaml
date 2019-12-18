@@ -57,7 +57,7 @@ add_modals:
   -
     label: 'Add Presentation'
     blueprint: admin/pages/new_presentation
-    show_in: bar
+    show_in: dropdown
 pagemedia:
   resize_width: 0
   resize_height: 0
