@@ -1,7 +1,7 @@
 ---
 title: 'Subsection One'
 taxonomy:
-    tag:
+    filter:
         - view1
         - view2
 ---

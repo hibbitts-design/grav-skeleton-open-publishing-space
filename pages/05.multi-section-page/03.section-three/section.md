@@ -1,7 +1,7 @@
 ---
 title: 'Section Three'
 taxonomy:
-    tag:
+    filter:
         - view1
         - view2
 ---
