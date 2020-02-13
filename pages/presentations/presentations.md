@@ -1,7 +1,6 @@
 ---
 title: 'All Presentations'
 published: true
-child_type: presentation
 visible: false
 content:
     order:
@@ -10,4 +9,5 @@ content:
     items: '@self.children'
 hide_page_title: false
 hide_git_sync_repo_link: false
+child_type: presentation
 ---

@@ -30,6 +30,7 @@ feed:
     limit: 10
     description: 'Sample Blog Description'
 pagination: true
+child_type: item
 ---
 
 # My **Open Publishing** Space
