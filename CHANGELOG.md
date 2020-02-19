@@ -1,3 +1,9 @@
+# v1.6.3
+## 02/19/2020
+
+1. [](#bugfix)
+    * Removed deprecated GitSync config variable
+
 # v1.6.2
 ## 02/13/2020
 
