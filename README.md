@@ -29,7 +29,7 @@ Quick Install Instructions
 
 Open Publishing Space Screenshot
 ---
-![ Open Publishing Space Skeleton](smartmockups_open-publishing-space.png)
+![ Open Publishing Space Skeleton](https://github.com/paulhibbitts/github-repo-images/blob/master/smartmockups_open-publishing-space.png?raw=true)
 
 This skeleton uses the [Quark Open Publishing theme](https://github.com/hibbitts-design/grav-theme-quark-open-publishing), a customized version of the [Quark theme](https://github.com/getgrav/grav-theme-quark).
 
