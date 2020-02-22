@@ -7,11 +7,11 @@
 
 **Open Publishing Space** with Git Sync is designed to support an open and collaborative publishing space, inside or outside of other platforms (e.g. LMS). Built with the open source modern file-based [Grav CMS](http://getgrav.org).
 
-Information and Documentation
+📚Information and Documentation
 ---
 http://learn.hibbittsdesign.org/openpublishingspace
 
-Quick Install Instructions
+🚀Quick Install Instructions
 ---
 **Pre-flight Checklist**  
 
@@ -27,13 +27,13 @@ Quick Install Instructions
 5. Create your site administrator account when prompted  
 6. And you're done! (press the ![Right Arrow Circle Icon](https://github.com/paulhibbitts/github-repo-images/blob/master/fa-arrow-circle-right.png?raw=true) icon in the Admin Panel to preview site)
 
-Open Publishing Space Screenshot
+💻Open Publishing Space Screenshot
 ---
 ![ Open Publishing Space Skeleton](https://github.com/paulhibbitts/github-repo-images/blob/master/smartmockups_open-publishing-space.png?raw=true)
 
 This skeleton uses the [Quark Open Publishing theme](https://github.com/hibbitts-design/grav-theme-quark-open-publishing), a customized version of the [Quark theme](https://github.com/getgrav/grav-theme-quark).
 
-Open Publishing Space Features Highlights
+⚡️Open Publishing Space Features Highlights
 ---
 <table cellpadding="2" cellspacing="2" width="100%">
 	<tbody>
