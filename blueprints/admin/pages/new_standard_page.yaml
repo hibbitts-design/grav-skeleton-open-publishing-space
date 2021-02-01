@@ -11,19 +11,16 @@ form:
       validate:
         required: true
 
-    text:
-        type: display
-        size: large
-        label:
-        content: "This top-level page will also be added to your site menu."
-
     folder:
       type: hidden
       default: '@slugify-title'
 
     route:
-      type: hidden
-      default: /
+      type: parents
+      label: PLUGIN_ADMIN.PARENT
+      classes: fancy
+      validate:
+        required: true
 
     name:
       type: hidden
