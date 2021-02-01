@@ -54,10 +54,6 @@ add_modals:
     label: 'Add Standard Page'
     blueprint: admin/pages/new_standard_page
     show_in: bar
-  -
-    label: 'Add Presentation'
-    blueprint: admin/pages/new_presentation
-    show_in: dropdown
 pagemedia:
   resize_width: 0
   resize_height: 0
