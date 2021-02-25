@@ -15,7 +15,7 @@ http://learn.hibbittsdesign.org/openpublishingspace
 ---
 **Pre-flight Checklist**  
 
-1. Confirm Web server PHP version (PHP 7.1 or higher)
+1. Confirm Web server PHP version (PHP 7.1.3 or higher)
 2. Web server login credentials (username and password)
 
 **Installation Steps**  
