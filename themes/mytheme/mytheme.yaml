@@ -1,0 +1,9 @@
+streams:
+ schemes:
+   theme:
+     type: ReadOnlyStream
+     prefixes:
+       '':
+       - user/themes/mytheme
+       - user/themes/quark-open-publishing
+       - user/themes/quark
