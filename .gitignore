@@ -6,8 +6,10 @@ data/*
 !data/.*
 plugins/*
 !plugins/.*
-themes/*
-!themes/.*
+!customadmin
+!themes/quark/.*
+themes/quark/*
+quark-open-publishing
 localhost/*
 !localhost/.*
 
