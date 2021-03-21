@@ -1,7 +1,6 @@
 ---
-title: 'Custom Content List Page'
+title: 'Custom Page Types Page'
 published: false
-child_type: embedlycard
 visible: true
 content:
     order:
