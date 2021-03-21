@@ -1,3 +1,9 @@
+# v1.6.7
+## 03/21/2021
+
+1. [](#improved)
+    * Updated example demo pages
+
 # v1.6.6
 ## 01/31/2021
 
