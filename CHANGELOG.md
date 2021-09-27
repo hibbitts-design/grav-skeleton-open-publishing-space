@@ -1,8 +1,14 @@
+# v1.7.0
+## 09/27/2021
+
+1. [](#improved)
+    * Updated to Grav 1.7.22 and Quark Open Publishing v2.2.9
+
 # v1.6.9
 ## 09/26/2021
 
 1. [](#improved)
-    * Updated to Grav 1.7.22 and Bootstrap4 Open Matter v3.7.9
+    * Updated to Grav 1.7.22
 
 # v1.6.8
 ## 04/19/2021
