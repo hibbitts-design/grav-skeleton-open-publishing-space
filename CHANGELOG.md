@@ -1,8 +1,14 @@
+# v1.7.1
+## 09/27/2021
+
+1. [](#improved)
+    * Updated to Quark Open Publishing v2.3.0
+
 # v1.7.0
 ## 09/27/2021
 
 1. [](#improved)
-    * Updated to Grav 1.7.22 and Quark Open Publishing v2.2.9
+    * Updated to Quark Open Publishing v2.2.9
 
 # v1.6.9
 ## 09/26/2021
