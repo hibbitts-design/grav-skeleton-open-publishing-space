@@ -9,7 +9,7 @@
 
 📚 Information and Documentation
 ---
-http://learn.hibbittsdesign.org/openpublishingspace
+https://learn.hibbittsdesign.org/openpublishingspace
 
 🚀 Quick Install Instructions
 ---
@@ -20,7 +20,7 @@ http://learn.hibbittsdesign.org/openpublishingspace
 
 **Installation Steps**  
 
-1. Download the ready-to-run [Open Publishing Space Skeleton Package](http://hibbittsdesign.org/blog/downloads/grav-skeleton-open-publishing-space-site.zip)
+1. Download the ready-to-run [Open Publishing Space Skeleton Package](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space/releases/latest/download/grav-skeleton-open-publishing-space.zip)
 2. Unzip the package onto your desktop  
 3. Copy the entire expanded folder to your Web server  
 4. Point your browser to the Web server folder  
