@@ -67,6 +67,6 @@ This skeleton uses the [Quark Open Publishing theme](https://github.com/hibbitts
 	</tbody>
 </table>
 
-Share Your Feedback
+💬 Share Your Feedback
 ---
 * Complete the [Open Publishing Space Survey](https://goo.gl/forms/WtGdm1UFJ7BJj1N53)
