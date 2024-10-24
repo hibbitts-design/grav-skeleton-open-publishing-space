@@ -1,14 +1,14 @@
 name: Open Publishing Space
-version: 1.7.7
+version: 1.7.8
 description: "Open Publishing (Blogging) Space uses a customized version of the Quark theme to support the creation, sharing and collaborative editing of Markdown-based blogs. Includes Admin Panel and Git Sync plugins."
 icon: git
 author:
- name: Hibbitts Design
+ name: HibbittsDesign.org
  email: hello@hibbittsdesign.org
- url: http://hibbittsdesign.org
+ url: https://hibbittsdesign.org
 homepage: https://github.com/hibbitts-design/grav-skeleton-open-publishing-space
-demo: http://demo.hibbittsdesign.org/grav-open-publishing-quark/
-docs: http://learn.hibbittsdesign.org/openpublishingspace
+demo: https://demo.hibbittsdesign.org/grav-open-publishing-quark/
+docs: https://learn.hibbittsdesign.org/openpublishingspace
 keywords: open, publishing, gitsync, chromeless
 bugs: https://github.com/hibbitts-design/grav-skeleton-open-publishing-space/issues
 license: MIT

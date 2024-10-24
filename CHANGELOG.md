@@ -1,3 +1,9 @@
+# v1.7.8
+## XX/XX/2024
+
+1. [](#improved)
+    * Changed skeleton author information to HibbittsDesign.org
+
 # v1.7.7
 ## 07/17/2024
 
