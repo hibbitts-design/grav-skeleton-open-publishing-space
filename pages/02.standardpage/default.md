@@ -13,7 +13,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce molestie iaculis 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce molestie iaculis nisl sed interdum. Praesent mi nisl, efficitur in felis vel, molestie sollicitudin eros. Mauris urna quam, euismod nec lacinia non, dignissim eu odio. Donec nisl nibh, facilisis at nisl vitae, porttitor hendrerit libero. Integer vel neque in ante condimentum malesuada. Mauris dictum nunc enim, non tincidunt arcu tincidunt vel. Aliquam gravida, massa id semper tincidunt, tellus sapien accumsan tortor, in placerat arcu justo ac urna. Vestibulum blandit ultrices neque, eget congue tortor vehicula id.
 
-[clearboth]
+[clearboth/]
 
 ![Sky and Mountain](chase-moyer-730496-unsplash.jpg?resize=600,450&classes=caption,caption-right,figure-right "Photo by Chase Moyer on Unsplash")
 
@@ -21,7 +21,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce molestie iaculis 
 
 Aliquam nulla felis, fringilla nec lobortis a, faucibus a magna. Nulla faucibus ullamcorper risus, eget molestie ante consequat tristique. Vestibulum eget felis eu leo aliquet cursus. Nunc lobortis purus rhoncus libero tempor, in finibus dui dictum. Cras eu fermentum velit. Mauris in urna vitae eros faucibus commodo. Curabitur in massa sagittis, faucibus ante nec, feugiat tortor. Phasellus et posuere nulla, finibus interdum enim. Praesent commodo convallis orci nec lacinia. Nunc ultricies non ante id efficitur. Quisque dui sapien, sollicitudin sagittis interdum quis, pharetra id felis. Donec nec metus rhoncus, commodo magna ac, auctor turpis. Cras at lobortis mi, et facilisis mi. Proin consequat pharetra nunc, sit amet iaculis sem pulvinar ornare. Maecenas semper euismod ipsum, eget tincidunt libero malesuada at. In hac habitasse platea dictumst.
 
-[clearboth]
+[clearboth/]
 
 ![Sky and Mountain](chase-moyer-730496-unsplash.jpg?resize=600,450&classes=left)
 
