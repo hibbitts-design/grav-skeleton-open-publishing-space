@@ -7,6 +7,7 @@ data/*
 plugins/*
 !plugins/.*
 !customadmin
+!customadmin-grav2
 !themes/quark/.*
 themes/quark/*
 quark-open-publishing
