@@ -1,8 +1,9 @@
-# v1.7.10
-## XX/XX/2026
+# v1.8.0
+## 04/22/2026
 
 1. [](#improved)
     * Streamlined dependencies to improve Grav 2 compatibility
+    * Updated Customadmin plugin to custom Customadmin Grav2 with Admin2 (Grav 2) CSS and JS support, maintaining full backward compatibility with Admin1
 
 # v1.7.9
 ## 03/26/2026
