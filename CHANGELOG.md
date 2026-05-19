@@ -1,3 +1,10 @@
+# v1.8.1
+## 05/19/2026
+
+1. [](#improved)
+    * Streamlined dependencies to improve Grav 2 compatibility
+    * Restore Grav 1.7 Custom Admin plugin (Customadmin Grav2 no longer needed)
+
 # v1.8.0
 ## 04/22/2026
 
