@@ -1,3 +1,9 @@
+# v1.8.2
+## XX/XX/2026
+
+1. [](#improved)
+    * Add 1.7|2.0 compatibility flags to default inherited theme
+
 # v1.8.1
 ## 05/19/2026
 
