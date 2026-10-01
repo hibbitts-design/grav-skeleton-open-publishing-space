@@ -1,3 +1,11 @@
+# v1.9.0
+## 10/01/2026
+
+1. [](#improved)
+    * Remove Custom Presentation Link Text option from inherited theme, as legacy Presentation plugin support has been removed
+    * Remove unused Add Presentation Admin page blueprint and Presentation plugin configuration
+    * Remove legacy NextGen Editor configuration and README mention
+
 # v1.8.2
 ## 08/24/2026
 
