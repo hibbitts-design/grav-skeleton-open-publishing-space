@@ -16,6 +16,8 @@
 <img alt="Open Publishing Space blog with a mountain hero image, blog post cards, and a sidebar with tags and archives" src="https://raw.githubusercontent.com/hibbitts-design/grav-skeleton-open-publishing-space/refs/heads/master/screenshots/screenshot.webp" width="100%">
 </a>
 
+<p>Open Publishing Space – Blog</p>
+
 </div>
 
 A complete, pre-configured package for an open blog or publishing site – a place to write, share, and collaboratively edit content in the open. Content is stored as simple Markdown files you can keep locally, with a built-in Admin panel for browser-based editing and no database required. Runs on nearly any web hosting service.
