@@ -54,9 +54,7 @@ This skeleton uses the [Quark Open Publishing theme](https://github.com/hibbitts
 					<li>Featured posts (i.e. sticky posts)</li>
 					<li>Option to toggle page summaries (i.e. summaries are not displayed with page content)</li>
 					<li>Includes ShortCodes for Buttons, <a href="http://embed.ly/">Embed.ly Cards</a>, <a href="https://www.google.ca/slides/about/">GoogleSlides</a>, <a href="https://h5p.org/">H5P</a>, iFrame, PDF and <a href="https://twitter.com/">Twitter Feeds</a></li>
-					<li>Enhanced support for GoogleSlides, H5P and PDF Shortcodes in <a href="https://getgrav.org/premium/nextgen-editor">Grav Premium NextGen Editor</a></li>
 					<li>Site pages can be easily added/removed/changed</li>
-					<li>Enhanced support for the <a href="https://github.com/OleVik/grav-plugin-presentation">Presentation Plugin</a></li>
           <li>Custom links can be added to site navigation bar</li>
 					<li>Sidebar is customizable (Markdown or HTML)</li>
           <li>Creative Commons license display</li>
