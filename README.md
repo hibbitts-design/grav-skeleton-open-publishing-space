@@ -29,6 +29,7 @@ A complete, pre-configured package for an open blog or publishing site – a pla
 - **A blog that's ready to go** – posts listed newest first in a card layout, featured (sticky) posts, tags, archives, and Atom/RSS feeds
 - **More than a blog** – standard, multi-section, and modular pages, plus shortcodes for Google Slides, H5P, PDF, iFrame, Embedly, and link preview cards
 - **Built on Quark** – Grav's lightweight, responsive default theme, with hero images and full-page mobile navigation
+- **2026 Refresh with Dark Mode** – off, on, or following the visitor's system setting
 - **Portable by design** – your content is plain Markdown files on your server, ready to move to any tool or host if your needs change
 
 ## When is Grav Open Publishing Space a Good Candidate?
@@ -70,7 +71,7 @@ Open Publishing Space is best suited for writers and educators comfortable with 
 - **Blog** – the Blog page is the homepage; its text and image form the hero banner at the top. Each post is a folder inside `blog` (add one with **Pages → Add**), listed newest first, six per page. Tag a post `featured` to keep it at the top, and edit the notice above the posts in `blog/_important-notice`
 - **Other pages** – top-level pages (Standard Page, Multi-Section Page, Read Me, and so on) appear in the menu, ordered by their folder number; unpublish any you don't need
 - **Shared parts** – edit the `sidebar` page (set its `position` to `top` or `bottom` of the sidebar) and the `footer` page
-- **Look and options** – under **Themes → My Theme**: logo, header and footer style, chromeless site, Creative Commons license, and custom menu items (see the [Quark Open Publishing README](https://github.com/hibbitts-design/grav-theme-quark-open-publishing#theme-options) for all options)
+- **Look and options** – under **Themes → My Theme**: Dark Mode, logo, header and footer style, chromeless site, Creative Commons license, and custom menu items (see the [Quark Open Publishing README](https://github.com/hibbitts-design/grav-theme-quark-open-publishing#theme-options) for all options)
 - **Embedding** – add `/chromeless:true` to any page URL, for example `/blog/hero-classes/chromeless:true`
 - **Git Sync and "Edit this Page"** – set up the Git Sync plugin in the Admin Panel, then choose where the link appears and whether it views or edits the source in the theme's Git Sync Link options
 
