@@ -110,6 +110,20 @@ form:
           type: tab
           title: 'Quark Options'
           fields:
+            visualstyle:
+              type: section
+              title: 'Visual Style'
+              underline: true
+            dark_mode.mode:
+              type: select
+              label: 'Dark Mode'
+              help: 'Off: never. On: always. Auto (System): follows visitor OS preference.'
+              size: medium
+              default: disabled
+              options:
+                disabled: 'Off'
+                enabled: 'On'
+                auto: 'Auto (System)'
             production-mode:
               type: toggle
               label: 'Production mode'

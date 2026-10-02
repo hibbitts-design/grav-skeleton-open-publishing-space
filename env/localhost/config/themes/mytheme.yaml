@@ -5,7 +5,7 @@ streams:
       prefixes:
         '': [user/themes/mytheme, user/themes/quark-open-publishing, user/themes/quark]
 dark_mode:
-  mode: disabled
+  mode: enabled
 chromeless:
   enabled: false
 display_of_git_sync_repo_link: menu
@@ -15,6 +15,7 @@ cc_license:
   enabled: false
   type: ccby
   icon: false
+  text: null
 displaycustommenus:
   enabled: false
 hidehomemenulink: true
@@ -38,3 +39,9 @@ menu:
     target: _blank
 dropdown:
   enabled: false
+blog_page_hero_classes: null
+custom_git_sync_repo_link_icon: null
+custom_git_sync_repo_link_text: null
+git_sync_repo_link: null
+custom_logo: {  }
+custom_logo_mobile: {  }
