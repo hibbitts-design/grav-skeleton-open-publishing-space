@@ -16,7 +16,7 @@ By adding the URL parameter (i.e. flag) `chromeless:true` to any Open Publishing
 For example, the URL [http://demo.hibbittsdesign.org/grav-open-publishing-quark/](http://demo.hibbittsdesign.org/grav-open-publishing-quark/) displays the standard Open Publishing Space blog post list page but the URL [http://demo.hibbittsdesign.org/grav-open-publishing-quark/chromeless:true](http://demo.hibbittsdesign.org/grav-open-publishing-quark/chromeless:true) will only display that page's content. Any links between Open Publishing Space pages will result in pages being displayed in the same manner.
 
 ### What Else Can the Open Publishing Space do for You? ##
-Learn more about the capabilities of the Open Publishing Space project at [learn.hibbittsdesign.org](http://learn.hibbittsdesign.org/openpublishingspace).
+Learn more about the capabilities of the Open Publishing Space project in its [README on GitHub](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space#readme).
 
 <hr>
 <br>
