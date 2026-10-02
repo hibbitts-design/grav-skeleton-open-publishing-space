@@ -2,7 +2,8 @@
 ## XX/XX/2026
 
 1. [](#improved)
-    * Use Grav's default jQuery 3 instead of the legacy jQuery 2.x
+    * Point documentation links to the README on GitHub
+    * Use Grav's default jQuery 3
 
 # v1.10.0
 ## 10/02/2026
