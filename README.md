@@ -12,11 +12,9 @@
 
 <p>A free, open-source package built on <a href="https://getgrav.org">Grav CMS</a> and the <a href="https://github.com/hibbitts-design/grav-theme-quark-open-publishing">Quark Open Publishing</a> theme, with Markdown file-based content, a built-in Admin panel, and no database required.</p>
 
-<a href="https://raw.githubusercontent.com/hibbitts-design/grav-skeleton-open-publishing-space/refs/heads/master/screenshots/screenshot.webp">
-<img alt="Open Publishing Space blog with a mountain hero image, blog post cards, and a sidebar with tags and archives" src="https://raw.githubusercontent.com/hibbitts-design/grav-skeleton-open-publishing-space/refs/heads/master/screenshots/screenshot.webp" width="100%">
-</a>
+<a href="https://raw.githubusercontent.com/hibbitts-design/grav-skeleton-open-publishing-space/refs/heads/master/screenshots/screenshot.webp"><img alt="Open Publishing Space blog with a mountain hero image, blog post cards, and a sidebar with tags and archives" src="https://raw.githubusercontent.com/hibbitts-design/grav-skeleton-open-publishing-space/refs/heads/master/screenshots/screenshot.webp" width="49%"></a> <a href="https://raw.githubusercontent.com/hibbitts-design/grav-skeleton-open-publishing-space/refs/heads/master/screenshots/screenshot-2.webp"><img alt="Blog post with a typography hero image, a notice, headings, and a sidebar with related posts and tags" src="https://raw.githubusercontent.com/hibbitts-design/grav-skeleton-open-publishing-space/refs/heads/master/screenshots/screenshot-2.webp" width="49%"></a>
 
-<p>Open Publishing Space – Blog</p>
+<p>Open Publishing Space – Blog (left) and blog post (right)</p>
 
 </div>
 
