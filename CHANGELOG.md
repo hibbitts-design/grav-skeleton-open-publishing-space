@@ -1,5 +1,5 @@
 # v1.10.0
-## XX/XX/2026
+## 10/02/2026
 
 1. [](#new)
     * 2026 Refresh: add Dark Mode option (Off, On, Auto) to the inherited theme, default Off
