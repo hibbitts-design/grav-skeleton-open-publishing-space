@@ -4,7 +4,7 @@
 1. [](#new)
     * 2026 Refresh: add Dark Mode option (Off, On, Auto) to the inherited theme, default Off
 1. [](#improved)
-    * Rewrite README in streamlined style with single screenshot
+    * Rewrite README in streamlined style with homepage and interior page screenshots
     * Point documentation link to the README
 
 # v1.9.0
