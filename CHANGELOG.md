@@ -1,3 +1,17 @@
+# v2.0.0
+## XX/XX/2026
+
+1. [](#new)
+    * Add Multi-Page Content demo, using the new Section List page type
+    * Add search with the SimpleSearch plugin
+    * Add GitHub Markdown Alerts plugin (Grav 2)
+1. [](#improved)
+    * Update to Quark Open Publishing 3.0.0
+    * Turn on Previous/Next tiles for multi-page content
+    * Hide the earlier Multi-Section Page and the Search page from the menu
+    * Rename "Open Publishing (Blogging) Space" to "Open Publishing Space"
+    * Update README for multi-page content and search
+
 # v1.10.1
 ## XX/XX/2026
 
