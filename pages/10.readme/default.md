@@ -3,7 +3,7 @@ title: 'Read Me'
 published: true
 ---
 
-### Create, Share and Collaborate using Grav Open Publishing (Blogging) Space!  
+### Create, Share and Collaborate using Grav Open Publishing Space!  
 
 1. Create a new [Git](https://git-scm.com/) repository (hosted on [GitHub](https://github.com/), [GitLab](https://about.gitlab.com/), [Bitbucket](https://bitbucket.org/) or your own server) with at least one commit.
 2. Tap the '[fa icon="cog"]Setup Git Sync' link on the far-right of the site navigation bar of this page for step-by-step instructions.

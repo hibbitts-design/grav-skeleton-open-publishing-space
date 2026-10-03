@@ -3,9 +3,9 @@ title: Homepage Highlights
 menu: Highlights
 class: offset-box
 features:
-	- header: Crazy Fast
-	  text: "Performance is not just an afterthought, we baked it in from the start!"
-	  icon: fa fa-fighter-jet
+    - header: Crazy Fast
+      text: "Performance is not just an afterthought, we baked it in from the start!"
+      icon: fa fa-fighter-jet
     - header: Easy to build
       text: "Simple text files means Grav is trivial to install, and easy to maintain"
       icon: fa fa-database
