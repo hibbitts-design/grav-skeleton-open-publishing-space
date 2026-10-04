@@ -6,8 +6,7 @@
     * Add search with the SimpleSearch plugin
     * Add GitHub Markdown Alerts plugin (Grav 2)
 1. [](#improved)
-    * Update to Quark Open Publishing 3.0.1
-    * Turn on Previous/Next tiles for multi-page content
+    * Update to Quark Open Publishing 3.0.2
     * Turn on larger text on phones
     * Hide the earlier Multi-Section Page and the Search page from the menu
     * Rename "Open Publishing (Blogging) Space" to "Open Publishing Space"
