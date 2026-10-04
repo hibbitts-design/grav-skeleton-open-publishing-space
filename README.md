@@ -18,16 +18,16 @@
 
 </div>
 
-A complete, pre-configured package for an open blog or publishing site – a place to write, share, and collaboratively edit content in the open, including short multi-page guides alongside your blog. Content is stored as simple Markdown files you can keep locally, with a built-in Admin panel for browser-based editing and no database required. Runs on nearly any web hosting service.
+A complete, pre-configured package for an open publishing site – a place to write, share, and collaboratively edit content in the open, with guides and a blog side by side. Content is stored as simple Markdown files you can keep locally, with a built-in Admin panel for browser-based editing and no database required. Runs on nearly any web hosting service.
 
 ## What Sets It Apart
 
+- **Guides and a blog in one site** – the only Grav skeleton for both: guides with section cards, parts, reading progress, Previous/Next navigation, Keep My Place, Learning Objectives, and OER attribution, alongside a full blog. Guides use the same page settings as [Grav Helios Open Reader](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader), so they can move there if your site becomes mainly about reading
 - **Open authoring built in** – Git Sync keeps the site in step with GitHub or a similar Git service, with "Edit this Page" links to each page's Markdown source
 - **Embed anywhere** – add `/chromeless:true` or `?embedded=true` to any page URL to show only its content, ready to embed in an LMS or other site
 - **A blog that's ready to go** – posts listed newest first in a card layout, featured (sticky) posts, tags, archives, and Atom/RSS feeds
-- **Multi-page content** – a short guide or handbook with section cards, Learning Objectives, reading progress, Previous/Next navigation, and OER attribution, using the same page settings as [Grav Helios Open Reader](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader) so it can move there if it grows
-- **More than a blog** – standard, multi-section, and modular pages, plus shortcodes for Google Slides, H5P, PDF, iFrame, Embedly, and link preview cards, callout shortcodes such as `[objectives]` and `[key-takeaways]`, and GitHub-style alerts
-- **Search** – grouped results with the search words highlighted, from the blog sidebar, the Search page, or a search box on multi-page content that searches just that content
+- **More page types** – standard, multi-section, and modular pages, plus shortcodes for Google Slides, H5P, PDF, iFrame, Embedly, and link preview cards, callout shortcodes such as `[objectives]` and `[key-takeaways]`, and GitHub-style alerts
+- **Search** – grouped results with the search words highlighted, from the blog sidebar, the Search page, or a search box on each guide that searches just that guide
 - **Built on Quark** – Grav's lightweight, responsive default theme, with hero images and full-page mobile navigation
 - **2026 Refresh with Dark Mode** – off, on, or following the visitor's system setting
 - **Portable by design** – your content is plain Markdown files on your server, ready to move to any tool or host if your needs change
@@ -36,14 +36,14 @@ A complete, pre-configured package for an open blog or publishing site – a pla
 
 Grav Open Publishing Space is a good fit when you:
 
-- Want an open blog or publishing site with your own hosting and domain
+- Want an open publishing site, with guides and a blog, on your own hosting and domain
 - Value Git-based, open authoring and collaboration on your writing
-- Want to publish a short guide or handbook alongside your blog
+- Want to publish guides – even long ones, grouped into parts – alongside a blog
 - Prefer a clean, minimal design you can adjust through theme options
 
 Other options might be better when you:
 
-- Want to publish substantial, standalone open content, such as an open textbook, or several readers on one site – consider [Grav Helios Open Reader](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader)
+- Want a site built for reading, such as open textbooks and course readers, with a table of contents on every page and several publications on one site – consider [Grav Helios Open Reader](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader), built on the premium Helios theme
 - Want zero-server publishing directly from GitHub – consider [Docsify-This](https://docsify-this.net)
 - Need comments, memberships, or newsletters built in
 - Prefer fully visual drag-and-drop page builders over Markdown-based editing
@@ -70,11 +70,12 @@ Open Publishing Space is best suited for writers and educators comfortable with 
 ## Site Setup
 
 - **Site name and description** – in the Admin Panel under **Configuration → Site**
-- **Blog** – the Blog page is the homepage; its text and image form the hero banner at the top. Each post is a folder inside `blog` (add one with **Pages → Add**), listed newest first, six per page. Tag a post `featured` to keep it at the top, and edit the notice above the posts in `blog/_important-notice`
-- **Other pages** – top-level pages (Standard Page, Multi-Page Content, Read Me, and so on) appear in the menu, ordered by their folder number; unpublish any you don't need
-- **Multi-Section Page** – a simpler alternative to Multi-Page Content: a page with a side list of its sections and classic Next/Prev buttons, at `/multi-section-page`. It isn't shown in the menu; set it to visible to add it. When embedded, it keeps its side list and buttons, while Multi-Page Content shows only the page content
-- **Multi-Page Content** – an example guide using the Section List page type: set its subtitle, cover image, author(s), edition, section label, and OER attribution on its home page, and each section's card description, image, and Learning Objectives on the section (see the [Quark Open Publishing README](https://github.com/hibbitts-design/grav-theme-quark-open-publishing#multi-page-content), including moving a guide to Grav Helios Open Reader)
-- **Search** – uses the SimpleSearch plugin, from the blog sidebar, the Search page, and the search box on multi-page content; the optional TNTSearch plugin can be used instead. On sites set up with an earlier version of this skeleton, clear the **Category** filter in **Plugins → SimpleSearch** so search covers every page, not just blog posts
+- **Homepage** – the Open Education Essentials guide is the homepage; to use another page (such as the Blog), change the **Home Page** setting in **Configuration → System**
+- **Blog** – at `/blog`; its text and image form the hero banner at the top. Each post is a folder inside `blog` (add one with **Pages → Add**), listed newest first, six per page. Tag a post `featured` to keep it at the top, and edit the notice above the posts in `blog/_important-notice`
+- **Other pages** – top-level pages (Open Education Essentials, Blog, Standard Page, Read Me, and so on) appear in the menu, ordered by their folder number; unpublish any you don't need. The `modular-page`, `modular-page-inject`, `multi-section-page`, and `custom-page-type-page` examples are unpublished – publish one to try it
+- **Multi-Section Page** – a simpler alternative to a guide: a page with a side list of its sections and classic Next/Prev buttons. When embedded, it keeps its side list and buttons, while a guide shows only the page content
+- **Open Education Essentials** – the example guide, in two parts, using the Section List page type; it is also the example guide in Grav Helios Open Reader. Set its subtitle, cover image, author(s), edition, last updated date, section label, reading progress, Keep My Place, Previous/Next position, and OER attribution on its home page, and each section's Part, card description, image, and Learning Objectives on the section (see the [Quark Open Publishing README](https://github.com/hibbitts-design/grav-theme-quark-open-publishing#multi-page-content), including moving a guide to Grav Helios Open Reader)
+- **Search** – uses the SimpleSearch plugin, from the blog sidebar, the Search page, and the search box on each guide; the optional TNTSearch plugin can be used instead. On sites set up with an earlier version of this skeleton, clear the **Category** filter in **Plugins → SimpleSearch** so search covers every page, not just blog posts
 - **Shared parts** – edit the `sidebar` page (set its `position` to `top` or `bottom` of the sidebar) and the `footer` page
 - **Look and options** – under **Themes → My Theme**: Dark Mode, text size on phones, logo, header and footer style, chromeless site, Creative Commons license, and custom menu items (see the [Quark Open Publishing README](https://github.com/hibbitts-design/grav-theme-quark-open-publishing#theme-options) for all options)
 - **Embedding** – add `/chromeless:true` or `?embedded=true` to any page URL, for example `/blog/hero-classes/chromeless:true` or `/blog/hero-classes?embedded=true`

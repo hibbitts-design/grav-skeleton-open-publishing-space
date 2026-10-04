@@ -1,7 +1,6 @@
 ---
 title: 'Custom Page Types Page'
 published: false
-visible: true
 content:
     order:
         by: default

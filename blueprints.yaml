@@ -1,5 +1,5 @@
 name: Open Publishing Space
-version: 2.0.0
+version: 2.1.0
 description: "Open Publishing Space uses a customized version of the Quark theme to support the creation, sharing and collaborative editing of Markdown-based blogs. Includes Admin Panel and Git Sync plugins."
 icon: git
 author:

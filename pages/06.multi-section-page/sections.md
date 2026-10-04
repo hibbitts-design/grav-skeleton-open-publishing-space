@@ -1,7 +1,6 @@
 ---
 title: 'Multi-Section Page'
-visible: false
-published: true
+published: false
 hide_page_title: true
 content:
     items: '@self.children'
