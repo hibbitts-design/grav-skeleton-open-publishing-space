@@ -1,7 +1,7 @@
 ---
 title: 'Open Education Essentials'
 subtitle: 'A Practical Guide for Educators'
-cover_image: kevin-grieve-B8ciJlFvaBQ-unsplash.jpg
+cover_image: viktor-forgacs-click-LNwIJHUtED4-unsplash.jpg
 cover_image_layout: large
 authors: 'Your Name'
 edition: 'First Edition, 2026'
