@@ -1,3 +1,14 @@
+# v2.1.0
+## 10/04/2026
+
+1. [](#new)
+    * Make the Open Education Essentials guide the homepage, grouped into two parts – the same guide as in the Helios Open Reader demo
+    * Add GitHub Markdown Alerts plugin 1.1.1 to the Grav 1.7 package
+1. [](#improved)
+    * Update to Quark Open Publishing 3.1.0
+    * Unpublish the Modular Page Inject, Multi-Section Page and Custom Page Types examples, rather than hiding them from the menu
+    * Update README
+
 # v2.0.0
 ## 10/04/2026
 
