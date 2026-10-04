@@ -38,5 +38,4 @@ menu:
     target: _blank
 dropdown:
   enabled: false
-sections_prev_next_style: tiles
 phone_text_size: larger

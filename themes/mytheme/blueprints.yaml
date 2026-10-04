@@ -106,18 +106,6 @@ form:
                 '1': Enabled
               validate:
                 type: bool
-            sectionsoptions:
-              type: section
-              title: 'Multi-Section and Section List Pages'
-              underline: true
-            sections_prev_next_style:
-              type: select
-              label: 'Previous/Next Navigation Style'
-              default: buttons
-              options:
-                buttons: 'Buttons (classic)'
-                tiles: 'Previous/Next tiles, with the reading progress (as in Helios Open Reader)'
-              help: 'How the Previous/Next navigation is shown on section and subsection pages. Tiles always keep Next on the right and follow the order of the side navigation.'
         theme_info:
           type: tab
           title: 'Quark Options'
