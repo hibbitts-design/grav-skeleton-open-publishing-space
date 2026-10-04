@@ -1,7 +1,6 @@
 ---
-title: 'Open Publishing Guide'
-menu: 'Multi-Page Content'
-subtitle: 'Publishing Your Own Open Content'
+title: 'Multi-Page Content'
+subtitle: 'An Open Publishing Guide'
 cover_image: viktor-forgacs-click-LNwIJHUtED4-unsplash.jpg
 authors: 'Your Name'
 edition: 'First Edition, 2026'

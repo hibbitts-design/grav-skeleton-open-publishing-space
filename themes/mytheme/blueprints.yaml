@@ -136,6 +136,15 @@ form:
                 disabled: 'Off'
                 enabled: 'On'
                 auto: 'Auto (System)'
+            phone_text_size:
+              type: select
+              label: 'Text Size on Phones'
+              help: 'Standard: as in Quark. Larger: body text a little larger on phone-sized screens, for easier reading.'
+              size: medium
+              default: standard
+              options:
+                standard: 'Standard'
+                larger: 'Larger'
             production-mode:
               type: toggle
               label: 'Production mode'
