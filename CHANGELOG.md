@@ -11,11 +11,6 @@
     * Hide the earlier Multi-Section Page and the Search page from the menu
     * Rename "Open Publishing (Blogging) Space" to "Open Publishing Space"
     * Update README for multi-page content and search
-
-# v1.10.1
-## XX/XX/2026
-
-1. [](#improved)
     * Point documentation links to the README on GitHub
     * Use Grav's default jQuery 3
 
