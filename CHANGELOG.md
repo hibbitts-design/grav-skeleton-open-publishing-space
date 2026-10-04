@@ -6,7 +6,8 @@
     * Add search with the SimpleSearch plugin
     * Add GitHub Markdown Alerts plugin (Grav 2)
 1. [](#improved)
-    * Update to Quark Open Publishing 3.0.2
+    * Update to Quark Open Publishing 3.0.3
+    * Update the favicon to the Grav 2 icon
     * Turn on larger text on phones
     * Hide the earlier Multi-Section Page and the Search page from the menu
     * Rename "Open Publishing (Blogging) Space" to "Open Publishing Space"
