@@ -2,7 +2,7 @@
 title: 'Open Education Essentials'
 subtitle: 'A Practical Guide for Educators'
 cover_image: viktor-forgacs-click-LNwIJHUtED4-unsplash.jpg
-cover_image_layout: large
+cover_image_layout: small
 authors: 'Your Name'
 edition: 'First Edition, 2026'
 last_updated: '04-10-2026 00:00'
@@ -31,11 +31,15 @@ keep_my_place: true
 hide_next_prev_page_buttons: false
 ---
 
-> [!NOTE]  
-> This guide is an example of a **Section List** page, for open guides and readers. It shows a card for each section, grouped into parts, and its pages include section labels, Learning Objectives, reading progress, Previous/Next navigation and OER attribution – all set in page settings. The same guide is the example in [Grav Helios Open Reader](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader), showing how content can move between the two.
-
 Welcome to **Open Education Essentials** – a short, practical guide to understanding and applying open education principles in your teaching practice.
+
+===
+
+#### About This Guide
 
 This guide covers the foundational ideas, practical tools, and real-world examples you need to get started with open educational resources (OER) and open course design.
 
-Work through the sections in order, or jump to any topic from the cards below.
+> [!NOTE]
+> This guide is an example of a **Section List** page, for open guides and readers. It shows a card for each section, grouped into parts, and its pages include section labels, Learning Objectives, reading progress, Previous/Next navigation and OER attribution – all set in page settings. The same guide is the example in [Grav Helios Open Reader](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader), showing how content can move between the two.
+
+Want to learn more? Read the full [Read Me](../readme) for setup instructions, features, and more.
