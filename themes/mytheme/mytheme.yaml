@@ -9,3 +9,5 @@ streams:
        - user/themes/quark
 dark_mode:
   mode: disabled
+sections_prev_next_style: tiles
+phone_text_size: larger
