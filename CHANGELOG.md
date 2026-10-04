@@ -1,3 +1,11 @@
+# v2.2.0
+## 10/04/2026
+
+1. [](#improved)
+    * Open Education Essentials guide now has its own cover image and a small cover, so its section cards show right away
+    * Lighter introduction on the guide's home page, with more about the guide below the section cards
+    * Update to Quark Open Publishing 3.2.0
+
 # v2.1.0
 ## 10/04/2026
 
