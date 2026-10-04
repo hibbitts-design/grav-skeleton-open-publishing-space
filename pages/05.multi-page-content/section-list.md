@@ -2,6 +2,7 @@
 title: 'Multi-Page Content'
 subtitle: 'An Open Publishing Guide'
 cover_image: viktor-forgacs-click-LNwIJHUtED4-unsplash.jpg
+cover_image_layout: small
 authors: 'Your Name'
 edition: 'First Edition, 2026'
 section_label: Unit
