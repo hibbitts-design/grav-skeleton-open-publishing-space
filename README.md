@@ -45,6 +45,7 @@ Grav Open Publishing Space is a good fit when you:
 Other options might be better when you:
 
 - Want a site built for reading, such as open textbooks and course readers, with a table of contents on every page and several publications on one site – consider [Grav Helios Open Reader](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader), built on the premium Helios theme
+- Want a weekly companion site for a course alongside your LMS – consider [Grav Open Course Hub](https://github.com/hibbitts-design/grav-skeleton-course-hub), or [Grav Open MultiCourse Hub](https://github.com/hibbitts-design/grav-skeleton-multicourse-hub) for several courses
 - Want zero-server publishing directly from GitHub – consider [Docsify-This](https://docsify-this.net)
 - Need comments, memberships, or newsletters built in
 - Prefer fully visual drag-and-drop page builders over Markdown-based editing
