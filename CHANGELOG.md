@@ -1,5 +1,5 @@
 # v2.0.0
-## XX/XX/2026
+## 10/04/2026
 
 1. [](#new)
     * Add Multi-Page Content demo, using the new Section List page type
