@@ -1,6 +1,6 @@
 name: Open Publishing Space
 version: 2.3.0
-description: "Open Publishing Space uses a customized version of the Quark theme to create, share and collaboratively edit guides and a blog, all in Markdown. Includes an example open education guide, plus the Admin Panel and Git Sync plugins."
+description: "Open Publishing Space uses a customized version of the Quark 2 theme (Quark in the Grav 1.7 version) to create, share and collaboratively edit guides and a blog, all in Markdown. Includes an example open education guide, plus the Admin Panel and Git Sync plugins."
 icon: git
 author:
  name: HibbittsDesign.org
