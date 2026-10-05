@@ -1,3 +1,14 @@
+# v2.3.0
+## XX/XX/2026
+
+1. [](#new)
+    * The Grav 2 version now uses the Quark 2 Open Publishing theme; the Grav 1.7 version keeps Quark Open Publishing
+1. [](#improved)
+    * My Theme works with either theme, and shows the settings of the theme that's installed
+    * Accessible heading levels in the Open Education Essentials guide
+    * Update to Quark 2 Open Publishing 0.9.3 (Grav 2 version) and Quark Open Publishing 3.3.2 (Grav 1.7 version)
+    * Update README
+
 # v2.2.0
 ## 10/04/2026
 
