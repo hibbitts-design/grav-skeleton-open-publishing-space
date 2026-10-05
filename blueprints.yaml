@@ -1,5 +1,5 @@
 name: Open Publishing Space
-version: 2.2.0
+version: 2.3.0
 description: "Open Publishing Space uses a customized version of the Quark theme to create, share and collaboratively edit guides and a blog, all in Markdown. Includes an example open education guide, plus the Admin Panel and Git Sync plugins."
 icon: git
 author:
@@ -13,5 +13,3 @@ keywords: open, publishing, guide, blog, oer, gitsync, chromeless
 bugs: https://github.com/hibbitts-design/grav-skeleton-open-publishing-space/issues
 license: MIT
 
-dependencies:
-  - quark-open-publishing

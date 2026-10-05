@@ -3,7 +3,7 @@ streams:
     theme:
       type: ReadOnlyStream
       prefixes:
-        '': [user/themes/mytheme, user/themes/quark-open-publishing, user/themes/quark]
+        '': [user/themes/mytheme, user/themes/quark2-open-publishing, user/themes/quark2, user/themes/quark-open-publishing, user/themes/quark]
 dark_mode:
   mode: disabled
 chromeless:

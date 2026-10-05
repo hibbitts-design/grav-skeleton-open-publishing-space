@@ -5,8 +5,16 @@ streams:
      prefixes:
        '':
        - user/themes/mytheme
+       - user/themes/quark2-open-publishing
+       - user/themes/quark2
        - user/themes/quark-open-publishing
        - user/themes/quark
 dark_mode:
   mode: disabled
 phone_text_size: larger
+# Quark 2's defaults, used when the parent theme is Quark 2 Open Publishing (Quark Open Publishing ignores them)
+theme-mode: auto
+accent-color: '#8428DF'
+fontawesome:
+  enabled: true
+  local: false

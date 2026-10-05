@@ -35,7 +35,7 @@ Welcome to **Open Education Essentials** – a short, practical guide to underst
 
 ===
 
-#### About This Guide
+## About This Guide
 
 This guide covers the foundational ideas, practical tools, and real-world examples you need to get started with open educational resources (OER) and open course design.
 

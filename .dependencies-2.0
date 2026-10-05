@@ -111,11 +111,11 @@ git:
         url: https://github.com/getgrav/grav-plugin-youtube
         path: user/plugins/youtube
         branch: master
-    quark:
-        url: https://github.com/getgrav/grav-theme-quark
-        path: user/themes/quark
-        branch: master
-    quark-open-publishing:
-        url: https://github.com/hibbitts-design/grav-theme-quark-open-publishing
-        path: user/themes/quark-open-publishing
-        branch: master
+    quark2:
+        url: https://github.com/getgrav/grav-theme-quark2
+        path: user/themes/quark2
+        branch: main
+    quark2-open-publishing:
+        url: https://github.com/hibbitts-design/grav-theme-quark2-open-publishing
+        path: user/themes/quark2-open-publishing
+        branch: main
