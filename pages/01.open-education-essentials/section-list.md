@@ -16,12 +16,6 @@ license_url: 'https://creativecommons.org/licenses/by/4.0/'
 attribution_text: 'This work by <a href="#">Your Name</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.'
 published: true
 hide_page_title: false
-content:
-    items: '@self.children'
-    order:
-        by: folder
-        dir: asc
-    limit: 0
 child_type: section
 hide_git_sync_repo_link: false
 sitemap:

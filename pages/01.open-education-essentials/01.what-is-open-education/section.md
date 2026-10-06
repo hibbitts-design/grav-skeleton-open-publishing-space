@@ -5,7 +5,7 @@ description: 'An introduction to open education principles, the 5Rs framework, a
 learning_objectives: "- Define open education and explain its core principles\n- Identify the 5Rs of open educational resources\n- Describe the benefits of educator-owned course content"
 image: kevin-grieve-B8ciJlFvaBQ-unsplash.jpg
 part: 'Open Education'
-child_type: subsection
+child_type: section-page
 ---
 
 Open education is built on a simple idea: learning materials should be as accessible and adaptable as the knowledge they contain.

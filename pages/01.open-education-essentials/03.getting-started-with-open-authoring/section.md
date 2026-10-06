@@ -5,7 +5,7 @@ description: 'How to invite readers to suggest edits, view source, and contribut
 learning_objectives: "- Set up the Git Sync link to invite reader contributions\n- Compare how GitHub, Codeberg and GitLab handle proposed changes\n- Describe the fork-and-propose workflow for GitHub visitors"
 image: natalia-y-YqeS71-42c4-unsplash.jpg
 part: 'Open Education'
-child_type: subsection
+child_type: section-page
 ---
 
 Open authoring closes the loop between publishing content openly and actively inviting others to improve it. The goal isn't just making content readable – it's making it editable.

@@ -4,7 +4,7 @@ section_number: '2'
 description: 'Practical tools for creating Git-backed, LMS-embeddable open course content – from Grav to Docsify-This.'
 image: vitaly-gariev-tnikNZcsQjk-unsplash.jpg
 part: 'Open Education'
-child_type: subsection
+child_type: section-page
 ---
 
 [objectives title="By the end of this section you will be able to"]
