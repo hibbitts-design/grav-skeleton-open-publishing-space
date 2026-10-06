@@ -7,7 +7,7 @@
     * My Theme works with either theme, and shows the settings of the theme that's installed
     * Accessible heading levels in the Open Education Essentials guide
     * The Open Education Essentials guide uses Section Page sub-pages, as in Helios Open Reader
-    * Update to Quark 2 Open Publishing 0.9.4 (Grav 2 version) and Quark Open Publishing 3.3.4 (Grav 1.7 version)
+    * Update to Quark 2 Open Publishing 0.9.41 (Grav 2 version) and Quark Open Publishing 3.3.4 (Grav 1.7 version)
     * Update README
 
 # v2.2.0
