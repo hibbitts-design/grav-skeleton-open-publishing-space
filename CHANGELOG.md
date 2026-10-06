@@ -1,5 +1,5 @@
 # v2.3.0
-## XX/XX/2026
+## 10/06/2026
 
 1. [](#new)
     * The Grav 2 version now uses the Quark 2 Open Publishing theme; the Grav 1.7 version keeps Quark Open Publishing
