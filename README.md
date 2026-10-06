@@ -84,6 +84,42 @@ Open Publishing Space is best suited for writers and educators comfortable with 
 - **Markdown of any page** (Grav 2 version) – add `.md` to any page URL to get that page as Markdown, ready to reuse, for example `/blog/hero-classes.md`, or `/index.md` for the home page. This is Grav 2.1's Markdown output, which can be turned off in **Configuration → System → Content**
 - **Git Sync and "Edit this Page"** – set up the Git Sync plugin in the Admin Panel, then choose where the link appears and whether it views or edits the source in the theme's Git Sync Link options
 
+## Importing a Pressbooks Book
+
+A Pressbooks book can become a guide here. The free [Grav Helios Converters](https://grav-helios-converters.hibbittsdesign.org/) turn a Pressbooks export into a Grav Helios Open Reader publication, which works as a guide in Open Publishing Space:
+
+1. Convert the book's export with the Grav Helios Converters, and download the converted publication
+2. Copy the publication's folder into `user/pages` (for example `01.universal-design-for-learning`). If its section folders sit beside the book's home page (`section-list.md`) rather than inside its folder, make a folder for the guide and move `section-list.md` (with its images) and the section folders into it
+3. Converted sections redirect to their first page: if a section's `redirect:` doesn't start with the guide's folder, add it (for example `redirect: /universal-design-for-learning/section-1/about-this-guide`)
+4. To make the book the homepage, change the **Home Page** setting in **Configuration → System** to the guide
+
+On the guide's home page, consider:
+
+- **Section labels** – converted section titles often already start with "Module 1:" or "Chapter 1:", so keep the section labels off (converted books usually include `show_section_label: false`)
+- **Previous/Next** – set **Prev/Next Page Controls Position** to **Top and bottom**, for long pages
+- **Cover image** – a portrait book cover is shown whole with either Cover Image Layout
+
+Exercises, callouts, figures and captions carry over as they are. A few things to know:
+
+- **Images** still load from the original Pressbooks site; to keep your own copies, add the images to each page's folder and update their addresses
+- **Pressbooks tables** inserted with a shortcode (such as `[table id=5]`) show as text; replace them with a Markdown table
+
+### Turning Links into Embeds
+
+H5P activities and videos are converted to links back to the original Pressbooks book. To show them in the page instead:
+
+- **H5P activities** – shown as "View H5P activity online" links (or an **Open Interactive Activity** button inside an exercise). On the original Pressbooks page, the activity's **Embed** option (when its author allows embedding) gives its embed address; replace the link with the H5P shortcode, for example:
+
+  ```
+  [h5p url="https://example.pressbooks.pub/wp-admin/admin-ajax.php?action=h5p_embed&id=3" title="UDL guidelines slide show"]
+  ```
+
+- **Videos** – the links go to the Pressbooks page that holds the video, not the video itself. Find the video's own address on that page (for example on YouTube), and replace the link using the included YouTube plugin:
+
+  ```
+  [plugin:youtube](https://www.youtube.com/watch?v=VIDEO_ID)
+  ```
+
 ## Requirements
 
 - PHP >= 8.3 (or >= 8.0.2 for the Grav 1.7 version)
