@@ -39,3 +39,5 @@ menu:
 dropdown:
   enabled: false
 phone_text_size: larger
+# Quark 2 Open Publishing: lighter headings, or quark2 for Quark 2's bolder default (Quark Open Publishing ignores it)
+heading_weight: lighter
