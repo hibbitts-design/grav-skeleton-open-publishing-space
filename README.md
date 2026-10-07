@@ -4,11 +4,11 @@
 
 ### Ready-to-Run Skeleton Package
 
-<p><em>An open, collaborative space to create, share, and co-edit your writing – with content in portable Markdown files you control.</em></p>
+<p><em>An open guide or book site – with a blog, standard pages, and almost any other Grav page alongside it, all in portable Markdown files you control.</em></p>
 
 [![Grav Discord Chat](https://img.shields.io/discord/501836936584101899.svg?logo=discord&colorB=728ADA&label=Grav%20Discord%20Chat)](https://chat.getgrav.org) [![Latest Release](https://img.shields.io/github/v/release/hibbitts-design/grav-skeleton-open-publishing-space?style=flat-square&label=Release)](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space/releases/latest) [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space/blob/master/LICENSE) [![PHP](https://img.shields.io/badge/PHP-%3E%3D8.3-8892BF?style=flat-square&logo=php&logoColor=white)](https://learn.getgrav.org/17/basics/requirements)
 
-<p>Try the <a href="https://demo.hibbittsdesign.org/grav-open-publishing-quark/">demo</a></p>
+<p>Try the <a href="https://demo.hibbittsdesign.org/grav-open-publishing-quark2/">demo</a> (or the <a href="https://demo.hibbittsdesign.org/grav-open-publishing-quark/">Grav 1.7 version</a>)</p>
 
 <p>A free, open-source package built on <a href="https://getgrav.org">Grav CMS</a> and the <a href="https://github.com/hibbitts-design/grav-theme-quark2-open-publishing">Quark 2 Open Publishing</a> theme (<a href="https://github.com/hibbitts-design/grav-theme-quark-open-publishing">Quark Open Publishing</a> in the Grav 1.7 version), with Markdown file-based content, a built-in Admin panel, and no database required.</p>
 
@@ -19,15 +19,15 @@
 
 </div>
 
-A complete, pre-configured package for an open publishing site – a place to write, share, and collaboratively edit content in the open, with guides and a blog side by side. Content is stored as simple Markdown files you can keep locally, with a built-in Admin panel for browser-based editing and no database required. Runs on nearly any web hosting service.
+A complete, pre-configured package for publishing an open guide or book – such as a course reader, handbook, or short open textbook – with section cards, parts, reading progress, and OER attribution. Because it's a full Grav CMS site, you can add almost any other kind of page alongside it: a blog, standard pages, modular landing pages, and embedded content. Content is stored as simple Markdown files you can keep locally, with a built-in Admin panel for browser-based editing and no database required. Runs on nearly any web hosting service.
 
 ## What Sets It Apart
 
-- **Guides and a blog in one site** – the only Grav skeleton for both: guides with section cards, parts, reading progress, Previous/Next navigation, Keep My Place, Learning Objectives, and OER attribution, alongside a full blog. Guides use the same page settings as [Grav Helios Open Reader](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader), so they can move there if your site becomes mainly about reading
+- **An open guide or book, plus the rest of Grav** – guides with section cards, parts, reading progress, Previous/Next navigation, Keep My Place, Learning Objectives, and OER attribution, alongside a full blog, standard pages, and multi-section and modular pages. Guides use the same page settings as [Grav Helios Open Reader](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader), so they can move there if your site becomes mainly about reading
 - **Open authoring built in** – Git Sync keeps the site in step with GitHub or a similar Git service, with "Edit this Page" links to each page's Markdown source
 - **Embed anywhere** – add `/chromeless:true` or `?embedded=true` to any page URL to show only its content, ready to embed in an LMS or other site
 - **A blog that's ready to go** – posts listed newest first in a card layout, featured (sticky) posts, tags, archives, and Atom/RSS feeds
-- **More page types** – standard, multi-section, and modular pages, plus shortcodes for Google Slides, H5P, PDF, iFrame, Embedly, and link preview cards, callout shortcodes such as `[objectives]` and `[key-takeaways]`, and GitHub-style alerts
+- **Rich content** – shortcodes for Google Slides, H5P, PDF, iFrame, Embedly, and link preview cards, callout shortcodes such as `[objectives]` and `[key-takeaways]`, and GitHub-style alerts
 - **Search** – grouped results with the search words highlighted, from the blog sidebar, the Search page, or a search box on each guide that searches just that guide
 - **Built on Quark 2** – Grav 2's modern default theme, with hero images, full-page mobile navigation, and Light, Dark and Auto modes with a toggle for visitors (the Grav 1.7 version uses Quark, with Dark Mode off, on, or following the visitor's system setting)
 - **Portable by design** – your content is plain Markdown files on your server, ready to move to any tool or host if your needs change
@@ -36,14 +36,14 @@ A complete, pre-configured package for an open publishing site – a place to wr
 
 Grav Open Publishing Space is a good fit when you:
 
-- Want an open publishing site, with guides and a blog, on your own hosting and domain
+- Want to publish an open guide or book on your own hosting and domain
 - Value Git-based, open authoring and collaboration on your writing
-- Want to publish guides – even long ones, grouped into parts – alongside a blog
+- Want flexible pages around your guide – a blog, landing pages, standard pages, or embedded content – rather than a site just for reading
 - Prefer a clean, minimal design you can adjust through theme options
 
 Other options might be better when you:
 
-- Want a site built for reading, such as open textbooks and course readers, with a table of contents on every page and several publications on one site – consider [Grav Helios Open Reader](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader), built on the premium Helios theme
+- Want a dedicated reading site, such as for open textbooks and course readers, with a table of contents on every page and several publications on one site – consider [Grav Helios Open Reader](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader), built on the premium Helios theme
 - Want a weekly companion site for a course alongside your LMS – consider [Grav Open Course Hub](https://github.com/hibbitts-design/grav-skeleton-course-hub), or [Grav Open MultiCourse Hub](https://github.com/hibbitts-design/grav-skeleton-multicourse-hub) for several courses
 - Want zero-server publishing directly from GitHub – consider [Docsify-This](https://docsify-this.net)
 - Need comments, memberships, or newsletters built in
