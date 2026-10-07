@@ -13,7 +13,7 @@ published: true
 
 By adding the URL parameter (i.e. flag) `chromeless:true` to any Open Publishing Space page you can display that page's content without the global header image, site navigation bar, sidebar and footer - a great way to seamlessly embed Open Publishing Space pages into other systems.  
 
-For example, the URL [http://demo.hibbittsdesign.org/grav-open-publishing-quark/](http://demo.hibbittsdesign.org/grav-open-publishing-quark/) displays the standard Open Publishing Space blog post list page but the URL [http://demo.hibbittsdesign.org/grav-open-publishing-quark/chromeless:true](http://demo.hibbittsdesign.org/grav-open-publishing-quark/chromeless:true) will only display that page's content. Any links between Open Publishing Space pages will result in pages being displayed in the same manner.
+For example, the URL [https://demo.hibbittsdesign.org/grav-open-publishing-quark2/](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/) displays the Open Education Essentials guide with the full site around it, but the URL [https://demo.hibbittsdesign.org/grav-open-publishing-quark2/chromeless:true](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/chromeless:true) will only display that page's content. Any links between Open Publishing Space pages will result in pages being displayed in the same manner.
 
 ### Get Any Page as Markdown (Grav 2 Version)
 
