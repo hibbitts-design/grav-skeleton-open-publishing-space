@@ -1,10 +1,10 @@
 # v2.3.2
-## XX/XX/2026
+## 10/08/2026
 
 1. [](#improved)
     * Describe Open Publishing Space as an open guide or book site, with a blog and almost any other Grav page alongside it
     * Heading Weight setting in My Theme, with lighter headings (Quark 2 Open Publishing)
-    * Update to Quark 2 Open Publishing 0.9.43 (Grav 2 version) and Quark Open Publishing 3.3.6 (Grav 1.7 version)
+    * Update to Quark 2 Open Publishing 0.9.44 (Grav 2 version) and Quark Open Publishing 3.3.7 (Grav 1.7 version)
     * Update README
 
 # v2.3.1
