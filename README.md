@@ -79,6 +79,17 @@ Open Publishing Space is best suited for writers and educators comfortable with 
 - **Search** – uses the SimpleSearch plugin, from the blog sidebar, the Search page, and the search box on each guide; the optional TNTSearch plugin can be used instead. On sites set up with an earlier version of this skeleton, clear the **Category** filter in **Plugins → SimpleSearch** so search covers every page, not just blog posts
 - **Shared parts** – edit the `sidebar` page (set its `position` to `top` or `bottom` of the sidebar) and the `footer` page
 - **Theme** – the Grav 2 version uses Quark 2 Open Publishing, and the Grav 1.7 version Quark Open Publishing, with the same pages and settings. My Theme, where your customizations go, works with either and shows the settings of the theme that's installed. Install the Quark 2 theme only together with Quark 2 Open Publishing, and check any custom CSS in My Theme when switching between the two
+- **Moving an existing site to Quark 2 Open Publishing** – sites created before Open Publishing Space 2.3.0 have a `streams` setting in `user/config/themes/mytheme.yaml` that only lists Quark Open Publishing. If guide pages then show "template not found", replace its `streams` block with the one below and clear the cache (and check `user/env/<domain>/config/themes/mytheme.yaml` too, if your site has one):
+
+  ```yaml
+  streams:
+    schemes:
+      theme:
+        type: ReadOnlyStream
+        prefixes:
+          '': [user/themes/mytheme, user/themes/quark2-open-publishing, user/themes/quark2, user/themes/quark-open-publishing, user/themes/quark]
+  ```
+
 - **Look and options** – under **Themes → My Theme**: Light, Dark or Auto mode and accent colour (Quark 2 Open Publishing) or Dark Mode and text size on phones (Quark Open Publishing), plus logo, header and footer style, chromeless site, Creative Commons license, and custom menu items (see the [Quark 2 Open Publishing](https://github.com/hibbitts-design/grav-theme-quark2-open-publishing#theme-options) and [Quark Open Publishing](https://github.com/hibbitts-design/grav-theme-quark-open-publishing#theme-options) READMEs for all options)
 - **Embedding** – add `/chromeless:true` or `?embedded=true` to any page URL, for example `/blog/hero-classes/chromeless:true` or `/blog/hero-classes?embedded=true`
 - **Markdown of any page** (Grav 2 version) – a "This page as Markdown (.md)" link below a page's content gets that page as Markdown, ready to reuse (the same as adding `.md` to the page URL, for example `/blog/hero-classes.md`, or `/index.md` for the home page). This is Grav 2.1's Markdown output, which can be turned off in **Configuration → System → Content**. The link's settings, including where it shows and which page templates hide it, are under **Reuse Pages as Markdown** in **Themes → My Theme**. The Copy as Markdown Button plugin is also included, turned off, for anyone who'd like a one-click copy button on pages (turn it on in **Plugins**).
