@@ -1,3 +1,10 @@
+# v2.4.1
+## XX/XX/2026
+
+1. [](#improved)
+    * README: how to fix "template not found" on guide pages when moving an existing site to Quark 2 Open Publishing
+    * The Read Me page describes the "This page as Markdown" link
+
 # v2.4.0
 ## 10/09/2026
 
