@@ -1,5 +1,5 @@
 # v2.5.0
-## XX/XX/2026
+## 10/09/2026
 
 1. [](#improved)
     * Sample pages: the Custom Page Types example is removed, and Read Me is now 20.readme, leaving 08–19 free for new pages, so a converted Pressbooks book (numbered 10.) fits in without renaming
