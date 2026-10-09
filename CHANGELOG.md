@@ -1,4 +1,4 @@
-# v2.3.3
+# v2.4.0
 ## 10/09/2026
 
 1. [](#new)
@@ -6,7 +6,7 @@
 1. [](#improved)
     * Include the Copy as Markdown Button plugin, turned off (turn it on in Plugins for a copy button on pages)
     * My Theme 2.0.0
-    * Update to Quark 2 Open Publishing 0.9.45 (Grav 2 version) and Quark Open Publishing 3.3.8 (Grav 1.7 version)
+    * Update to Quark 2 Open Publishing 0.10.0 (Grav 2 version) and Quark Open Publishing 3.4.0 (Grav 1.7 version)
     * Update README
 
 # v2.3.2
