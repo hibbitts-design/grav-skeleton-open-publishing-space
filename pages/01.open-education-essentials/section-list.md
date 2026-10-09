@@ -25,7 +25,9 @@ keep_my_place: true
 hide_next_prev_page_buttons: false
 ---
 
-Welcome to **Open Education Essentials** – a short, practical guide to understanding and applying open education principles in your teaching practice.
+This site is built with **Grav Open Publishing Space**, made possible by the free [Quark 2 Open Publishing](https://github.com/hibbitts-design/grav-theme-quark2-open-publishing) theme ([Quark Open Publishing](https://github.com/hibbitts-design/grav-theme-quark-open-publishing) on Grav 1.7) and powered by [Grav CMS](https://getgrav.org), the open-source platform it's built on.
+
+Here's an example guide to explore and build on: **Open Education Essentials** – a short, practical guide to understanding and applying open education principles in your teaching practice.
 
 ===
 
