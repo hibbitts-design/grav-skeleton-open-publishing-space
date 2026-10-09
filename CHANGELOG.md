@@ -1,7 +1,11 @@
-# v2.4.1
+# v2.5.0
 ## XX/XX/2026
 
 1. [](#improved)
+    * Sample pages: the Custom Page Types example is removed, and Read Me is now 20.readme, leaving 08–19 free for new pages, so a converted Pressbooks book (numbered 10.) fits in without renaming
+    * No "Setup Git Sync" link is shown before Git Sync is connected to a repository; the Read Me page and README say where to set it up (Admin Panel → Plugins → Git Sync)
+    * README: the Pressbooks Converter steps use its new name and address
+    * Update to Quark Open Publishing 3.4.1 (Grav 1.7) and Quark 2 Open Publishing 0.9.46 (Grav 2)
     * README: how to fix "template not found" on guide pages when moving an existing site to Quark 2 Open Publishing
     * The Read Me page describes the "This page as Markdown" link
     * The home page introduces Grav Open Publishing Space and its theme, with the sample guide as an example
