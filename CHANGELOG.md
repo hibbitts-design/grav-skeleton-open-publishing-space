@@ -4,6 +4,7 @@
 1. [](#improved)
     * README: how to fix "template not found" on guide pages when moving an existing site to Quark 2 Open Publishing
     * The Read Me page describes the "This page as Markdown" link
+    * The home page introduces Grav Open Publishing Space and its theme, with the sample guide as an example
 
 # v2.4.0
 ## 10/09/2026
