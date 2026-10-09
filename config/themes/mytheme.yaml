@@ -10,6 +10,14 @@ chromeless:
   enabled: false
 display_of_git_sync_repo_link: menu
 type_of_git_sync_repo_link: view
+markdown_link:
+  enabled: true
+  location: page
+  hide_templates:
+    - blog
+    - section-list
+    - search
+    - simplesearch_results
 h5pembedrootpath: 'https://h5p.org/h5p/embed/'
 cc_license:
   enabled: false
