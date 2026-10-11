@@ -99,10 +99,9 @@ Open Publishing Space is best suited for writers and educators comfortable with 
 
 A Pressbooks book can become a guide here. The free [Pressbooks Converter](https://pressbooks-converter.hibbittsdesign.org/) turns a Pressbooks export into a publication that works as a guide in Open Publishing Space:
 
-1. Convert the book's export with the Pressbooks Converter, and download the converted publication
-2. Copy the publication's folder into `user/pages`. The converter numbers it `10.` (for example `10.universal-design-for-learning`), so it appears after the sample pages and before Read Me; to replace the sample guide instead, delete `01.open-education-essentials`. If its section folders sit beside the book's home page (`section-list.md`) rather than inside its folder, make a folder for the guide and move `section-list.md` (with its images) and the section folders into it
-3. Converted sections redirect to their first page: if a section's `redirect:` doesn't start with the guide's folder, add it (for example `redirect: /universal-design-for-learning/section-1/about-this-guide`)
-4. To make the book the homepage, change the **Home Page** setting in **Configuration → System** to the guide
+1. Convert the book's export with the Pressbooks Converter, choosing **Grav Open Publishing Space** as the destination, and download the converted publication
+2. Copy the book's folder into `user/pages`. The converter numbers it `10.` (for example `10.universal-design-for-2026`), so it appears after the sample pages and before Read Me. To replace the sample guide instead, delete `01.open-education-essentials`, and rename the book's folder to `01.` to make it the first menu item
+3. To make the book the homepage, change the **Home Page** setting in **Configuration → System** to the guide
 
 On the guide's home page, consider:
 
