@@ -1,3 +1,9 @@
+# v2.5.1
+## 10/11/2026
+
+1. [](#improved)
+    * README: shorter Pressbooks steps, choosing Grav Open Publishing Space as the converter's destination
+
 # v2.5.0
 ## 10/09/2026
 
