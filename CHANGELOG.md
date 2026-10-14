@@ -2,6 +2,7 @@
 ## 10/14/2026
 
 1. [](#improved)
+    * Update to Quark Open Publishing 3.4.8 (Grav 1.7) and Quark 2 Open Publishing 0.9.53 (Grav 2): print styles, a full text link for guides (Grav 2), and embedded pages without site navigation, including blog posts and pages that redirect
     * README: every callout shortcode is listed, and the full text link for guides is described (Grav 2 version)
     * Sample pages: the blog, Standard Page and the unpublished examples are now numbered 15–19, so a converted Pressbooks book (numbered 10.) appears right after the sample guide, and 02–09 are free for new pages; the hidden Search page has no number
 
