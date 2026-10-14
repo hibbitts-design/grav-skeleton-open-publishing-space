@@ -1,3 +1,9 @@
+# v2.5.2
+## 10/14/2026
+
+1. [](#improved)
+    * README: every callout shortcode is listed, and the full text link for guides is described (Grav 2 version)
+
 # v2.5.1
 ## 10/11/2026
 
