@@ -3,6 +3,7 @@
 
 1. [](#improved)
     * README: every callout shortcode is listed, and the full text link for guides is described (Grav 2 version)
+    * Sample pages: the blog, Standard Page and the unpublished examples are now numbered 15–19, so a converted Pressbooks book (numbered 10.) appears right after the sample guide, and 02–09 are free for new pages; the hidden Search page has no number
 
 # v2.5.1
 ## 10/11/2026
