@@ -1,5 +1,5 @@
 # v2.5.2
-## 10/14/2026
+## 10/15/2026
 
 1. [](#improved)
     * Update to Quark Open Publishing 3.4.8 (Grav 1.7) and Quark 2 Open Publishing 0.9.53 (Grav 2): print styles, a full text link for guides (Grav 2), and embedded pages without site navigation, including blog posts and pages that redirect
