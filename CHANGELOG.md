@@ -1,5 +1,5 @@
 # v2.5.3
-## XX/XX/2026
+## 10/16/2026
 
 1. [](#improved)
     * Update to Quark Open Publishing 3.4.11 (Grav 1.7) and Quark 2 Open Publishing 0.9.55 (Grav 2): arrow keys to move between guide pages (handy when presenting), a [topics] shortcode for an A–Z topics index, image captions from an italic line under an image, a Cover Image Alt Text setting, and image heights that keep an image and its text on screen together; Quark Open Publishing also gains a "Skip to content" link
