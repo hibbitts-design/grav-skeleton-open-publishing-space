@@ -9,4 +9,4 @@ All of the guides on this site, each with its own home page.
 
 ===
 
-A card is shown for each guide that is published and visible. To make this page the site's home page, set **Home page** to `/guides` in **Configuration → System**.
+A card is shown for each guide that is published and visible. This page can also be the site's home page (**Home Page** in **Configuration → System**), with each guide's **Hide from Menu** setting (on its **Advanced** tab) keeping the guides out of the menu.
