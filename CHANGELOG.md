@@ -1,3 +1,12 @@
+# v2.6.0
+## 10/17/2026
+
+1. [](#new)
+    * Example Guides page (a Guides List page, with a card for each guide) and Sample Guide (a second guide, with placeholder sections), both unpublished – publish them to see a site with more than one guide
+1. [](#improved)
+    * Update to Quark Open Publishing 3.4.12 (Grav 1.7) and Quark 2 Open Publishing 0.9.57 (Grav 2): a Guides List page type, [hideifembedded] and [showifembedded] shortcodes, a [badge] shortcode and page badges, "On this page" sections in the side list (with the Page TOC plugin), and search that leaves out pages inside an unpublished page
+    * README and Read Me page: more than one guide, with the Guides page and Sample Guide
+
 # v2.5.3
 ## 10/16/2026
 
