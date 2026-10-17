@@ -16,6 +16,7 @@ markdown_link:
   hide_templates:
     - blog
     - section-list
+    - reader-list
     - search
     - simplesearch_results
 h5pembedrootpath: 'https://h5p.org/h5p/embed/'

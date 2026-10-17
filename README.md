@@ -23,7 +23,7 @@ A complete, pre-configured package for publishing an open guide or book – such
 
 ## What Sets It Apart
 
-- **An open guide or book, plus the rest of Grav** – guides with section cards, parts, reading progress, Previous/Next navigation, Keep My Place, Learning Objectives, and OER attribution, alongside a full blog, standard pages, and multi-section and modular pages. Guides use the same page settings as [Grav Helios Open Reader](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader), so they can move there if your site becomes mainly about reading
+- **An open guide or book, plus the rest of Grav** – one guide or several (listed as cards on a Guides page), with section cards, parts, reading progress, Previous/Next navigation, Keep My Place, Learning Objectives, and OER attribution, alongside a full blog, standard pages, and multi-section and modular pages. Guides use the same page settings as [Grav Helios Open Reader](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader), so they can move there if your site becomes mainly about reading
 - **Open authoring built in** – Git Sync keeps the site in step with GitHub or a similar Git service, with "Edit this Page" links to each page's Markdown source, plus a "This page as Markdown (.md)" link on pages and an optional full text link for each guide (Grav 2 version)
 - **Embed anywhere** – add `/chromeless:true` or `?embedded=true` to any page URL to show only its content, ready to embed in an LMS or other site
 - **A blog that's ready to go** – posts listed newest first in a card layout, featured (sticky) posts, tags, archives, and Atom/RSS feeds
@@ -43,7 +43,7 @@ Grav Open Publishing Space is a good fit when you:
 
 Other options might be better when you:
 
-- Want a dedicated reading site, such as for open textbooks and course readers, with a table of contents on every page and several publications on one site – consider [Grav Helios Open Reader](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader), built on the premium Helios theme
+- Want a dedicated reading site, such as for open textbooks and course readers, with a table of contents on every page – consider [Grav Helios Open Reader](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader), built on the premium Helios theme
 - Want a course site alongside your LMS, with modules and a course blog – consider [Grav Open Course Hub](https://github.com/hibbitts-design/grav-skeleton-course-hub), or [Grav Open MultiCourse Hub](https://github.com/hibbitts-design/grav-skeleton-multicourse-hub) for several courses
 - Want zero-server publishing directly from GitHub – consider [Docsify-This](https://docsify-this.net)
 - Need comments, memberships, or newsletters built in
@@ -75,9 +75,10 @@ Open Publishing Space is best suited for writers and educators comfortable with 
 - **Site name and description** – in the Admin Panel under **Configuration → Site**
 - **Homepage** – the Open Education Essentials guide is the homepage; to use another page (such as the Blog), change the **Home Page** setting in **Configuration → System**
 - **Blog** – at `/blog`; its text and image form the hero banner at the top. Each post is a folder inside `blog` (add one with **Pages → Add**), listed newest first, six per page. Tag a post `featured` to keep it at the top, and edit the notice above the posts in `blog/_important-notice`
-- **Other pages** – top-level pages (Open Education Essentials, Blog, Standard Page, Read Me, and so on) appear in the menu, ordered by their folder number; unpublish any you don't need. The `modular-page`, `modular-page-inject` and `multi-section-page` examples are unpublished – publish one to try it
+- **Other pages** – top-level pages (Open Education Essentials, Blog, Standard Page, Read Me, and so on) appear in the menu, ordered by their folder number; unpublish any you don't need. The `guides`, `sample-guide`, `modular-page`, `modular-page-inject` and `multi-section-page` examples are unpublished – publish one to try it
 - **Multi-Section Page** – a simpler alternative to a guide: a page with a side list of its sections and classic Next/Prev buttons. When embedded, it keeps its side list and buttons, while a guide shows only the page content
 - **Open Education Essentials** – the example guide, in two parts, using the Section List page type; it is also the example guide in Grav Helios Open Reader. Set its subtitle, cover image, author(s), edition, last updated date, section label, reading progress, Keep My Place, Previous/Next position, and OER attribution on its home page, and each section's Part, card description, image, and Learning Objectives on the section (see the [Quark Open Publishing README](https://github.com/hibbitts-design/grav-theme-quark-open-publishing#multi-page-content), including moving a guide to Grav Helios Open Reader)
+- **More than one guide** – two examples, unpublished: **Guides** (`00.guides`), a Guides List page with a card for each guide on the site (the same page type as Grav Helios Open Reader's readers list), and **Sample Guide** (`02.sample-guide`), a second guide with placeholder sections. Publish both to see a site with several guides. To make the Guides page the homepage, as in Open Reader, change the **Home Page** setting in **Configuration → System** to `/guides`. A guide gets a card when it's a top-level, published and visible Section List page; its **Guides List Group**, **Badge Label** and **Badge Color** settings (on its **Details** tab) add a heading and a badge such as "Draft"
 - **Search** – uses the SimpleSearch plugin, from the blog sidebar, the Search page, and the search box on each guide; the optional TNTSearch plugin can be used instead. On sites set up with an earlier version of this skeleton, clear the **Category** filter in **Plugins → SimpleSearch** so search covers every page, not just blog posts
 - **Shared parts** – edit the `sidebar` page (set its `position` to `top` or `bottom` of the sidebar) and the `footer` page
 - **Theme** – the Grav 2 version uses Quark 2 Open Publishing, and the Grav 1.7 version Quark Open Publishing, with the same pages and settings. My Theme, where your customizations go, works with either and shows the settings of the theme that's installed. Install the Quark 2 theme only together with Quark 2 Open Publishing, and check any custom CSS in My Theme when switching between the two
@@ -103,8 +104,8 @@ Open Publishing Space is best suited for writers and educators comfortable with 
 A Pressbooks book can become a guide here. The free [Pressbooks Converter](https://pressbooks-converter.hibbittsdesign.org/) turns a Pressbooks export into a publication that works as a guide in Open Publishing Space:
 
 1. Convert the book's export with the Pressbooks Converter, choosing **Grav Open Publishing Space** as the destination, and download the converted publication
-2. Copy the book's folder into `user/pages`. The converter numbers it `10.` (for example `10.universal-design-for-2026`), so it appears right after the sample guide in the menu, before the blog, and a long title gets a shorter menu label (the `menu` setting on the book's page). To replace the sample guide instead, delete `01.open-education-essentials`, and rename the book's folder to `01.` to make it the first menu item
-3. To make the book the homepage, change the **Home Page** setting in **Configuration → System** to the guide
+2. Copy the book's folder into `user/pages`. The converter numbers it `10.` (for example `10.universal-design-for-2026`), so it appears after the guides in the menu, before the blog, and a long title gets a shorter menu label (the `menu` setting on the book's page). To replace the Open Education Essentials guide instead, delete `01.open-education-essentials`, and rename the book's folder to `01.` to make it the first menu item
+3. To make the book the homepage, change the **Home Page** setting in **Configuration → System** to the guide. With the Guides page published, the book also gets a card there
 
 On the guide's home page, consider:
 

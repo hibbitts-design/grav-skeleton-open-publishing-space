@@ -19,6 +19,10 @@ For example, the URL [https://demo.hibbittsdesign.org/grav-open-publishing-quark
 
 On Grav 2.1 and newer, the "This page as Markdown (.md)" link below a page's content gets that page as Markdown, ready to reuse – the same as adding `.md` to the page's address, for example `/blog/hero-classes.md`, or `/index.md` for the home page. The link's settings are under **Reuse Pages as Markdown** in **Themes → My Theme**, and Grav's Markdown output can be turned off in **Configuration → System → Content**.
 
+### More Than One Guide
+
+To see a site with more than one guide, publish the example **Guides** page and **Sample Guide** (set their 'Published' option to 'Yes' in the [Admin Pages panel](../../admin/pages)). The Guides page shows a card for each guide on the site.
+
 ### What Else Can the Open Publishing Space do for You? ##
 Learn more about the capabilities of the Open Publishing Space project in its [README on GitHub](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space#readme).
 
