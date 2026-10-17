@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌐 Grav Open Publishing Space
+# 🌐 Grav Open Publishing Space 2
 
 ### Ready-to-Run Skeleton Package
 
