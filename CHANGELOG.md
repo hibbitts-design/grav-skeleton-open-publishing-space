@@ -5,6 +5,7 @@
     * Update to Quark Open Publishing 3.4.13 (Grav 1.7) and Quark 2 Open Publishing 0.9.58 (Grav 2): a Hide from Menu setting, so a guide can stay on the Guides page without a menu item
     * Guides page, Read Me page and README: using the Guides page as the home page, with each guide's Hide from Menu setting keeping the guides out of the menu
     * Read Me page: the embedding example describes the demo's home page, whichever page that is
+    * README: importing a Pressbooks book now offers a clear choice – the book as the only guide, or alongside other guides on the Guides page – and drops the Previous/Next tip, as top and bottom is now the default
 
 # v2.6.0
 ## 10/17/2026
