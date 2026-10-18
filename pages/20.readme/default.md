@@ -21,7 +21,7 @@ On Grav 2.1 and newer, the "This page as Markdown (.md)" link below a page's con
 
 ### More Than One Guide
 
-To see a site with more than one guide, publish the example **Guides** page and **Sample Guide** (set their 'Published' option to 'Yes' in the [Admin Pages panel](../../admin/pages)). The Guides page shows a card for each guide on the site. To use it as the home page, as in Grav Helios Open Reader, set **Home Page** to `/guides` in **Configuration → System**, and turn on **Hide from Menu** (on the **Advanced** tab) on each guide's home page to leave the guides out of the menu.
+To see a site with more than one guide, publish the example **Guides** page and **Sample Guide** (set their 'Published' option to 'Yes' in the [Admin Pages panel](../../admin/pages)). The Guides page shows a card for each guide on the site – see the [multi-guide demo](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-guides/). To use it as the home page, as in Grav Helios Open Reader, set **Home Page** to `/guides` in **Configuration → System**, and turn on **Hide from Menu** (on the **Advanced** tab) on each guide's home page to leave the guides out of the menu.
 
 ### What Else Can the Open Publishing Space do for You? ##
 Learn more about the capabilities of the Open Publishing Space project in its [README on GitHub](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space#readme).
