@@ -1,12 +1,13 @@
 # v2.6.1
-## 10/17/2026
+## 10/18/2026
 
 1. [](#improved)
-    * Update to Quark Open Publishing 3.4.13 (Grav 1.7) and Quark 2 Open Publishing 0.9.58 (Grav 2): a Hide from Menu setting, so a guide can stay on the Guides page without a menu item
+    * Update to Quark Open Publishing 3.4.19 (Grav 1.7) and Quark 2 Open Publishing 0.9.64 (Grav 2): a Hide from Menu setting, so a guide can stay on the Guides page without a menu item, plus the reader improvements since (the / key for search, the section you're reading marked in the side list, Keep My Place returning to that section, a Previous/Next bar on phones, and tapping an image to see it larger)
     * Guides page, Read Me page and README: using the Guides page as the home page, with each guide's Hide from Menu setting keeping the guides out of the menu
     * Read Me page: the embedding example describes the demo's home page, whichever page that is
     * README: importing a Pressbooks book now offers a clear choice – the book as the only guide, or alongside other guides on the Guides page – and drops the Previous/Next tip, as top and bottom is now the default
     * README and Read Me page: a link to the new multi-guide demo
+    * Open Education Essentials: a Creative Commons license chart, with its attribution as a caption, on the Creative Commons Licenses page (it can be tapped or clicked to see it larger)
 
 # v2.6.0
 ## 10/17/2026
