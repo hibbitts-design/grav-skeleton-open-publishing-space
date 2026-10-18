@@ -23,6 +23,10 @@ For educational materials intended to be remixed and adapted by other educators,
 
 If you want to ensure that adaptations are always shared under the same terms, **CC BY-SA** (ShareAlike) creates that expectation – similar to how open-source copyleft licenses work.
 
+![A chart of the Creative Commons licenses, from most open at the top to least open at the bottom: public domain and CC0, then CC BY and CC BY-SA, which allow sharing, remixing and commercial use; CC BY-NC and CC BY-NC-SA, which allow sharing and remixing; CC BY-ND and CC BY-NC-ND, which allow sharing only; and all rights reserved](creative-commons-license-spectrum.webp)
+
+*[Creative Commons license spectrum](https://commons.wikimedia.org/wiki/File:Creative_commons_license_spectrum.svg) by Shaddim (original CC license symbols by Creative Commons), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), via Wikimedia Commons*
+
 > [!NOTE]
 > The NonCommercial condition is often misunderstood. "Commercial use" covers a wide range of activities, and its meaning is context-dependent. When in doubt, CC BY is simpler and more reusable.
 
