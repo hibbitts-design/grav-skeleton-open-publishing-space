@@ -2,6 +2,7 @@
 ## XX/XX/2026
 
 1. [](#improved)
+    * Update to Quark Open Publishing 3.4.20 (Grav 1.7) and Quark 2 Open Publishing 0.9.65 (Grav 2): complete French and German translations
     * Open Education Essentials: section pages' headings no longer repeat the names of their own pages, so the side list doesn't show a page's heading and a page with the same name (for example LMS Embedding) one under the other
 
 # v2.6.1
