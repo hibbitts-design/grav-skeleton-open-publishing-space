@@ -1,5 +1,5 @@
 # v2.6.2
-## XX/XX/2026
+## 10/18/2026
 
 1. [](#improved)
     * Update to Quark Open Publishing 3.4.20 (Grav 1.7) and Quark 2 Open Publishing 0.9.65 (Grav 2): complete French and German translations
