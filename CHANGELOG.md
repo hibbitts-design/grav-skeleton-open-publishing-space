@@ -1,3 +1,9 @@
+# v2.6.2
+## XX/XX/2026
+
+1. [](#improved)
+    * Open Education Essentials: section pages' headings no longer repeat the names of their own pages, so the side list doesn't show a page's heading and a page with the same name (for example LMS Embedding) one under the other
+
 # v2.6.1
 ## 10/18/2026
 
