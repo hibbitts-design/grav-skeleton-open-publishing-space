@@ -29,7 +29,7 @@ A single link serves two audiences:
 
 GitHub handles visitors without repository access most smoothly, making it well suited for open authoring workflows.
 
-## Inviting Contributions
+## Asking Readers to Help
 
 The simplest invitation is a single sentence at the top of your reader home page:
 

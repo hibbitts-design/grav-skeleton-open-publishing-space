@@ -31,6 +31,6 @@ Open course design addresses this by keeping content in portable, human-readable
 > [!TIP]
 > Markdown files stored in a GitHub or Codeberg repository are readable in any text editor and will outlast any platform or vendor.
 
-## A Spectrum of Openness
+## One Step at a Time
 
 Open education isn't all-or-nothing. You can start by making one module of your course openly accessible, or by publishing your syllabus as a public Markdown file. Every step toward openness makes your content more durable and more useful to others.
