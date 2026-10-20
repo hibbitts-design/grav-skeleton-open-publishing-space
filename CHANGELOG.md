@@ -1,3 +1,9 @@
+# v2.6.3
+## 10/XX/2026
+
+1. [](#improved)
+    * README and Read Me page: taking a guide offline (moving its folder out of user/pages, as unpublishing its home page leaves its pages reachable at their addresses)
+
 # v2.6.2
 ## 10/18/2026
 
