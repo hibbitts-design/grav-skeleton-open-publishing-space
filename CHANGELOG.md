@@ -5,6 +5,7 @@
     * Update to Quark 2 Open Publishing 1.0.0 (Grav 2), the theme's first stable release, with a README section on updating from an earlier version
     * Grav's cache is on by default, so pages load faster; Grav still notices edited pages straight away (existing sites can turn it on in Configuration → System → Caching)
     * README and Read Me page: taking a guide offline (moving its folder out of user/pages, as unpublishing its home page leaves its pages reachable at their addresses)
+    * README: Site Setup in its own sections, with short how-tos and a table of each guide's settings
 
 # v2.6.2
 ## 10/18/2026
