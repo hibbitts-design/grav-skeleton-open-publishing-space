@@ -74,7 +74,7 @@ Open Publishing Space is best suited for writers and educators comfortable with 
 
 Everything below is done in the Admin Panel, or by editing the files in `user/pages` if you prefer. Folder names such as `01.open-education-essentials` start with a number that sets their order in the menu.
 
-### Site Name and Homepage
+### Site Name and Home Page
 
 1. Open **Configuration → Site** and set **Site Title** and **Description**
 2. The Open Education Essentials guide is the homepage; to use another page (such as the Blog), change **Home Page** in **Configuration → System**
@@ -119,11 +119,7 @@ The Blog (`/blog`) lists its posts newest first, six per page, with its own text
 - **Sidebar** (`sidebar`) – set its `position` to `top` or `bottom` of the sidebar
 - **Footer** (`footer`) – the text at the bottom of every page
 
-### Search
-
-Search uses the SimpleSearch plugin, from the blog sidebar, the Search page, and the search box on each guide; the optional TNTSearch plugin can be used instead. On sites set up with an earlier version of this skeleton, clear the **Category** filter in **Plugins → SimpleSearch** so search covers every page, not just blog posts.
-
-### Theme and Theme Options
+### Theme Options
 
 The Grav 2 version uses Quark 2 Open Publishing, and the Grav 1.7 version Quark Open Publishing, with the same pages and settings. My Theme, where your customizations go, works with either and shows the settings of the theme that's installed. Install the Quark 2 theme only together with Quark 2 Open Publishing, and check any custom CSS in My Theme when switching between the two.
 
@@ -162,6 +158,10 @@ In the Grav 2 version, pages can also be reused as Markdown, with the settings u
 
 1. Set up Git Sync in the Admin Panel (its own menu item in Grav 2, or **Plugins → Git Sync** in Grav 1.7), with a repository on GitHub, GitLab, Bitbucket or your own server
 2. Under **Themes → My Theme → Git Sync Link**, choose where the link appears and whether it views or edits each page's source
+
+### Search
+
+Search uses the SimpleSearch plugin, from the blog sidebar, the Search page, and the search box on each guide; the optional TNTSearch plugin can be used instead. On sites set up with an earlier version of this skeleton, clear the **Category** filter in **Plugins → SimpleSearch** so search covers every page, not just blog posts.
 
 ## Importing a Pressbooks Book
 
@@ -206,14 +206,15 @@ H5P activities and videos are converted to links back to the original Pressbooks
 
 ## Support
 
-### Contact and Support
+**Contact and Support**
+
 - Share your feedback in the [Open Publishing Space Survey](https://docs.google.com/forms/d/e/1FAIpQLSeDVXsE1k9mljDvGD687QZO8alchaXqe4dXcIKmnjjWVXatgQ/viewform)
 - Follow [@hibbittsdesign@mastodon.social](https://mastodon.social/@hibbittsdesign) on Mastodon for updates
 - 👩🏻‍💻🧑🏻‍💻 Join the [Grav Discord](https://chat.getgrav.org) and often find me there
 - Add a ⭐️ [star on GitHub](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space) to the Open Publishing Space project repository
 - For bugs or feature requests, [open an issue](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space/issues) on GitHub
 
-### Professional Services
+**Professional Services**
 
 By leveraging his extensive UX design expertise and systems-oriented approach, Paul helps teams and individuals utilize open content in education and publication settings. Professional services include user experience and workflow consulting, premium support subscriptions, workshops, and custom development. Interested? Send a note to [paul@hibbittsdesign.org](mailto:paul@hibbittsdesign.org).
 
