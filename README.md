@@ -72,32 +72,96 @@ Open Publishing Space is best suited for writers and educators comfortable with 
 
 ## Site Setup
 
-- **Site name and description** – in the Admin Panel under **Configuration → Site**
-- **Homepage** – the Open Education Essentials guide is the homepage; to use another page (such as the Blog), change the **Home Page** setting in **Configuration → System**
-- **Blog** – at `/blog`; its text and image form the hero banner at the top. Each post is a folder inside `blog` (add one with **Pages → Add**), listed newest first, six per page. Tag a post `featured` to keep it at the top, and edit the notice above the posts in `blog/_important-notice`
-- **Other pages** – top-level pages (Open Education Essentials, Blog, Standard Page, Read Me, and so on) appear in the menu, ordered by their folder number; unpublish any you don't need. The `guides`, `sample-guide`, `modular-page`, `modular-page-inject` and `multi-section-page` examples are unpublished – publish one to try it
+Everything below is done in the Admin Panel, or by editing the files in `user/pages` if you prefer. Folder names such as `01.open-education-essentials` start with a number that sets their order in the menu.
+
+### Site Name and Homepage
+
+1. Open **Configuration → Site** and set **Site Title** and **Description**
+2. The Open Education Essentials guide is the homepage; to use another page (such as the Blog), change **Home Page** in **Configuration → System**
+
+### Guides
+
+A guide is a Section List page with its sections inside it, read in order with Previous and Next buttons. The example guide, **Open Education Essentials**, is in two parts, and is also the example guide in Grav Helios Open Reader.
+
+On the guide's home page:
+
+| Tab | Settings |
+|---|---|
+| **Details** | Subtitle, Cover Image (and its layout), Author(s), Edition, Last Updated, and Guides List Group, Badge Label and Badge Color |
+| **Sections** | Section Label, the sections' order, Cards Per Row, Start Button Text, Show Search Box, Show Reading Progress, Keep My Place, and where the Previous and Next buttons go |
+| **Attribution** | The OER attribution block: License, License URL and Attribution Text |
+
+On each section: its Part (to group sections), Description and Card Image for its card, and Learning Objectives. For more, see the [Quark Open Publishing README](https://github.com/hibbitts-design/grav-theme-quark-open-publishing#multi-page-content), including moving a guide to Grav Helios Open Reader.
+
+### More Than One Guide
+
+Two unpublished examples show a site with several guides, as in the [multi-guide demo](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-guides/): **Guides** (`00.guides`), a Guides List page with a card for each guide (the same page type as Grav Helios Open Reader's readers list), and **Sample Guide** (`02.sample-guide`), a second guide with placeholder sections.
+
+1. Publish both
+2. To make the Guides page the homepage, as in Open Reader, change **Home Page** in **Configuration → System** to `/guides`
+3. Turn on **Hide from Menu** (on the **Advanced** tab) on each guide's home page, to leave the guides out of the menu (`visible: false` would leave a guide off the Guides page too)
+
+A guide gets a card when it's a top-level, published and visible Section List page. To take a guide offline, move its folder out of `user/pages`: unpublishing its home page leaves it off the Guides page and out of search, but its pages can still be opened from their addresses.
+
+### Blog
+
+The Blog (`/blog`) lists its posts newest first, six per page, with its own text and image as the hero banner at the top.
+
+1. Add a post with **Pages → Add**, as a folder inside `blog`
+2. Tag a post `featured` to keep it at the top
+3. Edit the notice above the posts in `blog/_important-notice`
+
+### Pages, Menu, Sidebar and Footer
+
+- Top-level pages (Open Education Essentials, Blog, Standard Page, Read Me, and so on) appear in the menu, in folder-number order; unpublish any you don't need
+- The `guides`, `sample-guide`, `modular-page`, `modular-page-inject` and `multi-section-page` examples are unpublished – publish one to try it
 - **Multi-Section Page** – a simpler alternative to a guide: a page with a side list of its sections and classic Next/Prev buttons. When embedded, it keeps its side list and buttons, while a guide shows only the page content
-- **Open Education Essentials** – the example guide, in two parts, using the Section List page type; it is also the example guide in Grav Helios Open Reader. Set its subtitle, cover image, author(s), edition, last updated date, section label, reading progress, Keep My Place, Previous/Next position, and OER attribution on its home page, and each section's Part, card description, image, and Learning Objectives on the section (see the [Quark Open Publishing README](https://github.com/hibbitts-design/grav-theme-quark-open-publishing#multi-page-content), including moving a guide to Grav Helios Open Reader)
-- **More than one guide** – two examples, unpublished: **Guides** (`00.guides`), a Guides List page with a card for each guide on the site (the same page type as Grav Helios Open Reader's readers list), and **Sample Guide** (`02.sample-guide`), a second guide with placeholder sections. Publish both to see a site with several guides, as in the [multi-guide demo](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-guides/). To make the Guides page the homepage, as in Open Reader, change the **Home Page** setting in **Configuration → System** to `/guides`, and turn on **Hide from Menu** (on the **Advanced** tab) on each guide's home page to leave the guides out of the menu (`visible: false` would leave a guide off the Guides page too). A guide gets a card when it's a top-level, published and visible Section List page; its **Guides List Group**, **Badge Label** and **Badge Color** settings (on its **Details** tab) add a heading and a badge such as "Draft". To take a guide offline, move its folder out of `user/pages`: unpublishing its home page leaves it off the Guides page and out of search, but its pages can still be opened from their addresses
-- **Search** – uses the SimpleSearch plugin, from the blog sidebar, the Search page, and the search box on each guide; the optional TNTSearch plugin can be used instead. On sites set up with an earlier version of this skeleton, clear the **Category** filter in **Plugins → SimpleSearch** so search covers every page, not just blog posts
-- **Shared parts** – edit the `sidebar` page (set its `position` to `top` or `bottom` of the sidebar) and the `footer` page
-- **Theme** – the Grav 2 version uses Quark 2 Open Publishing, and the Grav 1.7 version Quark Open Publishing, with the same pages and settings. My Theme, where your customizations go, works with either and shows the settings of the theme that's installed. Install the Quark 2 theme only together with Quark 2 Open Publishing, and check any custom CSS in My Theme when switching between the two
-- **Moving an existing site to Quark 2 Open Publishing** – sites created before Open Publishing Space 2.3.0 have a `streams` setting in `user/config/themes/mytheme.yaml` that only lists Quark Open Publishing. If guide pages then show "template not found", replace its `streams` block with the one below and clear the cache (and check `user/env/<domain>/config/themes/mytheme.yaml` too, if your site has one):
+- **Sidebar** (`sidebar`) – set its `position` to `top` or `bottom` of the sidebar
+- **Footer** (`footer`) – the text at the bottom of every page
 
-  ```yaml
-  streams:
-    schemes:
-      theme:
-        type: ReadOnlyStream
-        prefixes:
-          '': [user/themes/mytheme, user/themes/quark2-open-publishing, user/themes/quark2, user/themes/quark-open-publishing, user/themes/quark]
-  ```
+### Search
 
-- **Look and options** – under **Themes → My Theme**: Light, Dark or Auto mode and accent colour (Quark 2 Open Publishing) or Dark Mode and text size on phones (Quark Open Publishing), plus logo, header and footer style, chromeless site, Creative Commons license, and custom menu items (see the [Quark 2 Open Publishing](https://github.com/hibbitts-design/grav-theme-quark2-open-publishing#theme-options) and [Quark Open Publishing](https://github.com/hibbitts-design/grav-theme-quark-open-publishing#theme-options) READMEs for all options)
-- **Embedding** – add `/chromeless:true` or `?embedded=true` to any page URL, for example `/blog/hero-classes/chromeless:true` or `/blog/hero-classes?embedded=true`
-- **Markdown of any page** (Grav 2 version) – a "This page as Markdown (.md)" link below a page's content gets that page as Markdown, ready to reuse (the same as adding `.md` to the page URL, for example `/blog/hero-classes.md`, or `/index.md` for the home page). This is Grav 2.1's Markdown output, which can be turned off in **Configuration → System → Content**. The link's settings, including where it shows and which page templates hide it, are under **Reuse Pages as Markdown** in **Themes → My Theme**. The Copy as Markdown Button plugin is also included, turned off, for anyone who'd like a one-click copy button on pages (turn it on in **Plugins**).
-- **Full text of a guide** (Grav 2 version) – turn on **Display Full Text Link on Guides**, under **Reuse Pages as Markdown** in **Themes → My Theme**, to add a "Full text (llms-full.txt)" link on each guide's home page. It gives the whole guide – only its own pages, in reading order – as one Markdown file, at the guide's address with `/llms-full.txt` added (for example `/open-education-essentials/llms-full.txt`), as in Grav Helios Open Reader.
-- **Git Sync and "Edit this Page"** – set up Git Sync in the Admin Panel (its own menu item in Grav 2, or Plugins → Git Sync in Grav 1.7), then choose where the link appears and whether it views or edits the source in the theme's Git Sync Link options
+Search uses the SimpleSearch plugin, from the blog sidebar, the Search page, and the search box on each guide; the optional TNTSearch plugin can be used instead. On sites set up with an earlier version of this skeleton, clear the **Category** filter in **Plugins → SimpleSearch** so search covers every page, not just blog posts.
+
+### Theme and Theme Options
+
+The Grav 2 version uses Quark 2 Open Publishing, and the Grav 1.7 version Quark Open Publishing, with the same pages and settings. My Theme, where your customizations go, works with either and shows the settings of the theme that's installed. Install the Quark 2 theme only together with Quark 2 Open Publishing, and check any custom CSS in My Theme when switching between the two.
+
+Under **Themes → My Theme** (see the [Quark 2 Open Publishing](https://github.com/hibbitts-design/grav-theme-quark2-open-publishing#theme-options) and [Quark Open Publishing](https://github.com/hibbitts-design/grav-theme-quark-open-publishing#theme-options) READMEs for every option):
+
+- **Look** – Light, Dark or Auto mode and accent colour (Quark 2 Open Publishing), or Dark Mode and text size on phones (Quark Open Publishing)
+- **Layout** – logo, header and footer style, and a chromeless site (no menu, sidebar or footer)
+- **More** – Creative Commons license, custom menu items, and the Git Sync Link (see below)
+
+Sites created before Open Publishing Space 2.3.0 have a `streams` setting in `user/config/themes/mytheme.yaml` that only lists Quark Open Publishing. If guide pages then show "template not found", replace its `streams` block with the one below and clear the cache (and check `user/env/<domain>/config/themes/mytheme.yaml` too, if your site has one):
+
+```yaml
+streams:
+  schemes:
+    theme:
+      type: ReadOnlyStream
+      prefixes:
+        '': [user/themes/mytheme, user/themes/quark2-open-publishing, user/themes/quark2, user/themes/quark-open-publishing, user/themes/quark]
+```
+
+### Embedding and Reuse
+
+To show only a page's content, without the menu, sidebar or footer, ready to embed in an LMS or another site, add one of these to its address:
+
+| Add to the address | For example |
+|---|---|
+| `/chromeless:true` | `https://yoursite.com/blog/hero-classes/chromeless:true` |
+| `?embedded=true` | `https://yoursite.com/blog/hero-classes?embedded=true` |
+
+In the Grav 2 version, pages can also be reused as Markdown, with the settings under **Reuse Pages as Markdown** in **Themes → My Theme**:
+
+- **Any page as Markdown** – a "This page as Markdown (.md)" link below a page's content gets that page as Markdown (the same as adding `.md` to its address, for example `/blog/hero-classes.md`, or `/index.md` for the home page). This is Grav 2.1's Markdown output, which can be turned off in **Configuration → System → Content**. The settings choose where the link shows and which page templates hide it. The Copy as Markdown Button plugin is also included, turned off, for a one-click copy button on pages (turn it on in **Plugins**)
+- **A whole guide as one file** – turn on **Display Full Text Link on Guides** to add a "Full text (llms-full.txt)" link on each guide's home page. It gives the whole guide – only its own pages, in reading order – as one Markdown file, at the guide's address with `/llms-full.txt` added (for example `/open-education-essentials/llms-full.txt`), as in Grav Helios Open Reader
+
+### Git Sync and "Edit this Page"
+
+1. Set up Git Sync in the Admin Panel (its own menu item in Grav 2, or **Plugins → Git Sync** in Grav 1.7), with a repository on GitHub, GitLab, Bitbucket or your own server
+2. Under **Themes → My Theme → Git Sync Link**, choose where the link appears and whether it views or edits each page's source
 
 ## Importing a Pressbooks Book
 
