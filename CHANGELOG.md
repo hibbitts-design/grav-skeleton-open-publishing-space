@@ -1,5 +1,5 @@
 # v2.6.3
-## 10/XX/2026
+## 10/22/2026
 
 1. [](#improved)
     * Update to Quark 2 Open Publishing 1.0.0 (Grav 2), the theme's first stable release, with a README section on updating from an earlier version
