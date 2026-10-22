@@ -12,6 +12,19 @@ You don't need to build a complete open textbook to get started with OER. The mo
 
 **3. Create and publish.** If nothing suitable exists, create it. Even a single openly licensed syllabus or lab guide is a contribution to the OER ecosystem.
 
+Choosing between them comes down to two questions:
+
+```mermaid
+flowchart TD
+    accTitle: Choosing an entry point for OER
+    accDescr: A decision chart. If an open resource already exists and fits your course as it is, adopt it. If one exists but needs changes, adapt it. If nothing suitable exists, create and publish your own.
+
+    EXISTS("`Does an open resource exist?`") -->|Yes| FITS("`Does it fit as it is?`")
+    EXISTS -->|No| CREATE["`**3. Create** and publish`"]
+    FITS -->|Yes| ADOPT["`**1. Adopt** as it is`"]
+    FITS -->|No| ADAPT["`**2. Adapt** for your context`"]
+```
+
 [example title="Adapting an OpenStax Textbook"]
 An instructor teaching introductory biology finds that [OpenStax Biology 2e](https://openstax.org/details/books/biology-2e) covers most of their course but includes two chapters irrelevant to their program. They download the source files, remove those chapters, add a locally written lab guide under CC BY, and publish the combined resource on a Grav-based reader synced to a public GitHub repository. The result is a customised OER that attributes the original, carries a compatible license, and is itself freely adaptable by others.
 [/example]
