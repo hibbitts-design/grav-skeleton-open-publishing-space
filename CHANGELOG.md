@@ -1,3 +1,9 @@
+# v2.6.4
+## 10/XX/2026
+
+1. [](#improved)
+    * Maintaining an Open Reader page: a Correcting a Formula example, showing a reader's fix to a formula as a one-line change
+
 # v2.6.3
 ## 10/22/2026
 
