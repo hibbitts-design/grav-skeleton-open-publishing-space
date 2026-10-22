@@ -24,6 +24,21 @@ When a reader submits a pull request with a correction or suggestion:
 2. If the change is good, merge it – Grav picks up the update via the Git Sync webhook
 3. Credit the contributor in the page's revision history or a dedicated acknowledgements section
 
+[example title="Correcting a Formula"]
+A student notices that the sample mean in a statistics chapter divides by the wrong value. Because the formula is written as text, their pull request changes one line, just like a typo fix:
+
+~~~diff
+- $\bar{x} = \frac{1}{n-1} \sum_{i=1}^{n} x_i$
++ $\bar{x} = \frac{1}{n} \sum_{i=1}^{n} x_i$
+~~~
+
+Once merged, the page shows the corrected formula:
+
+$$
+\bar{x} = \frac{1}{n} \sum_{i=1}^{n} x_i
+$$
+[/example]
+
 ## Versioning Major Revisions
 
 For significant updates – a new edition, a substantial restructure – consider tagging a release in the repository before making changes. This preserves the previous version at a stable URL (via the tag) while the live site moves forward.
