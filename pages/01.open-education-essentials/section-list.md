@@ -22,6 +22,9 @@ sitemap:
     lastmod: '04-10-2026 20:32'
 show_search_box: true
 keep_my_place: true
+side_box: |
+    **Reuse this guide**
+    It's licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) – copy it, adapt it and share it, with credit.
 hide_next_prev_page_buttons: false
 ---
 

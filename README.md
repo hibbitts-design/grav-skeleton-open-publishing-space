@@ -88,10 +88,10 @@ On the guide's home page:
 | Tab | Settings |
 |---|---|
 | **Details** | Subtitle, Cover Image (and its layout), Author(s), Edition, Last Updated, and Guides List Group, Badge Label and Badge Color |
-| **Sections** | Section Label, the sections' order, Cards Per Row, Start Button Text, Show Search Box, Show Reading Progress, Keep My Place, and where the Previous and Next buttons go |
+| **Sections** | Section Label, the sections' order, Cards Per Row, Start Button Text, Show Search Box, Show Reading Progress, Keep My Place, where the Previous and Next buttons go, and a Side Box (Markdown under the side list on every page) |
 | **Attribution** | The OER attribution block: License, License URL and Attribution Text |
 
-On each section: its Part (to group sections), Description and Card Image for its card, and Learning Objectives. For more, see the [Quark Open Publishing README](https://github.com/hibbitts-design/grav-theme-quark-open-publishing#multi-page-content), including moving a guide to Grav Helios Open Reader.
+On each section: its Part (to group sections), Description and Card Image for its card, Learning Objectives, and its own Side Box (or `false` to hide it). For more, see the [Quark Open Publishing README](https://github.com/hibbitts-design/grav-theme-quark-open-publishing#multi-page-content), including moving a guide to Grav Helios Open Reader.
 
 ### More Than One Guide
 
