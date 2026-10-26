@@ -5,6 +5,7 @@
     * Getting Started with OER page: a flowchart for choosing between adopting, adapting or creating OER, drawn with the Mermaid plugin
     * Maintaining an Open Reader page: a Correcting a Formula example, showing a reader's fix to a formula as a one-line change, drawn with the LaTeX Math plugin
     * Example guide: a Side Box under the side list on every page, inviting readers to reuse the guide under its CC BY 4.0 license (Quark 2 Open Publishing 1.0.3 or Quark Open Publishing 3.4.24)
+    * Footer: the links to hibbittsdesign.org and Grav use https (the http address for hibbittsdesign.org doesn't load)
 
 # v2.6.3
 ## 10/22/2026
