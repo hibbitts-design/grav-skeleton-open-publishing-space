@@ -1,5 +1,5 @@
 # v2.6.4
-## 10/XX/2026
+## 10/26/2026
 
 1. [](#improved)
     * Getting Started with OER page: a flowchart for choosing between adopting, adapting or creating OER, drawn with the Mermaid plugin
