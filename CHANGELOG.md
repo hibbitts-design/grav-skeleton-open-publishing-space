@@ -6,6 +6,8 @@
     * Maintaining an Open Reader page: a Correcting a Formula example, showing a reader's fix to a formula as a one-line change, drawn with the LaTeX Math plugin
     * Example guide: a Side Box under the side list on every page, inviting readers to reuse the guide under its CC BY 4.0 license (Quark 2 Open Publishing 1.0.3 or Quark Open Publishing 3.4.24)
     * Footer: the links to hibbittsdesign.org and Grav use https (the http address for hibbittsdesign.org doesn't load)
+2. [](#bugfix)
+    * My Theme: a leftover Quark 2 Open Publishing folder without Quark 2 no longer stops the site – My Theme then uses Quark Open Publishing
 
 # v2.6.3
 ## 10/22/2026
