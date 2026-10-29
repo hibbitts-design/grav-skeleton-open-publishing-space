@@ -1,5 +1,5 @@
 # v2.6.5
-## XX/XX/2026
+## 10/29/2026
 
 1. [](#improved)
     * Includes the LaTeX Math and Mermaid plugins, now on getgrav.org, so the formula and flowchart examples work in a new site
