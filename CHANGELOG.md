@@ -1,3 +1,9 @@
+# v2.6.5
+## XX/XX/2026
+
+1. [](#improved)
+    * Includes the LaTeX Math and Mermaid plugins, now on getgrav.org, so the formula and flowchart examples work in a new site
+
 # v2.6.4
 ## 10/28/2026
 
