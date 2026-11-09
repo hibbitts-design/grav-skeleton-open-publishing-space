@@ -88,10 +88,18 @@ On the guide's home page:
 | Tab | Settings |
 |---|---|
 | **Details** | Subtitle, Cover Image (and its layout), Author(s), Edition, Last Updated, and Guides List Group, Badge Label and Badge Color |
-| **Sections** | Section Label, the sections' order, Cards Per Row, Start Button Text, Show Search Box, Show Reading Progress, Keep My Place, where the Previous and Next buttons go, and a Side Box (Markdown under the side list on every page) |
+| **Sections** | Section Label, the sections' order, Cards Per Row, Start Button Text, Show Search Box, Show Reading Progress, Keep My Place, where the Previous and Next buttons go, Number Figures and Tables (by section, as in Figure 3.2), and a Side Box (Markdown under the side list on every page) |
 | **Attribution** | The OER attribution block: License, License URL and Attribution Text |
 
-On each section: its Part (to group sections), Description and Card Image for its card, Learning Objectives, and its own Side Box (or `false` to hide it). For more, see the [Quark Open Publishing README](https://github.com/hibbitts-design/grav-theme-quark-open-publishing#multi-page-content), including moving a guide to Grav Helios Open Reader.
+On each section: its Part (to group sections), Description and Card Image for its card, Learning Objectives, its own Side Box (or `false` to hide it), and a Glossary.
+
+Guide pages also support:
+
+- **Footnotes** – `[^1]` footnotes work with no setup, shown as small notes below the text
+- **A glossary** – add terms and definitions to a section's **Glossary** setting (often an unnumbered section at the end), or to the Glossary setting of a standard page in the guide's folder, to list them there in alphabetical order; in the text, `[term]OER[/term]` (or the editor's **Glossary Term** button) shows a term's definition when hovered over, tapped or chosen with the keyboard
+- **Numbered figures and tables** – with **Number Figures and Tables** on, captioned figures and tables are numbered by section; a figure's caption is an italic line just below an image, and a table's caption is a `Table: …` line just above or below it
+
+For more, see the [Quark Open Publishing README](https://github.com/hibbitts-design/grav-theme-quark-open-publishing#multi-page-content), including moving a guide to Grav Helios Open Reader.
 
 ### More Than One Guide
 
@@ -177,8 +185,9 @@ On the guide's home page, consider:
 
 - **Section labels** – converted section titles often already start with "Module 1:" or "Chapter 1:", so keep the section labels off (converted books usually include `show_section_label: false`)
 - **Cover image** – a portrait book cover is shown whole with either Cover Image Layout
+- **Number Figures and Tables** – to number the book's captioned figures and tables by section (Figure 3.2), unless its captions are already numbered
 
-Exercises, callouts, figures and captions carry over as they are. A few things to know:
+Exercises, callouts, figures and captions carry over as they are. So do footnotes, table captions (as `Table: …` lines) and a Pressbooks glossary, which becomes an unnumbered Glossary section at the end, with the terms marked in the book showing their definitions. A few things to know:
 
 - **Images** still load from the original Pressbooks site; to keep your own copies, add the images to each page's folder and update their addresses
 - **Pressbooks tables** inserted with a shortcode (such as `[table id=5]`) show as text; replace them with a Markdown table
