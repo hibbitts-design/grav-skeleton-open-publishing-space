@@ -1,3 +1,10 @@
+# v2.6.6
+## 11/09/2026
+
+1. [](#improved)
+    * Includes Quark Open Publishing 3.5.1 and Quark 2 Open Publishing 1.1.1: footnotes on guide pages, glossaries, and figures and tables numbered by section
+    * README: guide footnotes, glossaries and the Number Figures and Tables setting, and what a converted Pressbooks book brings (footnotes, table captions and its glossary)
+
 # v2.6.5
 ## 10/29/2026
 
