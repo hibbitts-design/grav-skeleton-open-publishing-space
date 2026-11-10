@@ -25,6 +25,17 @@ To see a site with more than one guide, publish the example **Guides** page and 
 
 To take a guide offline, move its folder out of `user/pages`. Unpublishing its home page leaves it off the Guides page and out of search, but its pages can still be opened from their addresses, as Grav doesn't unpublish the pages inside an unpublished page.
 
+### Give a Guide Its Own Address
+
+Want a guide to open at its own address – for a talk, a workshop or a class? Point a second domain or subdomain at this site's folder (your web host's control panel can do this), then create `user/env/<that address>/config/system.yaml` with:
+
+```yaml
+home:
+  alias: '/my-guide'
+```
+
+The site's main address still opens as before, and both addresses share the same pages. A `site.yaml` beside it can also give that address its own description and share image – see Grav's [Environment Configuration](https://learn.getgrav.org/2/advanced/environment-config).
+
 ### What Else Can the Open Publishing Space do for You? ##
 Learn more about the capabilities of the Open Publishing Space project in its [README on GitHub](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space#readme).
 

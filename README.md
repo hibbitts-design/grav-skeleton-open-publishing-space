@@ -111,6 +111,17 @@ Two unpublished examples show a site with several guides, as in the [multi-guide
 
 A guide gets a card when it's a top-level, published and visible Section List page. To take a guide offline, move its folder out of `user/pages`: unpublishing its home page leaves it off the Guides page and out of search, but its pages can still be opened from their addresses.
 
+### Give a Guide Its Own Address
+
+Want a guide to open at its own address – for a talk, a workshop or a class? Point a second domain or subdomain at this site's folder (your web host's control panel can do this), then create `user/env/<that address>/config/system.yaml` with:
+
+```yaml
+home:
+  alias: '/my-guide'
+```
+
+The site's main address still opens as before, and both addresses share the same pages. A `site.yaml` beside it can also give that address its own description and share image – see Grav's [Environment Configuration](https://learn.getgrav.org/2/advanced/environment-config).
+
 ### Blog
 
 The Blog (`/blog`) lists its posts newest first, six per page, with its own text and image as the hero banner at the top.
