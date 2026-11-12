@@ -49,7 +49,7 @@ Other options might be better when you:
 - Need comments, memberships, or newsletters built in
 - Prefer fully visual drag-and-drop page builders over Markdown-based editing
 
-Already have a guide in Open Publishing Space? See [moving to Grav Helios Open Reader](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader#moving-from-grav-open-publishing-space) – the guide's folder copies across as a publication.
+Already have a guide in Open Publishing Space? See [moving to Grav Helios Open Reader](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader#moving-from-grav-open-publishing-space) – the guide's folder copies across as a publication. Coming the other way, from Grav Helios Open Reader? Copy each publication's folder into `user/pages`: the page types and settings are the same, its Readers page works as a Guides page, and Helios-only settings (such as card icons and the sidebar image) are simply ignored.
 
 ## Quick Start
 
