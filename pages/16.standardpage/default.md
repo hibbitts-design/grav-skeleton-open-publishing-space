@@ -3,6 +3,8 @@ title: 'Standard Page'
 hide_git_sync_repo_link: false
 ---
 
+# Standard Page
+
 This is an example **standard** page, where content from one single page is displayed. This page also shows how to add classes to Markdown images for floating images left or right, with and without captions.
 
 ![Sky and Mountain](chase-moyer-730496-unsplash.jpg)

@@ -3,29 +3,31 @@ title: 'Read Me'
 published: true
 ---
 
-### Create, Share and Collaborate using Grav Open Publishing Space!  
+# Read Me
+
+## Create, Share and Collaborate using Grav Open Publishing Space!  
 
 1. Create a new [Git](https://git-scm.com/) repository (hosted on [GitHub](https://github.com/), [GitLab](https://about.gitlab.com/), [Bitbucket](https://bitbucket.org/) or your own server) with at least one commit.
 2. Set up Git Sync in the Admin Panel for step-by-step instructions – on Grav 2 it has its own [Git Sync](../../admin/plugin/git-sync) menu item, and on Grav 1.7 it's under Plugins → [Git Sync](../../admin/plugins/git-sync).
 3. Configure the [Git Sync Link](../../admin/themes/mytheme) settings in the Theme options to change the display and functionality of the automatically displayed Git Sync Link.
 
-### Embed Open Publishing Space Page Content into Other Systems
+## Embed Open Publishing Space Page Content into Other Systems
 
 By adding the URL parameter (i.e. flag) `chromeless:true` to any Open Publishing Space page you can display that page's content without the global header image, site navigation bar, sidebar and footer - a great way to seamlessly embed Open Publishing Space pages into other systems.  
 
 For example, the URL [https://demo.hibbittsdesign.org/grav-open-publishing-quark2/](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/) displays the site's home page with the full site around it, but the URL [https://demo.hibbittsdesign.org/grav-open-publishing-quark2/chromeless:true](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/chromeless:true) will only display that page's content. Any links between Open Publishing Space pages will result in pages being displayed in the same manner.
 
-### Get Any Page as Markdown (Grav 2 Version)
+## Get Any Page as Markdown (Grav 2 Version)
 
 On Grav 2.1 and newer, the "This page as Markdown (.md)" link below a page's content gets that page as Markdown, ready to reuse – the same as adding `.md` to the page's address, for example `/blog/hero-classes.md`, or `/index.md` for the home page. The link's settings are under **Reuse Pages as Markdown** in **Themes → My Theme**, and Grav's Markdown output can be turned off in **Configuration → System → Content**.
 
-### More Than One Guide
+## More Than One Guide
 
 To see a site with more than one guide, publish the example **Guides** page and **Sample Guide** (set their 'Published' option to 'Yes' in the [Admin Pages panel](../../admin/pages)). The Guides page shows a card for each guide on the site – see the [multi-guide demo](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-guides/). To use it as the home page, as in Grav Helios Open Reader, set **Home Page** to `/guides` in **Configuration → System**, and turn on **Hide from Menu** (on the **Advanced** tab) on each guide's home page to leave the guides out of the menu.
 
 To take a guide offline, move its folder out of `user/pages`. Unpublishing its home page leaves it off the Guides page and out of search, but its pages can still be opened from their addresses, as Grav doesn't unpublish the pages inside an unpublished page.
 
-### Give a Guide Its Own Address
+## Give a Guide Its Own Address
 
 Want a guide to open at its own address – for a talk, a workshop or a class? Point a second domain or subdomain at this site's folder (your web host's control panel can do this), then create `user/env/<that address>/config/system.yaml` with:
 
@@ -36,7 +38,7 @@ home:
 
 The site's main address still opens as before, and both addresses share the same pages. A `site.yaml` beside it can also give that address its own description and share image – see Grav's [Environment Configuration](https://learn.getgrav.org/2/advanced/environment-config).
 
-### What Else Can the Open Publishing Space do for You? ##
+## What Else Can the Open Publishing Space do for You? ##
 Learn more about the capabilities of the Open Publishing Space project in its [README on GitHub](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space#readme).
 
 <hr>
