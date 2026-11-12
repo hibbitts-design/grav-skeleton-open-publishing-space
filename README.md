@@ -87,7 +87,7 @@ On the guide's home page:
 
 | Tab | Settings |
 |---|---|
-| **Details** | Subtitle, Cover Image (and its layout), Author(s), Edition, Last Updated, and Guides List Group, Badge Label and Badge Color |
+| **Details** | Subtitle, Cover Image (and its layout), Author(s), Edition, Last Updated, and Guides List Group, Badge Label, Badge Color and Show on Guides List |
 | **Sections** | Section Label, the sections' order, Cards Per Row, Start Button Text, Show Search Box, Show Reading Progress, Keep My Place, where the Previous and Next buttons go, Number Figures and Tables (by section, as in Figure 3.2), and a Side Box (Markdown under the side list on every page) |
 | **Attribution** | The OER attribution block: License, License URL and Attribution Text |
 
