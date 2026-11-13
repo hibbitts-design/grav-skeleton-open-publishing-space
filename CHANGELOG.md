@@ -1,8 +1,9 @@
 # v2.6.8
-## XX/XX/2026
+## 11/13/2026
 
 1. [](#improved)
     * Getting Started in Admin: how editing works, naming the site and adding a logo, a step for the guide's cover, and Admin's own Add Page and Copy page instead of copying folders
+    * Sample Guide: a starting point for your own guide, with the same page types and settings as Open Education Essentials, and writing prompts on its pages in place of placeholder text
 
 # v2.6.7
 ## 11/13/2026
