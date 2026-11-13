@@ -77,7 +77,7 @@ In the Grav 2 package, **Getting Started** (in the Admin 2 sidebar) has the firs
 ### Site Name and Home Page
 
 1. Open **Configuration → Site** and set **Site Title** and **Description**
-2. The Guides page is the homepage, with a card for each guide – with just one guide, the logo goes straight to it; to use another page (such as the guide or the Blog), change **Home Page** in **Configuration → System**
+2. The Guides page is the homepage, with a card for each guide – with just one guide, the logo goes straight to it (Grav 2); to use another page (such as the guide or the Blog), change **Home Page** in **Configuration → System**
 
 ### Guides
 
@@ -192,7 +192,7 @@ A Pressbooks book can become a guide here. The free [Pressbooks Converter](https
 1. Convert the book's export with the Pressbooks Converter, choosing **Grav Open Publishing Space** as the destination, and download the converted publication
 2. Copy the book's folder into `user/pages`. The converter numbers it `10.` (for example `10.universal-design-for-2026`), so it appears after the guides in the menu, before the blog, and a long title gets a shorter menu label (the `menu` setting on the book's page)
 3. Then choose how the site shows it:
-   - **The book as the only guide** – delete `01.open-education-essentials`, so the book has the only card on the Guides page and the logo goes straight to it (or change the **Home Page** setting in **Configuration → System** to the book, to open on it)
+   - **The book as the only guide** – delete `01.open-education-essentials` and turn on **Hide from Menu** (on the **Advanced** tab) on the book's home page, so the book has the only card on the Guides page and the logo goes straight to it in Grav 2 (or change the **Home Page** setting in **Configuration → System** to the book, to open on it)
    - **The book alongside other guides** – turn on **Hide from Menu** (on the **Advanced** tab) on the book's home page, so it has a card on the Guides page instead of a menu item
 
 On the guide's home page, consider:
