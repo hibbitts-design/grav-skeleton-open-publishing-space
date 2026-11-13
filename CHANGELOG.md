@@ -1,3 +1,9 @@
+# v2.6.10
+## XX/XX/2026
+
+1. [](#improved)
+    * Getting Started: how the home page works, a step for the Guides welcome text, and links that open the pages and settings it mentions
+
 # v2.6.9
 ## 11/13/2026
 
