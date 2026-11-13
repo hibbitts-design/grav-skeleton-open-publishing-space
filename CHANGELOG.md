@@ -2,7 +2,7 @@
 ## XX/XX/2026
 
 1. [](#improved)
-    * Getting Started in Admin: a simpler welcome line, and clearer links to the Read Me page and the README on GitHub
+    * Getting Started in Admin: how editing works, naming the site and adding a logo, a step for the guide's cover, and Admin's own Add Page and Copy page instead of copying folders
 
 # v2.6.7
 ## 11/13/2026
