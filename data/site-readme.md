@@ -1,6 +1,6 @@
 # Getting Started
 
-Welcome to your Open Publishing Space. It comes with an example guide, Open Education Essentials – make it your own, or add a guide of your own beside it.
+Welcome to your Open Publishing Space. It comes with an example guide, Open Education Essentials – adapt it, or add another guide beside it.
 
 ## Make the Guide Your Own
 
@@ -22,5 +22,5 @@ Welcome to your Open Publishing Space. It comes with an example guide, Open Educ
 
 ## Find Out More
 
-- **The Read Me page** on this site shows what Open Publishing Space can do
-- **The README** has every setting: [Open Publishing Space on GitHub](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space#readme)
+- **Read Me**, a page in this site's menu: how-tos for Git Sync, embedding pages in an LMS, getting any page as Markdown, and more
+- **The README on GitHub**: every setting – [Open Publishing Space README](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space#readme)
