@@ -1,3 +1,9 @@
+# v2.6.8
+## XX/XX/2026
+
+1. [](#improved)
+    * Getting Started in Admin: a simpler welcome line, and clearer links to the Read Me page and the README on GitHub
+
 # v2.6.7
 ## 11/13/2026
 
