@@ -103,7 +103,7 @@ For more, see the [Quark Open Publishing README](https://github.com/hibbitts-des
 
 ### More Than One Guide
 
-Two unpublished examples show a site with several guides, as in the [multi-guide demo](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-guides/): **Guides** (`00.guides`), a Guides List page with a card for each guide (the same page type as Grav Helios Open Reader's readers list), and **Sample Guide** (`02.sample-guide`), a second guide with placeholder sections.
+Two unpublished examples show a site with several guides, as in the [multi-guide demo](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-guides/): **Guides** (`00.guides`), a Guides List page with a card for each guide (the same page type as Grav Helios Open Reader's readers list), and **Sample Guide** (`02.sample-guide`), a second guide to start your own from, with writing prompts on each page.
 
 1. Publish both
 2. To make the Guides page the homepage, as in Open Reader, change **Home Page** in **Configuration → System** to `/guides`
