@@ -2,25 +2,30 @@
 
 Welcome to your Open Publishing Space. It comes with an example guide, Open Education Essentials – adapt it, or add another guide beside it.
 
+**How editing works** – open a page in **Pages**, change its text on the **Content** tab and its settings on the other tabs, then **Save**. Text is written in Markdown, such as `**bold**`, `## Heading` and `- list item`.
+
+## Start with Your Site
+
+1. **Name** your site – set **Site Title** in **Configuration → Site**
+2. **Add** your logo and colour – set **Custom Logo** and **Accent Color** in **Themes → My Theme**
+
 ## Make the Guide Your Own
 
-1. **Open** Pages, then **Open Education Essentials**
-2. **Rename** it with **Guide Title**, and set its **Subtitle**, **Cover Image** and **Author(s)** on its **Details** tab
-3. **Pick** a **Guide Color** on the same tab, for a light tint behind the header on all its pages
-4. **Edit** its sections and the pages inside them – they appear in the guide in folder order
-5. **Set** its license and credit on its **Attribution** tab
+1. **Open** the Open Education Essentials guide in **Pages**
+2. **Rename** it with **Guide Title**, and set its **Subtitle** and **Author(s)** on its **Details** tab
+3. **Add** a cover – upload a picture under **Page Media**, then choose it as **Cover Image** on **Details**
+4. **Pick** a **Guide Color**, also on **Details**, for a light tint behind the header on all its pages
+5. **Edit** its sections and the pages inside them, which appear in folder order – **Add Page** creates new ones
+6. **Set** its license and credit on its **Attribution** tab
 
 ## Add Another Guide
 
-- **Copy** the guide's folder, or start from the **Sample Guide** – it's switched off; turn on **Published** to see it
-- **Turn on** the **Guides** page (also switched off) to list all your guides on one page
+- **Copy a guide** – use **Copy page**, or turn on **Published** for the **Sample Guide**, which is switched off
+- **List your guides** – turn on the **Guides** page (also switched off) for a card for each guide
 
 ## Remove What You Don't Need
 
-- **Standard Page or the Blog:** delete it, or turn on **Hide from Menu** on its **Advanced** tab
-- **The switched-off examples** (Guides page, Sample Guide, modular and Multi-Section pages): keep them as references, or delete them
+- **Standard Page or the Blog** – delete it, or turn on **Hide from Menu** on its **Advanced** tab
+- **The switched-off examples** (Guides page, Sample Guide, modular and Multi-Section pages) – keep them as references, or delete them
 
-## Find Out More
-
-- **Read Me**, a page in this site's menu: how-tos for Git Sync, embedding pages in an LMS, getting any page as Markdown, and more
-- **The README on GitHub**: every setting – [Open Publishing Space README](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space#readme)
+For every setting and more how-tos, see the [Open Publishing Space README](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space#readme) on GitHub.
