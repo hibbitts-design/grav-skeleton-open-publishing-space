@@ -1,9 +1,11 @@
 # v2.6.7
-## XX/XX/2026
+## 11/13/2026
 
 1. [](#improved)
     * README and Read Me page: how to give a guide its own address (such as a subdomain for a talk or class), with Grav's environment configuration
     * Standard Page and Read Me examples: a visible page title (a `#` heading), so each page has one main heading for screen readers
+    * Getting Started in the Admin 2 sidebar (Grav 2 package, with the Admin2 Site ReadMe plugin): the first steps to make the example guide your own, add another guide and remove what you don't need
+    * README: Removing the Examples
 
 # v2.6.6
 ## 11/09/2026
