@@ -1,3 +1,10 @@
+# v2.6.9
+## 11/13/2026
+
+1. [](#improved)
+    * The Guides page is now the home page, with a card for each guide – turning on the Sample Guide adds a second card, and with just one guide the logo goes straight to it (Quark 2 Open Publishing 1.2.5)
+    * Getting Started, README and Read Me page: the Guides page as the home page, and Hide from Menu for each new guide
+
 # v2.6.8
 ## 11/13/2026
 
