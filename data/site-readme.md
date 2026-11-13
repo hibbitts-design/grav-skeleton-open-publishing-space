@@ -2,7 +2,7 @@
 
 Welcome to your Open Publishing Space. It comes with an example guide, Open Education Essentials – adapt it, or add another guide beside it.
 
-**How editing works** – open a page in **Pages**, change its text on the **Content** tab and its settings on the other tabs, then **Save**. Text is written in Markdown, such as `**bold**`, `## Heading` and `- list item`.
+**How editing works** – open a page in [**Pages**](admin:/pages), change its text on the **Content** tab and its settings on the other tabs, then **Save**. Text is written in Markdown, such as `**bold**`, `## Heading` and `- list item`.
 
 **How the home page works** – **Guides** shows a card for each published guide; with just one, the logo goes straight to that guide.
 
@@ -28,7 +28,7 @@ Welcome to your Open Publishing Space. It comes with an example guide, Open Educ
 
 ## Remove What You Don't Need
 
-- **Standard Page or the Blog** – delete it, or turn on **Hide from Menu** on its **Advanced** tab
-- **The switched-off examples** (Sample Guide, modular and Multi-Section pages) – keep them as references, or delete them
+- **[Standard Page](admin:/pages/edit/standardpage) or the [Blog](admin:/pages/edit/blog)** – delete it, or turn on **Hide from Menu** on its **Advanced** tab
+- **The switched-off examples** (Sample Guide, [modular](admin:/pages/edit/modular-page) and [Multi-Section](admin:/pages/edit/multi-section-page) pages) – keep them as references, or delete them
 
 For every setting and more how-tos, see the [Open Publishing Space README](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space#readme) on GitHub.
