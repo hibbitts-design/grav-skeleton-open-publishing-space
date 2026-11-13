@@ -127,6 +127,10 @@ git:
         url: https://github.com/tucho235/grav-plugin-copy-as-markdown-button
         path: user/plugins/copy-as-markdown-button
         branch: main
+    admin2-site-readme:
+        url: https://github.com/hibbitts-design/grav-plugin-admin2-site-readme
+        path: user/plugins/admin2-site-readme
+        branch: main
     quark2:
         url: https://github.com/getgrav/grav-theme-quark2
         path: user/themes/quark2

@@ -4,6 +4,8 @@ accounts/*
 config/security.yaml
 data/*
 !data/.*
+# the Getting Started page in Admin 2 (Admin2 Site ReadMe plugin)
+!data/site-readme.md
 plugins/*
 !plugins/.*
 !customadmin

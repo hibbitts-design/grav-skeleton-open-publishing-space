@@ -1,0 +1,9 @@
+enabled: true
+markdown_url: 'user://data/site-readme.md'
+page_title: 'Getting Started'
+hide_title: true
+contents_levels: 2
+sidebar_label: 'Getting Started'
+sidebar_icon: fa-book-open
+sidebar_priority: 5
+cache_minutes: 60

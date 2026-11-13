@@ -72,7 +72,7 @@ Open Publishing Space is best suited for writers and educators comfortable with 
 
 ## Site Setup
 
-Everything below is done in the Admin Panel, or by editing the files in `user/pages` if you prefer. Folder names such as `01.open-education-essentials` start with a number that sets their order in the menu.
+In the Grav 2 package, **Getting Started** (in the Admin 2 sidebar) has the first steps, from making the example guide your own to removing what you don't need – edit it in `user/data/site-readme.md`. Everything below is done in the Admin Panel, or by editing the files in `user/pages` if you prefer. Folder names such as `01.open-education-essentials` start with a number that sets their order in the menu.
 
 ### Site Name and Home Page
 
@@ -110,6 +110,11 @@ Two unpublished examples show a site with several guides, as in the [multi-guide
 3. Turn on **Hide from Menu** (on the **Advanced** tab) on each guide's home page, to leave the guides out of the menu (`visible: false` would leave a guide off the Guides page too)
 
 A guide gets a card when it's a top-level, published and visible Section List page. To take a guide offline, move its folder out of `user/pages`: unpublishing its home page leaves it off the Guides page and out of search, but its pages can still be opened from their addresses.
+
+### Removing the Examples
+
+- **Standard Page or the Blog** – delete it, or turn on **Hide from Menu** on its **Advanced** tab
+- **The unpublished examples** (Guides, Sample Guide, and the modular and Multi-Section pages) – keep them as references, or delete their folders
 
 ### Give a Guide Its Own Address
 
