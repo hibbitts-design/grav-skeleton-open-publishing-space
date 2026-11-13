@@ -4,14 +4,17 @@ Welcome to your Open Publishing Space. It comes with an example guide, Open Educ
 
 **How editing works** – open a page in **Pages**, change its text on the **Content** tab and its settings on the other tabs, then **Save**. Text is written in Markdown, such as `**bold**`, `## Heading` and `- list item`.
 
+**How the home page works** – **Guides** shows a card for each published guide; with just one, the logo goes straight to that guide.
+
 ## Start with Your Site
 
-1. **Name** your site – set **Site Title** in **Configuration → Site**
-2. **Add** your logo and colour – set **Custom Logo** and **Accent Color** in **Themes → My Theme**
+1. **Name** your site – set **Site Title** in [**Configuration → Site**](admin:/config/site)
+2. **Add** your logo and colour – set **Custom Logo** and **Accent Color** in [**Themes → My Theme**](admin:/themes/mytheme)
+3. **Change** the welcome text on the [**Guides**](admin:/pages/edit/guides) page
 
 ## Make the Guide Your Own
 
-1. **Open** the Open Education Essentials guide in **Pages**
+1. **Open** the [Open Education Essentials](admin:/pages/edit/open-education-essentials) guide in **Pages**
 2. **Rename** it with **Guide Title**, and set its **Subtitle** and **Author(s)** on its **Details** tab
 3. **Add** a cover – upload a picture under **Page Media**, then choose it as **Cover Image** on **Details**
 4. **Pick** a **Guide Color**, also on **Details**, for a light tint behind the header on all its pages
@@ -20,8 +23,8 @@ Welcome to your Open Publishing Space. It comes with an example guide, Open Educ
 
 ## Add Another Guide
 
-- **Copy a guide** – use **Copy page**, or turn on **Published** for the **Sample Guide**, which is switched off
-- **Give it a card** – the home page, **Guides**, shows a card for each guide; turn on **Hide from Menu** on a new guide's **Advanced** tab to leave it out of the menu
+- **Copy a guide** – use **Copy page**, or turn on **Published** for the [**Sample Guide**](admin:/pages/edit/sample-guide), which is switched off
+- **Keep it out of the menu** – turn on **Hide from Menu** on a new guide's **Advanced** tab, so it has just its card on **Guides**
 
 ## Remove What You Don't Need
 
