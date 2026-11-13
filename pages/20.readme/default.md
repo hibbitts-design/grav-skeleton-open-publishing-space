@@ -23,7 +23,7 @@ On Grav 2.1 and newer, the "This page as Markdown (.md)" link below a page's con
 
 ## More Than One Guide
 
-To see a site with more than one guide, publish the example **Guides** page and **Sample Guide** (set their 'Published' option to 'Yes' in the [Admin Pages panel](../../admin/pages)). The Guides page shows a card for each guide on the site – see the [multi-guide demo](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-guides/). To use it as the home page, as in Grav Helios Open Reader, set **Home Page** to `/guides` in **Configuration → System**, and turn on **Hide from Menu** (on the **Advanced** tab) on each guide's home page to leave the guides out of the menu.
+The home page, **Guides**, shows a card for each guide on the site, as in Grav Helios Open Reader – see the [multi-guide demo](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-guides/). With just one guide, the logo goes straight to it. To see a second guide, publish the example **Sample Guide** (set its 'Published' option to 'Yes' in the [Admin Pages panel](../../admin/pages)). Each guide has **Hide from Menu** turned on (on the **Advanced** tab of its home page), so it has a card instead of a menu item.
 
 To take a guide offline, move its folder out of `user/pages`. Unpublishing its home page leaves it off the Guides page and out of search, but its pages can still be opened from their addresses, as Grav doesn't unpublish the pages inside an unpublished page.
 

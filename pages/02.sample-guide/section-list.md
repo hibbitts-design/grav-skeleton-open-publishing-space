@@ -19,6 +19,7 @@ published: false
 child_type: section
 show_search_box: true
 keep_my_place: true
+hide_from_menu: true
 ---
 
 A starting point for your own guide: two sections with two pages each, and a few of the features guides use. Replace the text on each page with your own, or copy this guide to start another.

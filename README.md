@@ -77,7 +77,7 @@ In the Grav 2 package, **Getting Started** (in the Admin 2 sidebar) has the firs
 ### Site Name and Home Page
 
 1. Open **Configuration → Site** and set **Site Title** and **Description**
-2. The Open Education Essentials guide is the homepage; to use another page (such as the Blog), change **Home Page** in **Configuration → System**
+2. The Guides page is the homepage, with a card for each guide – with just one guide, the logo goes straight to it; to use another page (such as the guide or the Blog), change **Home Page** in **Configuration → System**
 
 ### Guides
 
@@ -103,18 +103,16 @@ For more, see the [Quark Open Publishing README](https://github.com/hibbitts-des
 
 ### More Than One Guide
 
-Two unpublished examples show a site with several guides, as in the [multi-guide demo](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-guides/): **Guides** (`00.guides`), a Guides List page with a card for each guide (the same page type as Grav Helios Open Reader's readers list), and **Sample Guide** (`02.sample-guide`), a second guide to start your own from, with writing prompts on each page.
+The homepage, **Guides** (`00.guides`), is a Guides List page with a card for each guide (the same page type as Grav Helios Open Reader's readers list), as in the [multi-guide demo](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-guides/). The **Sample Guide** (`02.sample-guide`) is a second guide to start your own from, with writing prompts on each page – turn on **Published** to add its card.
 
-1. Publish both
-2. To make the Guides page the homepage, as in Open Reader, change **Home Page** in **Configuration → System** to `/guides`
-3. Turn on **Hide from Menu** (on the **Advanced** tab) on each guide's home page, to leave the guides out of the menu (`visible: false` would leave a guide off the Guides page too)
+Each guide has **Hide from Menu** turned on (on the **Advanced** tab of its home page), so it has a card instead of a menu item – turn it on for each new guide too (`visible: false` would leave a guide off the Guides page).
 
 A guide gets a card when it's a top-level, published and visible Section List page. To take a guide offline, move its folder out of `user/pages`: unpublishing its home page leaves it off the Guides page and out of search, but its pages can still be opened from their addresses.
 
 ### Removing the Examples
 
 - **Standard Page or the Blog** – delete it, or turn on **Hide from Menu** on its **Advanced** tab
-- **The unpublished examples** (Guides, Sample Guide, and the modular and Multi-Section pages) – keep them as references, or delete their folders
+- **The unpublished examples** (Sample Guide, and the modular and Multi-Section pages) – keep them as references, or delete their folders
 
 ### Give a Guide Its Own Address
 
@@ -194,8 +192,8 @@ A Pressbooks book can become a guide here. The free [Pressbooks Converter](https
 1. Convert the book's export with the Pressbooks Converter, choosing **Grav Open Publishing Space** as the destination, and download the converted publication
 2. Copy the book's folder into `user/pages`. The converter numbers it `10.` (for example `10.universal-design-for-2026`), so it appears after the guides in the menu, before the blog, and a long title gets a shorter menu label (the `menu` setting on the book's page)
 3. Then choose how the site shows it:
-   - **The book as the only guide** – delete `01.open-education-essentials`, rename the book's folder to `01.` to make it the first menu item, and change the **Home Page** setting in **Configuration → System** to the book
-   - **The book alongside other guides** – publish the **Guides** page, change the **Home Page** setting to `/guides`, and turn on **Hide from Menu** (on the **Advanced** tab) on each guide's home page, so each guide has a card on the Guides page instead of a menu item
+   - **The book as the only guide** – delete `01.open-education-essentials`, so the book has the only card on the Guides page and the logo goes straight to it (or change the **Home Page** setting in **Configuration → System** to the book, to open on it)
+   - **The book alongside other guides** – turn on **Hide from Menu** (on the **Advanced** tab) on the book's home page, so it has a card on the Guides page instead of a menu item
 
 On the guide's home page, consider:
 

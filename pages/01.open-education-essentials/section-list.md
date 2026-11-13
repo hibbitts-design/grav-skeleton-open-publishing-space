@@ -15,6 +15,7 @@ license: 'CC BY 4.0'
 license_url: 'https://creativecommons.org/licenses/by/4.0/'
 attribution_text: 'This work by <a href="#">Your Name</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.'
 published: true
+hide_from_menu: true
 hide_page_title: false
 child_type: section
 hide_git_sync_repo_link: false
@@ -27,8 +28,6 @@ side_box: |
     It's licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) – copy it, adapt it and share it, with credit.
 hide_next_prev_page_buttons: false
 ---
-
-This site is built with **Grav Open Publishing Space**, made possible by the free [Quark 2 Open Publishing](https://github.com/hibbitts-design/grav-theme-quark2-open-publishing) theme ([Quark Open Publishing](https://github.com/hibbitts-design/grav-theme-quark-open-publishing) on Grav 1.7) and powered by [Grav CMS](https://getgrav.org), the open-source platform it's built on.
 
 Here's an example guide to explore and build on: **Open Education Essentials** – a short, practical guide to understanding and applying open education principles in your teaching practice.
 

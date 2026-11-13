@@ -1,12 +1,9 @@
 ---
 title: Guides
-subtitle: 'Open guides on this site'
+visible: false
 cards_per_row: 2
-published: false
 ---
 
-All of the guides on this site, each with its own home page.
+This site is built with **Open Publishing Space** – an open home on the web for one guide or many, each with its own sections, cover and colour, written in plain Markdown files you control.
 
-===
-
-A card is shown for each guide that is published and visible. This page can also be the site's home page (**Home Page** in **Configuration → System**), with each guide's **Hide from Menu** setting (on its **Advanced** tab) keeping the guides out of the menu.
+Here's an example guide to explore and build on: **Open Education Essentials**. A Sample Guide, ready for your own writing, is switched off; turn on **Published** to see it.

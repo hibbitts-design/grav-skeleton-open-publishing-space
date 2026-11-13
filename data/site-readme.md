@@ -21,11 +21,11 @@ Welcome to your Open Publishing Space. It comes with an example guide, Open Educ
 ## Add Another Guide
 
 - **Copy a guide** – use **Copy page**, or turn on **Published** for the **Sample Guide**, which is switched off
-- **List your guides** – turn on the **Guides** page (also switched off) for a card for each guide
+- **Give it a card** – the home page, **Guides**, shows a card for each guide; turn on **Hide from Menu** on a new guide's **Advanced** tab to leave it out of the menu
 
 ## Remove What You Don't Need
 
 - **Standard Page or the Blog** – delete it, or turn on **Hide from Menu** on its **Advanced** tab
-- **The switched-off examples** (Guides page, Sample Guide, modular and Multi-Section pages) – keep them as references, or delete them
+- **The switched-off examples** (Sample Guide, modular and Multi-Section pages) – keep them as references, or delete them
 
 For every setting and more how-tos, see the [Open Publishing Space README](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space#readme) on GitHub.
