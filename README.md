@@ -77,7 +77,7 @@ In the Grav 2 package, **Getting Started** (in the Admin 2 sidebar) has the firs
 ### Site Name and Home Page
 
 1. Open **Configuration → Site** and set **Site Title** and **Description**
-2. The Guides page is the homepage, with a card for each guide – with just one guide, the logo goes straight to it (Grav 2); to use another page (such as the guide or the Blog), change **Home Page** in **Configuration → System**
+2. The Guides page is the homepage, with a card for each guide – with just one guide, the logo goes straight to it (Grav 2; to keep it on the Guides page, set **Single Guide or Course Logo Link** to Site Home Page in **Themes → My Theme**); to use another page (such as the guide or the Blog), change **Home Page** in **Configuration → System**
 
 ### Guides
 
