@@ -6,6 +6,7 @@
     * New screenshot.jpg, showing the example guide's home page as it looks now
     * README: which features load from other sites (Font Awesome from cdnjs in the Grav 2 version, Embedly cards)
     * README: new screenshots in Quark 2's look, in light and dark mode
+    * README: tagline matches Open Course Space's ("An open home for one guide or many…")
 
 # v2.6.11
 ## 11/16/2026
