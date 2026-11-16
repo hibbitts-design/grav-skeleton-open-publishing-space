@@ -1,3 +1,9 @@
+# v2.6.11
+## 11/16/2026
+
+1. [](#improved)
+    * Named Open Publishing Space (was Open Publishing Space 2), to match its twin, Open Course Space – addresses and settings are unchanged
+
 # v2.6.10
 ## 11/16/2026
 
