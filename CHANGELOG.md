@@ -1,3 +1,9 @@
+# v2.6.12
+## XX/XX/2026
+
+1. [](#improved)
+    * Description (as shown on getgrav.org) names its twin, Open Course Space, in matching wording
+
 # v2.6.11
 ## 11/16/2026
 
