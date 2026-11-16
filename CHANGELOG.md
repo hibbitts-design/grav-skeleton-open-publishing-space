@@ -1,9 +1,11 @@
 # v2.6.12
-## XX/XX/2026
+## 11/16/2026
 
 1. [](#improved)
     * Description (as shown on getgrav.org) names its twin, Open Course Space, in matching wording
     * New screenshot.jpg, showing the example guide's home page as it looks now
+    * README: which features load from other sites (Font Awesome from cdnjs in the Grav 2 version, Embedly cards)
+    * README: new screenshots in Quark 2's look, in light and dark mode
 
 # v2.6.11
 ## 11/16/2026

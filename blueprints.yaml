@@ -1,5 +1,5 @@
 name: Open Publishing Space
-version: 2.6.11
+version: 2.6.12
 description: "Open Publishing Space gives one guide or many an open home on the web – the twin of Open Course Space – with a blog and almost any other Grav page alongside, all in Markdown. Uses a customized version of the Quark 2 theme (Quark in the Grav 1.7 version), and includes an example open education guide, plus the Admin Panel and Git Sync plugins."
 icon: git
 author:
