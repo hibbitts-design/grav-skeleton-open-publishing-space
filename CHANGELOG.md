@@ -3,6 +3,7 @@
 
 1. [](#improved)
     * Description (as shown on getgrav.org) names its twin, Open Course Space, in matching wording
+    * New screenshot.jpg, showing the example guide's home page as it looks now
 
 # v2.6.11
 ## 11/16/2026
