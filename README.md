@@ -189,7 +189,7 @@ Search uses the SimpleSearch plugin, from the blog sidebar, the Search page, and
 
 ## Importing a Pressbooks Book
 
-A Pressbooks book can become a guide here. The free [Pressbooks Converter](https://pressbooks-converter.hibbittsdesign.org/) turns a Pressbooks export into a publication that works as a guide in Open Publishing Space:
+A Pressbooks book can become a guide here. The free [Pressbooks Converter](https://grav-pressbooks-converter.hibbittsdesign.org/) turns a Pressbooks export into a publication that works as a guide in Open Publishing Space:
 
 1. Convert the book's export with the Pressbooks Converter, choosing **Grav Open Publishing Space** as the destination, and download the converted publication
 2. Copy the book's folder into `user/pages`. The converter numbers it `10.` (for example `10.universal-design-for-2026`), so it appears after the guides in the menu, before the blog, and a long title gets a shorter menu label (the `menu` setting on the book's page)
